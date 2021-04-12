@@ -19,14 +19,16 @@ SENTENCE VECTORS
 import pandas as pd
 import numpy as np
 import nltk
-nltk.download('punkt')
-
-import nltk
 import ssl
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from nltk.tokenize import word_tokenize
+from text_cleaning import clean_argument_list
 
-def create_model(clean_arguments_list):
+def create_model(arguments_list):
+
+    print('Removing stopwords etc...')
+    clean_arguments_list = clean_argument_list(arguments_list)
+    print('Finished')
     tagged_data = [TaggedDocument(words=word_tokenize(d), tags=[str(i)]) for i, d in enumerate(clean_arguments_list)]
 
     max_epochs = 100

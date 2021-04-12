@@ -10,14 +10,12 @@ f.close()
 
 # Create list of all arguments...
 arguments_list = argument_list(arguments)
-# Create clean list aswell...
-clean_arguments_list = clean_argument_list(arguments)
 
 # Check if model already been trained, otherwise train Doc2Vec model.
 if os.path.isfile('Compare_d2v.model'):
     model = gensim.models.Doc2Vec.load('Compare_d2v.model')
 else:
-    create_model(clean_arguments_list)
+    create_model(arguments)
     model = gensim.models.Doc2Vec.load('Compare_d2v.model')
 
 
@@ -25,7 +23,6 @@ else:
 print('BOT: As a bot I am a terrible debater and always agree')
 
 exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
-
 
 while(True):
     user_input = input()

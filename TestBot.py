@@ -81,26 +81,27 @@ def counter_argument(input_argument, clean_arguments_list, arguments_list):
     clean_arguments_list.remove(input_argument)
     return argument_response
 
-# Import all arguments
-f = open('trolley.txt', 'r')
-arguments = f.read()
-f.close()
+if __name__ == "__main__"
+    # Import all arguments
+    f = open('trolley.txt', 'r')
+    arguments = f.read()
+    f.close()
 
-arguments_list = argument_list(arguments)
-clean_arguments_list = clean_argument_list(arguments)
+    arguments_list = argument_list(arguments)
+    clean_arguments_list = clean_argument_list(arguments)
 
-# Start the chat...
+    # Start the chat...
 
-print('BOT: As a bot I am a terrible debater and always agree')
+    print('BOT: As a bot I am a terrible debater and always agree')
 
-exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
+    exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
 
 
-while(True):
-    user_input = input()
-    user_input = user_input.lower()
-    if user_input in exit_words:
-        print('BOT: Good talk')
-        break
-    else:
-        print('BOT: '+counter_argument(user_input, clean_arguments_list, arguments_list))
+    while(True):
+        user_input = input()
+        user_input = user_input.lower()
+        if user_input in exit_words:
+            print('BOT: Good talk')
+            break
+        else:
+            print('BOT: '+counter_argument(user_input, clean_arguments_list, arguments_list))

@@ -25,41 +25,8 @@ import nltk
 import ssl
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from nltk.tokenize import word_tokenize
-import re
-# Defining functions used later on...
-# Create clean list of arguments
-def argument_list(text_file):
-    # Imported text-file sometimes splits long arguments to multiple lines...
-    arguments_list = text_file.splitlines()
-    for i, line in enumerate(arguments_list):
-        arguments_list[i] = re.sub('http://\S+|https://\S+', '.', line)
-        arguments_list[i] = re.sub("[^a-zA-Z '.,:;/]+", '', arguments_list[i])
-        arguments_list[i] = re.sub(r'^.*?:', '', arguments_list[i])
-        arguments_list[i] = re.sub(' +', ' ', arguments_list[i])
 
-    return arguments_list
-
-def clean_argument_list(text_file):
-    # Imported text-file sometimes splits long arguments to multiple lines...
-    arguments_list = text_file.splitlines()
-    for i, line in enumerate(arguments_list):
-        arguments_list[i] = re.sub('http://\S+|https://\S+', '.', line)
-        arguments_list[i] = re.sub("[^a-zA-Z ':;/]+", '', arguments_list[i])
-        arguments_list[i] = re.sub(r'^.*?:', '', arguments_list[i])
-        arguments_list[i] = re.sub(' +', ' ', arguments_list[i])
-        arguments_list[i] = arguments_list[i].lower()
-
-    return arguments_list
-
-if __name__ == '__main__':
-    # Import all arguments
-    f = open('trolley.txt', 'r', encoding='UTF-8')
-    arguments = f.read()
-    f.close()
-
-    arguments_list = argument_list(arguments)
-    clean_arguments_list = clean_argument_list(arguments)
-
+def create_model(clean_arguments_list):
     tagged_data = [TaggedDocument(words=word_tokenize(d), tags=[str(i)]) for i, d in enumerate(clean_arguments_list)]
 
     max_epochs = 100

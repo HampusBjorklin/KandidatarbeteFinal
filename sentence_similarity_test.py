@@ -12,4 +12,4 @@ arguments = f.read()
 f.close()
 
 arguments_list = argument_list(arguments)
-print(arguments_list[225])
+print(arguments_list[204])

@@ -164,3 +164,4 @@ __pycache__
 *.avi
 *.raw
 *.pdf
+*.model

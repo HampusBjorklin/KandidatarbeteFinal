@@ -1,4 +1,5 @@
 import os.path
+import gensim
 from text_cleaning import argument_list, clean_argument_list
 from create_model_test import create_model
 from bot_response import counter_argument
@@ -14,10 +15,10 @@ clean_arguments_list = clean_argument_list(arguments)
 
 # Check if model already been trained, otherwise train Doc2Vec model.
 if os.path.isfile('Compare_d2v.model'):
-    print("File exist")
+    model = gensim.models.Doc2Vec.load('Compare_d2v.model')
 else:
     create_model(clean_arguments_list)
-    print('File created')
+    model = gensim.models.Doc2Vec.load('Compare_d2v.model')
 
 
 # Start bot conversation...
@@ -33,4 +34,4 @@ while(True):
         print('BOT: Good talk')
         break
     else:
-        print('BOT: '+ counter_argument())
+        print('BOT: '+ counter_argument(model,user_input,arguments_list))

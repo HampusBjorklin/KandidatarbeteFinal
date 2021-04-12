@@ -19,6 +19,7 @@ SENTENCE VECTORS
 import pandas as pd
 import numpy as np
 import nltk
+nltk.download('punkt')
 
 import nltk
 import ssl
@@ -52,7 +53,7 @@ def clean_argument_list(text_file):
 
 if __name__ == '__main__':
     # Import all arguments
-    f = open('trolley.txt', 'r')
+    f = open('trolley.txt', 'r', encoding='UTF-8')
     arguments = f.read()
     f.close()
 

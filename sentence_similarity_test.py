@@ -7,7 +7,7 @@ new_sentence = 'The worth of a life is subjective'.split(' ')
 print(model.dv.most_similar(positive=[model.infer_vector(new_sentence)], topn=5))
 
 # Import all arguments
-f = open('trolley.txt', 'r')
+f = open('trolley.txt', 'r', encoding='UTF-8')
 arguments = f.read()
 f.close()
 

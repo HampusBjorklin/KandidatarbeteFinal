@@ -2,6 +2,7 @@ from sentence_transformers import SentenceTransformer
 import re
 import pandas as pd
 import numpy as np
+import os.path
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 
@@ -16,38 +17,34 @@ def argument_list(text_file):
 
     return arguments_list
 
-def most_similar(doc_id,similarity_matrix,matrix):
-    print (f'Document: {documents_df.iloc[doc_id]["arguments"]}')
-    print ('\n')
-    print ('Similar Documents:')
-    if matrix=='Cosine Similarity':
-        similar_ix=np.argsort(similarity_matrix[doc_id])[::-1]
-    elif matrix=='Euclidean Distance':
-        similar_ix=np.argsort(similarity_matrix[doc_id])
-    for ix in similar_ix:
-        if ix==doc_id:
-            continue
-        print('\n')
-        print (f'Document: {documents_df.iloc[ix]["arguments"]}')
-        print (f'{matrix} : {similarity_matrix[doc_id][ix]}')
-
-
 # Import all arguments from trolley problem text-file...
 f = open('trolley.txt', 'r', encoding='UTF-8')
 arguments = f.read()
 f.close()
 
-# Create list of all arguments...
-arguments_list = argument_list(arguments)
+if os.path.isfile('embeddings_df.pkl'):
+    sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
+    documents_df = pd.read_pickle('embeddings_df.pkl')
+    document_embeddings = np.array(documents_df['embeddings'].to_list())
 
-documents_df=pd.DataFrame(arguments_list,columns=['arguments'])
-print(documents_df)
+else:
+    arguments_list = argument_list(arguments)
+    documents_df=pd.DataFrame(arguments_list,columns=['arguments'])
+    sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
+    document_embeddings = sbert_model.encode(documents_df['arguments'])
+    print(document_embeddings)
+    print(type(document_embeddings))
+    document_embeddings_list = document_embeddings.tolist()
+    documents_df['embeddings'] = document_embeddings_list
+    documents_df.to_pickle('embeddings_df.pkl')
 
-sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
 
-document_embeddings = sbert_model.encode(documents_df['arguments'])
+test_input = 'Less pain is felt by a fast death'
+test_embedding = (sbert_model.encode(test_input))
+test_embedding2 = document_embeddings[:1]
+sim = cosine_similarity(document_embeddings, np.transpose(test_embedding.reshape(-1,1)))
+documents_df['input_similarity'] = np.concatenate(sim).tolist()
+maxid = documents_df['input_similarity'].idxmax()
+print(documents_df.iloc[maxid])
+print(documents_df.iloc[maxid]['arguments'])
 
-pairwise_similarities = cosine_similarity(document_embeddings)
-parwise_differences = euclidean_distances(document_embeddings)
-
-most_similar(0, pairwise_similarities, 'Cosine Similarity')

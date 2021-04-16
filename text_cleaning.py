@@ -29,3 +29,12 @@ def clean_argument_list(text_file):
         if i%100 == 0:
             print(i)
     return arguments_list
+
+
+def clean_string(txt):
+    clean_string = txt
+    clean_string = re.sub('http://\S+|https://\S+', '', clean_string)
+    clean_string = re.sub(r'^.*?:', '', clean_string)
+    clean_string = re.sub("[^a-zA-Z '.,:;/]+", '', clean_string)
+    clean_string = re.sub(' +', ' ', clean_string)
+    return clean_string

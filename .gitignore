@@ -165,3 +165,5 @@ __pycache__
 *.raw
 *.pdf
 *.model
+*.json
+*.pkl

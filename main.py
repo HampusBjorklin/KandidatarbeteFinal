@@ -1,23 +1,24 @@
 import os.path
 import gensim
-from text_cleaning import argument_list, clean_argument_list
-from create_model_test import create_model
+import pandas as pd
+from text_cleaning import argument_list
+from Skräp.create_model_test import create_model
+from counterargument_db import create_dataframe
+from bert_encoding import bert_encoding
 from bot_response import counter_argument
-# Import all arguments from trolley problem text-file...
-f = open('trolley.txt', 'r', encoding='UTF-8')
-arguments = f.read()
-f.close()
 
-# Create list of all arguments...
-arguments_list = argument_list(arguments)
-
-# Check if model already been trained, otherwise train Doc2Vec model.
-if os.path.isfile('Compare_d2v.model'):
-    model = gensim.models.Doc2Vec.load('Compare_d2v.model')
+# Check if database with claims and counterarguments and bert embeddings already been created, otherwise create.
+if os.path.isfile('embeddings_df.pkl'):
+    dataframe = pd.read_pickle('embeddings_df.pkl')
 else:
-    create_model(arguments)
-    model = gensim.models.Doc2Vec.load('Compare_d2v.model')
+    if os.path.isfile('Pickles/Trolley.pkl'):
+        dataframe = pd.read_pickle('Pickles/trolley.pkl')
+    else:
+        create_dataframe()
+        dataframe = pd.read_pickle('Pickles/trolley.pkl')
 
+    bert_encoding(dataframe)
+    embeddings = pd.read_pickle('embeddings_df.pkl')
 
 # Start bot conversation...
 print('BOT: As a bot I am a terrible debater and always agree')
@@ -31,4 +32,4 @@ while(True):
         print('BOT: Good talk')
         break
     else:
-        print('BOT: '+ counter_argument(model,user_input,arguments_list))
+        print('BOT: '+ counter_argument(user_input, dataframe))

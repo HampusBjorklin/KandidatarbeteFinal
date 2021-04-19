@@ -45,7 +45,7 @@ def get_tweets_for_model(cleaned_tokens_list):
 
 
 def get_pros_cons():
-    input_file = 'trolley_all.txt'
+    input_file = 'TextFiles/text_files/trolley.txt'
 
     with open(input_file, 'r', encoding='UTF-8') as file:
         lines = []

@@ -22,6 +22,7 @@ def main():
         bert_encoding(dataframe)
         embeddings = pd.read_pickle('embeddings_df.pkl')
 
+    dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
 
@@ -34,7 +35,7 @@ def main():
             print('BOT: Good talk')
             break
         else:
-            print('BOT: '+ counter_argument(user_input, dataframe))
+            print('BOT: '+ counter_argument(user_input, dataframe2))
 
 
 if __name__ == '__main__':

@@ -24,12 +24,12 @@ def create_dataframe():
         output_path = "TextFiles/prepared_text_files/"
         output_text = output_path + output_name
         # Load input
-        text = open(input_text, "r")
+        text = open(input_text, "r", encoding='UTF-8')
         lines = text.readlines()
         text.close()
 
         # Create output.txt
-        newfile = open(output_text, 'w')
+        newfile = open(output_text, 'w', encoding='UTF-8')
 
         #Clean up
         for i, line in enumerate(lines):

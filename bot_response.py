@@ -10,6 +10,7 @@ from sentence_transformers import SentenceTransformer
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 
+
 def counter_argument(input, dataframe):
     # TODO, make bot smarter...
 
@@ -21,7 +22,7 @@ def counter_argument(input, dataframe):
     bert_sim = cosine_similarity(claim_embeddings, np.transpose(input_embedding.reshape(-1, 1)))
     dataframe['input_bert_similarity'] = np.concatenate(bert_sim).tolist()
 
-    #Find index of argument most similar to input...
+    # Find index of argument most similar to input...
     maxid = dataframe['input_bert_similarity'].idxmax()
 
 
@@ -35,5 +36,8 @@ def counter_argument(input, dataframe):
     dataframe['input_sentiment_distance'] = np.concatenate(sentiment_sim).tolist()
     print(dataframe.iloc[maxid])
 
-    #Return its argument...
-    return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+    # Return its argument...
+    if dataframe.iloc[maxid]['con_arguments'] == "":
+        return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+    else:
+        return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])

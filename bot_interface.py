@@ -4,20 +4,14 @@ import tkinter as tk
 class BotInterface(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)
-        self.entry_frame = tk.Frame()
-        self.entry_frame.pack(fill=tk.X, expand=True)
-
-        self.console_entry_frame = tk.Frame()
-        self.console_entry_frame.pack(fill=tk.X, side=tk.BOTTOM, expand=True)
-
-        self.entry_label = tk.Label(self.entry_frame, text="Name of file to load:")
-        self.entry_filename = tk.Entry(self.entry_frame, text="trolley")
-        self.entry_load = tk.Button(self.entry_frame, text="Load file", command=self.load_file)
+        self.entry_label = tk.Label(text="Name of file to load:")
+        self.entry_filename = tk.Entry(text="trolley")
+        self.entry_load = tk.Button(text="Load file", command=self.load_file)
 
         # lay the widgets out on the screen.
-        self.entry_label.pack(side=tk.LEFT, expand=True)
-        self.entry_filename.pack(side=tk.LEFT, expand=True)
-        self.entry_load.pack(side=tk.LEFT, expand=True)
+        self.entry_label.place(relx=0, rely=0.025)
+        self.entry_filename.place(relx=0.4, rely=0.025)
+        self.entry_load.place(relx=0.8, rely=0.025)
 
         self.load_config()
 
@@ -29,32 +23,32 @@ class BotInterface(tk.Frame):
                                 padx=5,
                                 pady=5)
 
-        self.textCons.pack(fill=tk.X)
-        self.labelBottom = tk.Label(self.console_entry_frame,
+        self.textCons.place(relwidth=1, relheight=0.73, rely=0.1)
+        self.labelBottom = tk.Label(
                                     bg="#ABB2B9",
-                                    height=80)
+                                    height=10)
 
         self.labelBottom.place(relwidth=1,
                                rely=0.825)
 
-        self.entryMsg = tk.Entry(self.console_entry_frame,
+        self.entryMsg = tk.Entry(
                                  bg="#2C3E50",
                                  fg="#EAECEE",
                                  font="Helvetica 13")
 
         # place the given widget
         # into the gui window
-        self.entryMsg.pack(side=tk.LEFT)
+        self.entryMsg.place(relwidth=0.8, relx=0.025, rely=0.9)
 
         # create a Send Button
-        self.buttonMsg = tk.Button(self.console_entry_frame,
+        self.buttonMsg = tk.Button(
                                    text="Send",
                                    font="Helvetica 10 bold",
                                    width=20,
                                    bg="#ABB2B9",
-                                   command= self.enter_row)
+                                   command=self.enter_row)
 
-        self.buttonMsg.pack(side=tk.LEFT)
+        self.buttonMsg.place(relwidth=0.1,  relx=0.865, rely=0.9)
         self.textCons.config(cursor="arrow")
 
         # create a scroll bar
@@ -87,6 +81,7 @@ class BotInterface(tk.Frame):
 
     def enter_row(self):
         message = self.entryMsg
+
 
 # if this is run as a program (versus being imported),
 # create a root window and an instance of our example,

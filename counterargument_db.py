@@ -6,6 +6,7 @@ from os import listdir
 from os.path import isfile, join
 from text_cleaning import clean_string
 
+
 # Read .txt and save as pickled dataframe...
 # Get list of all files in directory
 def create_dataframe():
@@ -16,8 +17,7 @@ def create_dataframe():
         '''PREPARE TEXTFILE BY REMOVING WHITESPACE, LINEBREAK IN CLAIMS ETC'''
         # Choose input .txt file...
         input_path = "TextFiles/text_files/"
-        input_text = input_path+input_name
-
+        input_text = input_path + input_name
 
         # Chose output.txt filename, path...
         output_name = input_name[:-4] + '_prep.txt'
@@ -31,7 +31,7 @@ def create_dataframe():
         # Create output.txt
         newfile = open(output_text, 'w', encoding='UTF-8')
 
-        #Clean up
+        # Clean up
         for i, line in enumerate(lines):
             lines[i] = line
             if line == "" or line == '\n':
@@ -39,7 +39,7 @@ def create_dataframe():
 
         for i, line in enumerate(lines):
             if line[0] != '1':
-                lines[i-1] = (lines[i-1]+ ", " + line).replace('\n','')
+                lines[i - 1] = (lines[i - 1] + ", " + line).replace('\n', '')
                 lines.pop(i)
 
         for i, line in enumerate(lines):
@@ -54,18 +54,9 @@ def create_dataframe():
         newfile.close()
 
         """RUN THE KIALO-PARSER"""
-        #
-        #if len(sys.argv) < 3:
-        #    print "Not enough arguments. Aborting..."
-        #    sys.exit()
-        #
-        #elif len(sys.argv) > 3:
-        #    print "Too many arguments. Aborting..."
-        #    sys.exit()
-
         input_file_json = output_text
         output_path = 'jsonFiles/original_json_files/'
-        output_file_json = output_path + input_name[:-4]+'.json'
+        output_file_json = output_path + input_name[:-4] + '.json'
 
         with open(input_file_json, 'r', encoding='UTF-8') as fi:
             lines = []
@@ -74,23 +65,13 @@ def create_dataframe():
 
             # list containing each parsed comment
             result = []
-
-            # # TO-DO: use discussion title as first entry
-            # title = re.search(r"(Discussion Title: )(.*)", lines[0])
-            # result.append({
-            #     "Title": title.group(2)
-            # })
-
-            # we remove the first two lines of the text
-            # as we don't need the header
-
             ##                                            ##
             ##                 REGEDITS                   ##
             ##                                            ##
             # iterate every row in the text file
             for line in lines:
                 try:
-                    #if line[0].isnumeric() is not True:
+                    # if line[0].isnumeric() is not True:
                     #    continue
 
                     # find the tree position the comment is in
@@ -106,7 +87,7 @@ def create_dataframe():
                         "Tree": tree.group(),
                         "Stance": stance.group(1),
                         "ToneInput": content.group(3)
-                        })
+                    })
                 except:
                     continue
 
@@ -116,19 +97,18 @@ def create_dataframe():
             # print to_write
             fo.write(to_write)
             output_message = "Operation completed. Wrote " + str(len(result)) + " entries in " + str(output_file_json)
-            print
+            print("")
             print("=" * len(output_message))
             print(output_message)
             print("=" * len(output_message))
-            print
-
+            print("")
 
         '''PREPARE THE JSON FILE, PUT ALL OBJECTS ON SINGLE LINES ETC'''
 
         # Load input file, define output file name...
         input_json = output_file_json
         output_path = "jsonFiles/prepared_json_files/"
-        output_json_prep = output_path + input_name[:-4]+'_prep.json'
+        output_json_prep = output_path + input_name[:-4] + '_prep.json'
         json_file = open(input_json, "r")
 
         # Clean up...
@@ -143,7 +123,7 @@ def create_dataframe():
         for line in lines:
             line = line.strip()
             if line[0] != '}':
-                temp = temp + line.replace('\n','')
+                temp = temp + line.replace('\n', '')
 
             else:
                 newfile.write(temp + '}\n')
@@ -155,7 +135,7 @@ def create_dataframe():
         input_json = output_json_prep
 
         output_path = "Pickles/"
-        output_pickle = output_path + input_name[:-4]+'.pkl'
+        output_pickle = output_path + input_name[:-4] + '.pkl'
 
         claims = []
         pro_arguments = []
@@ -216,7 +196,6 @@ def create_dataframe():
                         done = True
             return pro_claim
 
-
         with open(input_json, buffering=1000) as f:
             for row in f:
                 row = json.loads(row)
@@ -229,7 +208,7 @@ def create_dataframe():
                 con_arguments.append(con_argument)
                 claims.append(claim)
 
-        discussion_dict = {'claim':claims, 'pro_arguments':pro_arguments, 'con_arguments':con_arguments}
+        discussion_dict = {'claim': claims, 'pro_arguments': pro_arguments, 'con_arguments': con_arguments}
         discussion_df = pd.DataFrame(discussion_dict)
         pd.to_pickle(discussion_df, output_pickle)
         print('Successfully created pickled dataframe :-)')

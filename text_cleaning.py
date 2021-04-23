@@ -4,6 +4,7 @@ import ssl
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 def argument_list(text_file):
     # Imported text-file sometimes splits long arguments to multiple lines...
     arguments_list = text_file.splitlines()
@@ -42,12 +43,16 @@ def clean_string(txt):
 
 def informative_words_list(txt):
     text = clean_string(txt)
-    text = re.sub('[.,:;]','',text)
+    text = re.sub("[.,:;']",'',text)
     text = text.lower()
     stop_words = set(stopwords.words('english'))
     words = word_tokenize(text)
     words_list = []
+    lemmatizer = WordNetLemmatizer()
     for w in words:
-        if w not in stop_words:
-            words_list.append(w)
+        if w not in stop_words and w not in words_list:
+            w_lem = lemmatizer.lemmatize(w)
+            words_list.append(w_lem)
+
     return words_list
+

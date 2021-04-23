@@ -36,7 +36,22 @@ def counter_argument(input, dataframe):
     print(dataframe.iloc[maxid])
 
     # Return its argument...
-    if dataframe.iloc[maxid]['con_arguments'] == "":
-        return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+    if dataframe.iloc[maxid]['input_bert_similarity'] <= 0.7:
+        if dataframe.iloc[maxid]['con_arguments'] == "":
+            return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+        else:
+            return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
     else:
-        return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+        if dataframe.iloc[maxid]['con_arguments'] == "":
+            return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid][
+                'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
+        else:
+            return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(
+                dataframe.iloc[maxid]['input_bert_similarity'])
+
+
+
+

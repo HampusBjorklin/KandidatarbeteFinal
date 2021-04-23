@@ -8,6 +8,7 @@ from Skräp.create_model_test import create_model
 from counterargument_db import create_dataframe
 from bert_encoding import bert_encoding
 from bot_response import counter_argument
+from text_cleaning import informative_words_list
 
 
 class BotInterface(tk.Frame):
@@ -64,7 +65,18 @@ class BotInterface(tk.Frame):
             bert_encoding(self.dataframe)
             embeddings = pd.read_pickle('embeddings_df.pkl')
 
-        self.dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
+        if os.path.isfile('embeddings_df2.pkl'):
+            self.dataframe2 = pd.read_pickle('embeddings_df2.pkl')
+        else:
+            self.dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
+            claims = self.dataframe2['claim']
+            word_tokens = []
+            for c in claims:
+                tokens = informative_words_list(c)
+                word_tokens.append(tokens)
+            self.dataframe2['word_tokens'] = word_tokens
+            pd.to_pickle(self.dataframe2, 'embeddings_df2.pkl')
+
         # Start bot conversation...
         self.write('BOT: As a bot I am a terrible debater and always agree')
 

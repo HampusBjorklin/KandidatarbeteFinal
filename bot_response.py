@@ -61,10 +61,10 @@ def counter_argument(user_input, dataframe):
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
     else:
         if dataframe.iloc[maxid]['con_arguments'] == "":
-            return dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid][
+            return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid][
                 'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['input_bert_similarity'])
         else:
-            return "I agree! " + dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + \
+            return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(
                 dataframe.iloc[maxid]['input_bert_similarity'])
 

@@ -6,6 +6,7 @@ from Skräp.create_model_test import create_model
 from counterargument_db import create_dataframe
 from bert_encoding import bert_encoding
 from bot_response import counter_argument
+from text_cleaning import informative_words_list
 
 
 def main():
@@ -21,8 +22,18 @@ def main():
 
         bert_encoding(dataframe)
         embeddings = pd.read_pickle('embeddings_df.pkl')
+    if os.path.isfile('embeddings_df2.pkl'):
+        dataframe2 = pd.read_pickle('embeddings_df2.pkl')
+    else:
+        dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
+        claims = dataframe2['claim']
+        word_tokens = []
+        for c in claims:
+            tokens = informative_words_list(c)
+            word_tokens.append(tokens)
+        dataframe2['word_tokens'] = word_tokens
+        pd.to_pickle(dataframe2, 'embeddings_df2.pkl')
 
-    dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
 
@@ -40,3 +51,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# TODO fix pickles.... info words list can be in first pickle etc.

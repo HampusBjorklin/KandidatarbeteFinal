@@ -83,6 +83,9 @@ def create_dataframe():
                     content = re.search(r"((Con|Pro)(?::\s))(.*)", line)
                     # make a dictionary with the single entry
                     # and put it at the end of the list
+                    if "-> See" in content.group(3):
+                        continue
+
                     result.append({
                         "Tree": tree.group(),
                         "Stance": stance.group(1),
@@ -212,3 +215,6 @@ def create_dataframe():
         discussion_df = pd.DataFrame(discussion_dict)
         pd.to_pickle(discussion_df, output_pickle)
         print('Successfully created pickled dataframe :-)')
+
+
+

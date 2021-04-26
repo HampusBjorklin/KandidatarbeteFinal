@@ -32,3 +32,5 @@ def cross_entropy(G,Y):
 
 def accuracy(G,Y):
     return (G.argmax(dim=1) == Y).float().mean()
+
+test = 'abc'

@@ -34,6 +34,8 @@ def main():
         dataframe2['word_tokens'] = word_tokens
         pd.to_pickle(dataframe2, 'embeddings_df2.pkl')
 
+    print(dataframe2)
+
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
 

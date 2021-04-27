@@ -8,6 +8,8 @@ from Skräp.create_model_test import create_model
 from counterargument_db import create_dataframe
 from bert_encoding import bert_encoding
 from bot_response import counter_argument
+import bot_response
+import counterargument_db
 from text_cleaning import informative_words_list
 
 
@@ -33,18 +35,19 @@ class BotInterface(tk.Frame):
                                    width=20,
                                    bg="#ABB2B9",
                                    command=self.send_to_bot)
-        self.scrollbar = tk.Scrollbar(self.textCons)
+        self.scrollbar = tk.Scrollbar(command=self.textCons.yview)
 
         # lay the widgets out on the screen.
         self.entry_label.place(relx=0, rely=0.025)
         self.entry_filename.place(relx=0.4, rely=0.025)
         self.entry_load.place(relx=0.8, rely=0.025)
 
-        self.textCons.place(relwidth=1, relheight=0.73, rely=0.1)
+        self.textCons.place(relwidth=0.95, relheight=0.73, rely=0.1)
         self.labelBottom.place(relwidth=1, rely=0.825)
         self.entryMsg.place(relwidth=0.8, relx=0.025, rely=0.9)
         self.buttonMsg.place(relwidth=0.1, relx=0.865, rely=0.9)
-        self.scrollbar.place(relheight=1, relx=0.974)
+        # self.scrollbar.place(relheight=1, relx=0.974)
+        self.scrollbar.place(relheight=0.73, relx=0.955, rely=0.1)
 
         self.scrollbar.config(command=self.textCons.yview)
         self.textCons.config(cursor="arrow")
@@ -59,7 +62,7 @@ class BotInterface(tk.Frame):
             if os.path.isfile('Pickles/Trolley.pkl'):
                 self.dataframe = pd.read_pickle('Pickles/trolley.pkl')
             else:
-                create_dataframe()
+                counterargument_db.create_dataframe()
                 self.dataframe = pd.read_pickle('Pickles/trolley.pkl')
 
             bert_encoding(self.dataframe)
@@ -77,6 +80,9 @@ class BotInterface(tk.Frame):
             self.dataframe2['word_tokens'] = word_tokens
             pd.to_pickle(self.dataframe2, 'embeddings_df2.pkl')
 
+        # Redirect print:
+        bot_response.print = self.write
+
         # Start bot conversation...
         self.write('BOT: As a bot I am a terrible debater and always agree')
 
@@ -88,18 +94,18 @@ class BotInterface(tk.Frame):
         pass
         # TODO Load the selected file
 
-    def write(self, text):
+    def write(self, text, separator=" "):
         self.textCons.config(state=tk.NORMAL)
-        self.textCons.insert(tk.END,
-                             text + "\n\n")
+        if separator == " ":
+            self.textCons.insert(tk.END, text + "\n\n")
+        else:
+            self.textCons.insert(tk.END, text + "\n\n")
 
         self.textCons.config(state=tk.DISABLED)
         self.textCons.see(tk.END)
 
     def send_to_bot(self):
         message = self.entryMsg.get()
-        counter_argument.print = self.write
-        create_dataframe.print = self.write
         # bot_response.print = self.move_print
         if message != "":
             self.write(message)
@@ -109,7 +115,7 @@ class BotInterface(tk.Frame):
             self.write('BOT: Good talk')
             # TODO Implement shutting down
         else:
-            self.write('BOT: ' + counter_argument(message, self.dataframe2))
+            self.write('BOT: ' + bot_response.counter_argument(message, self.dataframe2))
 
     def move_print(self, text):
         self.write(text)
@@ -129,5 +135,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     BotInterface(root).pack(fill="both", expand=True)
     root.title("A smart chat bot")
-    root.geometry("500x500")
+    root.geometry("750x800")
     root.mainloop()

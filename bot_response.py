@@ -49,7 +49,7 @@ def counter_argument(user_input, dataframe):
     #Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
 
-    print(dataframe.iloc[maxid], '\n')
+    print(dataframe.iloc[maxid].to_string(), '\n')
 
     # Return its argument...
     if dataframe.iloc[maxid]['input_bert_similarity'] <= 0.7:

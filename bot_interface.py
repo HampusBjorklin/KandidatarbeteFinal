@@ -1,8 +1,12 @@
+import threading
 import tkinter as tk
 import main
 import os.path
 import gensim
 import pandas as pd
+import queue
+import time
+
 from text_cleaning import argument_list
 from Skräp.create_model_test import create_model
 from counterargument_db import create_dataframe
@@ -83,6 +87,9 @@ class BotInterface(tk.Frame):
         # Redirect print:
         bot_response.print = self.write
 
+        # Bind Return to send messages
+        # self.bind('<Return>', self.send_to_bot_event)
+
         # Start bot conversation...
         self.write('BOT: As a bot I am a terrible debater and always agree')
 
@@ -115,7 +122,12 @@ class BotInterface(tk.Frame):
             self.write('BOT: Good talk')
             # TODO Implement shutting down
         else:
-            self.write('BOT: ' + bot_response.counter_argument(message, self.dataframe2))
+            self.queue = queue.Queue()
+            ThreadedTask(self.queue, message, self.dataframe2).start()
+            self.master.after(100, self.process_queue)
+
+    def send_to_bot_event(self, event):
+        self.send_to_bot()
 
     def move_print(self, text):
         self.write(text)
@@ -125,6 +137,25 @@ class BotInterface(tk.Frame):
 
     def start(self):
         pass
+
+    def process_queue(self):
+        try:
+            msg = self.queue.get(0)
+            self.write(f'BOT: {msg}')
+        except queue.Empty:
+            self.master.after(100, self.process_queue)
+
+
+class ThreadedTask(threading.Thread):
+    def __init__(self, queue, message, dataframe2):
+        threading.Thread.__init__(self)
+        self.queue = queue
+        self.message = message
+        self.dataframe2 = dataframe2
+
+    def run(self) -> None:
+        response = bot_response.counter_argument(self.message, self.dataframe2)
+        self.queue.put(response)
 
 
 # if this is run as a program (versus being imported),

@@ -1,4 +1,5 @@
 import os.path
+import os
 import gensim
 import pandas as pd
 from text_cleaning import argument_list
@@ -9,7 +10,20 @@ from bot_response import counter_argument
 from text_cleaning import informative_words_list
 
 
+def check_folders():
+    """
+    Checks if necessary folders exists, creates them if they don't
+    :return: None
+    """
+    paths = ['TextFiles', 'TextFiles/text_files', 'TextFiles/prepared_text_files', 'jsonFiles',
+             'jsonFiles/original_json_files', 'jsonFiles/prepared_json_files']
+    for p in paths:
+        if not os.path.exists(p):
+            os.makedirs(p)
+
+
 def main():
+    check_folders()
     # Check if database with claims and counterarguments and bert embeddings already been created, otherwise create.
     if os.path.isfile('embeddings_df.pkl'):
         dataframe = pd.read_pickle('embeddings_df.pkl')

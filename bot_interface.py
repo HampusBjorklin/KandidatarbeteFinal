@@ -1,6 +1,7 @@
 import threading
 import tkinter as tk
 import main
+import os
 import os.path
 import gensim
 import pandas as pd
@@ -60,6 +61,7 @@ class BotInterface(tk.Frame):
         self.exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
         self.load_config()
 
+        self.check_folders()
         if os.path.isfile('embeddings_df.pkl'):
             self.dataframe = pd.read_pickle('embeddings_df.pkl')
         else:
@@ -92,6 +94,17 @@ class BotInterface(tk.Frame):
 
         # Start bot conversation...
         self.write('BOT: As a bot I am a terrible debater and always agree')
+
+    def check_folders(self):
+        """
+        Checks if necessary folders exists, creates them if they don't
+        :return: None
+        """
+        paths = ['TextFiles', 'TextFiles/text_files', 'TextFiles/prepared_text_files', 'jsonFiles',
+                 'jsonFiles/original_json_files', 'jsonFiles/prepared_json_files']
+        for p in paths:
+            if not os.path.exists(p):
+                os.makedirs(p)
 
     def load_config(self):
         pass

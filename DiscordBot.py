@@ -20,6 +20,9 @@ async def on_message(message):
     if message.content.startswith('!'):
         response = counter_argument(message.content, dataframe, tb)
         await message.channel.send(response[0])
+        if '(No pro/con arg)' in response[1]:
+            emoji = '\U0001f44d'
+            await message.add_reaction(emoji)
         print(response[1])
 
 client.run(os.environ['TOKEN'])

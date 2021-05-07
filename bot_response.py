@@ -4,6 +4,7 @@ import numpy as np
 import os.path
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+import random
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 from sentence_transformers import SentenceTransformer
@@ -12,25 +13,31 @@ from textblob import Blobber
 from textblob.sentiments import NaiveBayesAnalyzer
 tb1 = Blobber(analyzer=NaiveBayesAnalyzer())
 
+agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ']
+
 def counter_argument(user_input, dataframe, tb):
     simliarity_scores(user_input, dataframe, tb)
     #Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
-
+    ran = random.randint(0, 4)
 
     print(dataframe.iloc[maxid].to_string(), '\n')
+
+    if dataframe.iloc[maxid]['pro_arguments'] == "" and dataframe.iloc[maxid]['con_arguments'] == "":
+        return (agree_list[ran] + dataframe.iloc[maxid]['claim'], " \n Identified parent claim: (No pro/con arg) " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
 
     # Return its argument...
     if dataframe.iloc[maxid]['input_bert_similarity'] <= 0.6:
         if dataframe.iloc[maxid]['pro_arguments'] == "":
-            return ("I agree! " + dataframe.iloc[maxid]['con_arguments'], " \n Identified parent claim: " + \
+            return (agree_list[ran] + dataframe.iloc[maxid]['con_arguments'], " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
             return (dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
     else:
         if dataframe.iloc[maxid]['con_arguments'] == "":
-            return ("I agree! " + dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + dataframe.iloc[maxid][
+            return (agree_list[ran] + dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + dataframe.iloc[maxid][
                 'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
             return (dataframe.iloc[maxid]['con_arguments'],  " \n Identified parent claim: " + \

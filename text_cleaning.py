@@ -5,6 +5,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+sno = nltk.stem.SnowballStemmer('english')
 def argument_list(text_file):
     # Imported text-file sometimes splits long arguments to multiple lines...
     arguments_list = text_file.splitlines()
@@ -36,8 +37,7 @@ def clean_argument_list(text_file):
 def clean_string(txt):
     clean_string = txt
     clean_string = re.sub('http://\S+|https://\S+', '', clean_string)
-    clean_string = re.sub(r'^.*?:', '', clean_string)
-    clean_string = re.sub("[^a-zA-Z '.,:;/]+", '', clean_string)
+    clean_string = re.sub("[^a-zA-Z0-9 '%.,:;/]+", '', clean_string)
     clean_string = re.sub(' +', ' ', clean_string)
     return clean_string
 
@@ -50,9 +50,9 @@ def informative_words_list(txt):
     words_list = []
     lemmatizer = WordNetLemmatizer()
     for w in words:
-        if w not in stop_words and w not in words_list:
-            w_lem = lemmatizer.lemmatize(w)
-            words_list.append(w_lem)
+        if w not in stop_words:
+            w_stem = sno.stem(w)
+            if w_stem not in words_list:
+                words_list.append(w_stem)
 
     return words_list
-

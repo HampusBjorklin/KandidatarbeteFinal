@@ -8,6 +8,7 @@ from counterargument_db import create_dataframe
 from bert_encoding import bert_encoding
 from bot_response import counter_argument
 from text_cleaning import informative_words_list
+from sentiment_embedding import sentiment_model
 
 
 def check_folders():
@@ -25,31 +26,11 @@ def check_folders():
 def main():
     check_folders()
     # Check if database with claims and counterarguments and bert embeddings already been created, otherwise create.
-    if os.path.isfile('embeddings_df.pkl'):
-        dataframe = pd.read_pickle('embeddings_df.pkl')
+    if os.path.isfile('Pickles/Trolley.pkl'):
+        dataframe = pd.read_pickle('Pickles/trolley.pkl')
     else:
-        if os.path.isfile('Pickles/Trolley.pkl'):
-            dataframe = pd.read_pickle('Pickles/trolley.pkl')
-        else:
-            create_dataframe()
-            dataframe = pd.read_pickle('Pickles/trolley.pkl')
-
-        bert_encoding(dataframe)
-        embeddings = pd.read_pickle('embeddings_df.pkl')
-    if os.path.isfile('embeddings_df2.pkl'):
-        dataframe2 = pd.read_pickle('embeddings_df2.pkl')
-    else:
-        dataframe2 = pd.read_pickle('sentiment_dataframe.pkl')
-        claims = dataframe2['claim']
-        word_tokens = []
-        for c in claims:
-            tokens = informative_words_list(c)
-            word_tokens.append(tokens)
-        dataframe2['word_tokens'] = word_tokens
-        pd.to_pickle(dataframe2, 'embeddings_df2.pkl')
-
-    print(dataframe2)
-
+        create_dataframe()
+    tb = sentiment_model()
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
 
@@ -62,7 +43,7 @@ def main():
             print('BOT: Good talk')
             break
         else:
-            print('BOT: '+ counter_argument(user_input, dataframe2))
+            print('BOT: '+ counter_argument(user_input, dataframe, tb))
 
 
 if __name__ == '__main__':

@@ -4,7 +4,9 @@ import pickle
 import pandas as pd
 from os import listdir
 from os.path import isfile, join
-from text_cleaning import clean_string
+from text_cleaning import clean_string, informative_words_list
+from bert_encoding import bert_encoding
+from sentiment_embedding import sentiment_embedding
 
 
 # Read .txt and save as pickled dataframe...
@@ -213,8 +215,18 @@ def create_dataframe():
 
         discussion_dict = {'claim': claims, 'pro_arguments': pro_arguments, 'con_arguments': con_arguments}
         discussion_df = pd.DataFrame(discussion_dict)
+        print('Saved arguments and pro/con arguments')
+        claims = discussion_df['claim']
+        word_tokens = []
+        for c in claims:
+            tokens = informative_words_list(c)
+            word_tokens.append(tokens)
+        discussion_df['word_tokens'] = word_tokens
+        print('Saved argument word tokens')
+        bert_encoding(discussion_df)
+        print('Saved BERT-encodings')
+        sentiment_embedding(discussion_df)
+        print('Saved sentiment-encoding')
         pd.to_pickle(discussion_df, output_pickle)
         print('Successfully created pickled dataframe :-)')
-
-
 

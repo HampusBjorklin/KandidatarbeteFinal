@@ -23,19 +23,19 @@ def counter_argument(user_input, dataframe, tb):
     # Return its argument...
     if dataframe.iloc[maxid]['input_bert_similarity'] <= 0.6:
         if dataframe.iloc[maxid]['pro_arguments'] == "":
-            return "I agree! " + dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + \
-                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score'])
+            return ("I agree! " + dataframe.iloc[maxid]['con_arguments'], " \n Identified parent claim: " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
-            return dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + \
-                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score'])
+            return (dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + \
+                   dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
     else:
         if dataframe.iloc[maxid]['con_arguments'] == "":
-            return "I agree! " + dataframe.iloc[maxid]['pro_arguments'] + " \n Identified parent claim: " + dataframe.iloc[maxid][
-                'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score'])
+            return ("I agree! " + dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + dataframe.iloc[maxid][
+                'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
-            return dataframe.iloc[maxid]['con_arguments'] + " \n Identified parent claim: " + \
+            return (dataframe.iloc[maxid]['con_arguments'],  " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(
-                dataframe.iloc[maxid]['total_similarity_score'])
+                dataframe.iloc[maxid]['total_similarity_score']))
 
 
 def simliarity_scores(user_input, dataframe, tb):

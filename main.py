@@ -36,7 +36,7 @@ def main():
 
     exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
 
-    while(True):
+    while True:
         user_input = input()
         user_input = user_input.lower()
         if user_input in exit_words:

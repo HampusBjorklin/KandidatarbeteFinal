@@ -19,6 +19,7 @@ async def on_message(message):
 
     if message.content.startswith('!'):
         response = counter_argument(message.content, dataframe, tb)
-        await message.channel.send(response)
+        await message.channel.send(response[0])
+        print(response[1])
 
 client.run(os.environ['TOKEN'])

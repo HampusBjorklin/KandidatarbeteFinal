@@ -232,5 +232,3 @@ def create_dataframe():
         print('Saved sentiment-encoding')
         pd.to_pickle(discussion_df, output_pickle)
         print('Successfully created pickled dataframe :-)')
-
-create_dataframe()

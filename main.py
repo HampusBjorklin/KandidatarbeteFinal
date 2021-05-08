@@ -36,6 +36,8 @@ def main():
 
     exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
 
+
+    print(dataframe.iloc[2])
     while True:
         user_input = input()
         user_input = user_input.lower()

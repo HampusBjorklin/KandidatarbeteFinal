@@ -7,4 +7,3 @@ def bert_encoding(dataframe):
     sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
     bert_embeddings = sbert_model.encode(claims).tolist()
     dataframe['bert_encoding'] = bert_embeddings
-    pd.to_pickle(dataframe, 'embeddings_df.pkl')

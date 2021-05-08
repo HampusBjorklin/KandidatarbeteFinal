@@ -218,10 +218,13 @@ def create_dataframe():
         print('Saved arguments and pro/con arguments')
         claims = discussion_df['claim']
         word_tokens = []
+        synonyms_tokens = []
         for c in claims:
             tokens = informative_words_list(c)
-            word_tokens.append(tokens)
+            synonyms_tokens.append(tokens[1])
+            word_tokens.append(tokens[0])
         discussion_df['word_tokens'] = word_tokens
+        discussion_df['synonym_tokens'] = synonyms_tokens
         print('Saved argument word tokens')
         bert_encoding(discussion_df)
         print('Saved BERT-encodings')
@@ -230,3 +233,4 @@ def create_dataframe():
         pd.to_pickle(discussion_df, output_pickle)
         print('Successfully created pickled dataframe :-)')
 
+create_dataframe()

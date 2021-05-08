@@ -61,19 +61,21 @@ def simliarity_scores(user_input, dataframe, tb):
     sentiment_sim = euclidean_distances(claim_sentiment, np.transpose(np.array(input_sentiment).reshape(-1, 1)))
     dataframe['input_sentiment_distance'] = np.concatenate(sentiment_sim).tolist()
 
-    input_words = informative_words_list(user_input)
+    tokens = informative_words_list(user_input)
+    input_words = tokens[0]
     claim_words = dataframe['word_tokens']
+    claim_synonyms = dataframe['synonym_tokens']
     word_similarities = []
-    for words in claim_words:
+    for n, words in enumerate(claim_synonyms):
         sim = 0
         for w in words:
             if w in input_words:
                 sim += 1
-        sim = sim / len(words)
+        sim = sim / len(claim_words[n])
         word_similarities.append(sim)
     dataframe['input_word_similarity'] = word_similarities
     dataframe['total_similarity_score'] = 4*dataframe['input_bert_similarity'] + 1.5*dataframe['input_word_similarity'] - \
-                                          dataframe['input_sentiment_distance']
+        dataframe['input_sentiment_distance']
 
     return dataframe
 

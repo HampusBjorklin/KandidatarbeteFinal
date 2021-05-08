@@ -3,9 +3,11 @@ import nltk
 import ssl
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
+from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer
 sno = nltk.stem.SnowballStemmer('english')
+
+
 def argument_list(text_file):
     # Imported text-file sometimes splits long arguments to multiple lines...
     arguments_list = text_file.splitlines()
@@ -41,6 +43,11 @@ def clean_string(txt):
     clean_string = re.sub(' +', ' ', clean_string)
     return clean_string
 
+def synonym_words_list(word_list):
+    synonyms = []
+
+
+
 def informative_words_list(txt):
     text = clean_string(txt)
     text = re.sub("[.,:;']",'',text)
@@ -48,11 +55,23 @@ def informative_words_list(txt):
     stop_words = set(stopwords.words('english'))
     words = word_tokenize(text)
     words_list = []
-    lemmatizer = WordNetLemmatizer()
-    for w in words:
-        if w not in stop_words:
-            w_stem = sno.stem(w)
-            if w_stem not in words_list:
-                words_list.append(w_stem)
+    stemmed_words_list = []
+    synonym_words_list = []
 
-    return words_list
+    for w in words:
+        if w not in stop_words and w not in words_list:
+                words_list.append(w)
+
+    for w in words_list:
+        synonym_words_list.append(w)
+        for syn in wordnet.synsets(w):
+            for word in syn.lemma_names():
+                w_stem = sno.stem(word)
+                if w_stem not in synonym_words_list and '_' not in word:
+                    synonym_words_list.append(w_stem)
+
+    for w in words_list:
+        w_stem = sno.stem(w)
+        stemmed_words_list.append(w_stem)
+
+    return words_list, synonym_words_list

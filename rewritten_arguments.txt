@@ -15,14 +15,14 @@ A quick death leads to less pain.
 Pulling the lever may lead to six people who will feel responsible for taking another human life, for the rest of their lives. However, this is unlikely to generate more harm overall than the other scenario.
 Because the survivors won't suffer for the rest of their lives due to feeling guilty, their suffering will not end up outweighing the potential happiness they get from being alive. This means the total amount of suffering could be a lot lower if only one person dies as opposed to five.
 Even if people see a lot of suffering on TV they are usually not traumatized it
-Real life events aren't any more traumatizing than TV. 
+Real life events aren't any more traumatizing than TV.
 It is just as unreasonable to claim to know the impact that this event might have on these people's lives as it is to assume that the five people were actually victims of a sex-trafficking ring and their captor was the one killed. The joy that five saved victims would have felt at seing their captor die would be immeasurable in comparison to the anger he would feel losing five sex slaves.
 If five people were to die, the suffering felt by their families, friends, colleagues, and communities may outweight the suffering of guilt these five might feel.
 Anyone who survived an event like this is likely to become mentally unstable due to the emotional trauma they've suffered and the guilt they will feel. Six mentally unstable people are more dangerous for society than two.
 Mentally unstable people are not too unpredictable and are not any more likely to cause harm to society and other people.
-Being responsible for someone’s death leads to major trauma and psychological distress.
+Being responsible for someoneâ€™s death leads to major trauma and psychological distress.
 Judges are in a similar position of indirect responsibility and do not suffer any mental problems as a result.
-The outcome will be guilt whether or not you pull the lever, since you let people die either way. 
+The outcome will be guilt whether or not you pull the lever, since you let people die either way.
 If the outcome will be guilt either way, then guilt cannot be used as motivation.
 If both actions leads to guilt, it is wrong to say the situation has no impact to your own life, since both option carries an certain impact to your own life.
 This argument assumes that there is no default choice, where one might claim saving more lives is the true default for human beings.
@@ -30,14 +30,14 @@ It is careless to assume anyone who is a victim of trauma will become mentally u
 This more or less means that anyone who's experienced trauma should be killed off.
 Whoever pulls the lever can reduce the guilt he/she experiences by rationalizing that they saved as many people as possible.
 Pulling the lever may leave the person pulling it mentally unstable.
-Not pulling the lever can just as well lead to this type of guilt. 
+Not pulling the lever can just as well lead to this type of guilt.
 Choosing not to pull the lever is also a choice.
 Pulling the lever may just as well be a result of shock and not a conscious decision.
 The original problem revolves around a conscious decision, any external factors would alter the thought experiment.
 One of the most relevant reasons for discussing the trolly problem is the advent of self-driving cars. When providing an AI with rules for how it should act, there is no shock to be considered.
 One can't run out of time for consideration and therefore miss pulling the lever.
 Since the problem forces us it's participants to make choices they can't make in a real-life situation makes it fail to show if there is a morally correct way to act.
-Moral philosophy can't demand extraordinary things from regular people. 
+Moral philosophy can't demand extraordinary things from regular people.
 Knowing what the right thing is forces people into something. This is a meaningful notion that has something to do with whether or not the right thing to do is to pull the lever.
 The problem is if pulling the lever is the right thing to do. If a person can't make the decision, then the morally correct answer is irrelevant and therefore doesn't help us solve the problem.
 There are diffrent questions in this problem, one is deciding not to kill while the other is how many you should let die.
@@ -47,7 +47,7 @@ What the bystander wants to do is irrelevant when deciding what is the right thi
 One could also say that the bystander would be deciding to pull the lever to save five people, not because they wished to kill the one.
 Whitout decisions to make, there wouldn't be any dilemma. Rephrasing one of the choices as "not choosing" make no difference.
 If the bystander chooses to not pull the lever then he/she was put into this situation by some exteral factor. However, if he/she decides to pull it then they actively engage in the situation.
-Just viewing it the same as choosing not to pull the lever. 
+Just viewing it the same as choosing not to pull the lever.
 Bystanders who do not act mainly because they are afraid to things worse, or because there are other people who could help. In this problem, no one else can help, nothing bad will happen to the decision-maker, and the situation is known.
 The dilemma is between the two options, any help would add a third option, which is impossible.
 We aren't omniscient, but we are aware that either five people or one person will die. The bystander should act accordingly.
@@ -59,7 +59,7 @@ The benefits are suppopsed to accumulate from getting new skills. There's no ski
 This assumes that pulling the lever is the smart thing to do, which may not be the case.
 Saving 5 lives doesn't make up for the guilt of taking one other life.
 Facts don't do too well against feelings.
-This choice can make give the bystander's life a new meaning. 
+This choice can make give the bystander's life a new meaning.
 This is only the case if survior's guilt is worse than death.
 The joy of the five people being saved together with the joy the bystander feels from saving people makes no room for guilt.
 While older trolley variants have the victims tied up, this specific scenario does not. There would be no way for the bystander to know if they were all the victims of someone would had blackmailed or otherwise forced them into their current predicament, so the bystander banking on potential joy for saving them from oppression would be basing his decision on his own view of the circumstances.
@@ -78,12 +78,12 @@ Unless the opposite is proven, one can expect five lives to be greater than one.
 If the five murderers' future targets all happened to be vicious murderers, then letting the five live would still not be better than killing them. This is even less likely than all five of the people on the track being murderers, and does not cancel out that possibility.
 If the five are murderers they can be imprisoned before they hurt anyone, but they can't be brought back from the dead if they are not.
 If you stop hostage takers who are going to kill a hostage by murdering them first, the amount of suffering will be reduced.
-The most severe kind of pain is death, and two deaths are worse than one. 
+The most severe kind of pain is death, and two deaths are worse than one.
 Two hostage takers will likely kill more people and therefore should be killed of to reduce the amount of people dying.
 When more people die, there will be more grieving families.
 Each person impacts people around them differently. It's still possible that the loss of one person causes more suffereing than the loss of the other five.
 A parent of seven kids would leave more grieving family members behind than a single lonely person.
-It's more likely that one of the five is a parent of many children than the one. 
+It's more likely that one of the five is a parent of many children than the one.
 By pulling the lever you deny a person the right to live.
 Death is permanent and irreversable and therefore worse than any temporary pain.
 Our lives are the source of our morality, therefore the loss of it would be a major loss of utility.
@@ -96,104 +96,105 @@ It is possible to calculate the value of biomass. For humans it would be around 
 There is no single utility for any single human, there is however an average value for an unknown human.
 The calculation is possible if one believes in utilitarianism.
 The value of an action is decided on how it affects human life, which hangs on if one is able to calculate the value of particular experiences.
-A utilitarian point of view would make for an awful society.
 If a decision would result in less utility, i.e. an awful society, then it could have, then the decision is by definition is not the correct utilitarian decision.
 If a decision causes less utility, than that decision is not the correct utilitarian choice.
 If morality was soley about the death toll, doctors killing patients to save others would be moral. Yet this is often considered immoral.
 Doctors are forced to take an oath in which they swear not to cause death to save others.
 The ethics or otherwise is relevant to this specific example.
-This problem is known as medical dilemmas. 
+This problem is known as medical dilemmas.
 This comparison has been done by judith thompson, which concludes that killing one is worse than leaving multiple people to die.
 Judiths trolley problem assumes that there are no other organs avalible.
 The two senarios are not comparable, organs could be used without killing.
 There is sufficient donors, only about 15 people die daily.
 The trolley problem is a thought experiment and not rooted in reality
 Organ donation is far more reality based than the trolley problem
-The trolley dilemma refelcts certain life-like sitations that are relevant to other ethical dilemmas. 
+The trolley dilemma refelcts certain life-like sitations that are relevant to other ethical dilemmas.
 There are not many situations in the real world which are comparable to the trolley problem, especially not to the extent of people dying due to small choices
 A crashing self driving car could face the equivalent problem.
 The programmer creating a self-driving car is not equivalent to the bystander in the trolley problem. The profession of the bystander is not known.
 A person who stronly belives in that pulling the lever is the correct desicion will likely design agent doeing the same thing.
 People do not want to be driven around in cars strictly programmed with utilitarian goals
-The publics view on moral dilemmas is changing constantly, 
+The publics view on moral dilemmas is changing constantly,
 A car can be programmed to save five peoples lives by killing one without being strictly utilitarian.
 A person with an opinion on the trolley problem could persuade the programmer creating the self driving car.
 It is up to the vehicles creator to decide who will live or die, the vechicle itself has equal amout of agency as the lever
-Future autonomus cars will make different decisions based in different scenarios based on their programming, just as the bystander pulling the lever will make different decision based on his or her ethical programming. 
+Future autonomus cars will make different decisions based in different scenarios based on their programming, just as the bystander pulling the lever will make different decision based on his or her ethical programming.
 The bystander is not forced by an outisder to appear in the situation, and thus not comparable to a programmer.
-A person refusing to pull the lever would probably not tell other to pull it either. 
+A person refusing to pull the lever would probably not tell other to pull it either.
 A machine making decisons based on the situation is still bound by the program
 If the vechicle can choose with sufficent accuracy, the programmer is the bystander in the trolley problem
 There must be a right choice for everybody and not just a single bystander to able to call in the correct decision
 Teslas autonomous car will ovverride humans decision
-Even improved technology. humans will still be trusted as drivers. 
+Even improved technology. humans will still be trusted as drivers.
 Police chases has killed multiple bystanders.
 It is known that those who would pull the lever are likely to be cops
 Assuming the likelihood is equal, a policeman who would pull the lever would also more likely get into a dangerous car chase.
-Utilitarian cops who would pull the lever were assumed by the bystander to be likely to get into a lethal car chase. A utilitarian bystander belives his probability of becoming a cop is greater than the one he intends to kill, therefore the bystander is less likely to save future lives. 
+Utilitarian cops who would pull the lever were assumed by the bystander to be likely to get into a lethal car chase. A utilitarian bystander belives his probability of becoming a cop is greater than the one he intends to kill, therefore the bystander is less likely to save future lives.
 Pulling the lever to kill a stranger instead of oneself could be the wrong thing to do in some cases.
 According to the source, more people where killed in their own vehicles and not by chasing cops.
-If the police stopped pursuing a fleeing driver, the fleeing driver would be less likely to kill innocent people. 
+If the police stopped pursuing a fleeing driver, the fleeing driver would be less likely to kill innocent people.
 This is not similar to the trolley problem
-They bystander in the trolley problem is not pursuing any criminals, he does nor know whether the victims are criminals. 
+They bystander in the trolley problem is not pursuing any criminals, he does nor know whether the victims are criminals.
 In the trolley problem, the situation is not an effect of the bystanders acts.
 A cop deciding whether to pursue a speeder does not face the descion between a single death or multiple guaranteed deaths.
-The outcome of real-life situations is never known. 
+The outcome of real-life situations is never known.
 The cop has to continiously evaluate the risk of lethal outcome as the chase continues. The bystander only has one option, to pull the lever or not.
 Being able to mitigate risk does decrease your responsibility of the consequences.
 Chasing a criminal neither guarantees saving a life of killing multiple so it is not comparable.
-Many cops will make loads of choices regarding potential loss of life. If one has the policy of never chasing, it is not guaranteed that some lifes will be lost. 
+Many cops will make loads of choices regarding potential loss of life. If one has the policy of never chasing, it is not guaranteed that some lifes will be lost.
 It is legal for a cop to accidently kill an innocent while chasing a criminal.
-Murdering a patient without their consent undermines the whole function of the health care systems and thus have external consequences. 
+Murdering a patient without their consent undermines the whole function of the health care systems and thus have external consequences.
 Prosecuting the doctos would lead to him not being able to help more people.
-People will not stop going to the doctor only because of fear of being killed for the greater good. 
-It is more in a utilitarians interest to keep healty people alive than sick. 
+People will not stop going to the doctor only because of fear of being killed for the greater good.
+It is more in a utilitarians interest to keep healty people alive than sick.
 The utilitarians would sacrifice them if more people end up healty.
-This assumes that we must rely on act utilitarianism to justify saving multiple lives. However it can be done on rule utilitarism  which would not imply murdering people for their organs. 
-One cannot simultaneously think that there should be rules against certain utility maximizing actions and still keeping the rule to save lifes. 
+This assumes that we must rely on act utilitarianism to justify saving multiple lives. However it can be done on rule utilitarism  which would not imply murdering people for their organs.
+One cannot simultaneously think that there should be rules against certain utility maximizing actions and still keeping the rule to save lifes.
 People who need replacement organs are also people.
-Jemina saved nine people by donating her organs. 
-Humans can be expected to ne utilitarian since we are capable of knowing what is morally correct. 
-It is possible to know the feature, therefore humans have the ability to asses what the best utilitarian option is. 
-We can have responsibility without knowing the absolute moral truth. 
-Amount of lives saved is the only morally significant factor. 
+Jemina saved nine people by donating her organs.
+Humans can be expected to ne utilitarian since we are capable of knowing what is morally correct.
+It is possible to know the feature, therefore humans have the ability to asses what the best utilitarian option is.
+We can have responsibility without knowing the absolute moral truth.
+Amount of lives saved is the only morally significant factor.
 The act of killing someone on purpose is a morally significant factor.
-The effect your act would have on other peoples affected by the death of the one you killed is morally significant. 
-Making ones self the arbiter of who dies is wrong. 
-An alternative to the trolley problem is switching the lever to pushing a man of a bridge. The utilitarian ethics are equal, but brain monitoring shows more emotional distress. 
-The though of pushing someone off a bridge seems more scary than pulling a mechanical lever. 
-When pulling the lever, the victim is not treated as means to an end. 
-One person is not murdered in order to save the other as in the push the man from the bridge senario. Instead, by pulling the lever the single person ends up as a victim in the course of saving multiple others. ¨
-By pulling the lever you use that life as a disposable part of your plan to save others. 
+The effect your act would have on other peoples affected by the death of the one you killed is morally significant.
+Making ones self the arbiter of who dies is wrong.
+An alternative to the trolley problem is switching the lever to pushing a man of a bridge. The utilitarian ethics are equal, but brain monitoring shows more emotional distress.
+The though of pushing someone off a bridge seems more scary than pulling a mechanical lever.
+When pulling the lever, the victim is not treated as means to an end.
+One person is not murdered in order to save the other as in the push the man from the bridge senario. Instead, by pulling the lever the single person ends up as a victim in the course of saving multiple others. Â¨
+By pulling the lever you use that life as a disposable part of your plan to save others.
 Even by utilitarian standards, one life can be worth more. For example if the worth of a life is negative.
-A famous argument is that all life has negative value. 
-Anti-natalism rejects the notion that it is worse die than continue living. 
+A famous argument is that all life has negative value.
+Anti-natalism rejects the notion that it is worse die than continue living.
 In emergency situation, doctors and firemen usually aims to save the maximum amout of people
-This is the case because it is their job to save as many as possible. 
-How doctors and other medics are prefered to act represent societys values as a whole. 
+This is the case because it is their job to save as many as possible.
+How doctors and other medics are prefered to act represent societys values as a whole.
 It is proven that medics should save as many as possible to be as moral as possible.
 Saving and taking lives is not the same thing. Almost all people would save everybody if they could.
 Saving or killing people in this perfect dilemma is just a matter of framing, which can affect peoples preception.
 When chosing a life to save, another life is condemmed. And when one is chosen to be sacrificed, another is chosen to be saved.
-There is many meaningful ways to determine the worth of a human being. 
-A human lifes value is often regarded as special and therefore unable to quatified. 
+There is many meaningful ways to determine the worth of a human being.
+A human lifes value is often regarded as special and therefore unable to quatified.
 Serial murderers receive longer sentences than those who only murdered one.
 If a expensive but life saving measure should be implemented depends on how many lifes it saves.
-Life is consumables, in war. 
-The cost of war is calculated by lives lost. 
-It is used to track the harm caused by the war, and as such is a recognition of individual human lives. 
-In the dilemma, they're not guaranteed to be equal and thus not comparable. 
-Therefore, they can be added and by magnitude compared. 
-Value of always quantitative. The value of live can be large, small or none. but it is comparable to something else. 
-According to maths, if the human life is infinetly valuable, one life is equally valuable to five. 
+Life is consumables, in war.
+The cost of war is calculated by lives lost.
+It is used to track the harm caused by the war, and as such is a recognition of individual human lives.
+In the dilemma, they're not guaranteed to be equal and thus not comparable.
+Therefore, they can be added and by magnitude compared.
+Value of always quantitative. The value of live can be large, small or none. but it is comparable to something else.
+According to maths, if the human life is infinetly valuable, one life is equally valuable to five.
 Human life can be measured the same way was commodities such as economics and efficiency.
-Human rights cannot be removed. 
-Just as humans can be compared to animals, humans can be compared to other humans. 
+Human rights cannot be removed.
+Just as humans can be compared to animals, humans can be compared to other humans.
 Animals do not have the ability to refelct over them selfs, which makes them different from humans.
 There is no morally consistent way of valuing a human life, therefore this comparison is invalid.
 Human life is multiple lifes where pleasure, pain utility is felt or created. The human value is the sum of the worth those lives.
 Only values with price allow for cardinal measuring
 Kant reasons that rational beings is not absolute and can be comparable to the value of everything else.
-Regardless of how much a life is worth, five lives is worth more. 
+Regardless of how much a life is worth, five lives is worth more.
 It is given in the problem that the values of each live is equal.
-The problem does not ask us to compare human lives to commodity, but between one life and five lives.  
+The problem does not ask us to compare human lives to commodity, but between one life and five lives.
+Even if human life is invaluable, it is usually agreed that human life is not worthless, therefore five lives are worth more than one.
+

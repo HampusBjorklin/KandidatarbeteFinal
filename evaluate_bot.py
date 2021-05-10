@@ -16,7 +16,7 @@ print_in_out = True
 number_of_lines_to_check = 10
 bot_response.print = write_nothing
 
-with open(input_file, 'r') as f:
+with open(input_file, 'r', encoding="utf-8") as f:
     inputs = f.readlines()
 outputs = []
 wrongs = []

@@ -16,6 +16,7 @@ from bot_response import counter_argument
 import bot_response
 import counterargument_db
 from text_cleaning import informative_words_list
+from sentiment_embedding import sentiment_model
 
 
 class BotInterface(tk.Frame):
@@ -85,6 +86,8 @@ class BotInterface(tk.Frame):
                 word_tokens.append(tokens)
             self.dataframe2['word_tokens'] = word_tokens
             pd.to_pickle(self.dataframe2, 'embeddings_df2.pkl')
+        self.tb = sentiment_model()
+        self.queue = None
 
         # Redirect print:
         bot_response.print = self.write
@@ -136,7 +139,7 @@ class BotInterface(tk.Frame):
             # TODO Implement shutting down
         else:
             self.queue = queue.Queue()
-            ThreadedTask(self.queue, message, self.dataframe2).start()
+            ThreadedTask(self.queue, message, self.dataframe2, self.tb).start()
             self.master.after(100, self.process_queue)
 
     def send_to_bot_event(self, event):
@@ -160,14 +163,15 @@ class BotInterface(tk.Frame):
 
 
 class ThreadedTask(threading.Thread):
-    def __init__(self, queue, message, dataframe2):
+    def __init__(self, queue, message, dataframe2, tb):
         threading.Thread.__init__(self)
         self.queue = queue
         self.message = message
         self.dataframe2 = dataframe2
+        self.tb = tb
 
     def run(self) -> None:
-        response = bot_response.counter_argument(self.message, self.dataframe2)
+        response = bot_response.counter_argument(self.message, self.dataframe2, self.tb)[0]
         self.queue.put(response)
 
 

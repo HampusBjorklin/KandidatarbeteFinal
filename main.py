@@ -47,7 +47,7 @@ def main():
             break
         else:
             response = counter_argument(user_input, dataframe, tb)
-            print('BOT: ' + response[1], + '\n' + response[0])
+            print('BOT: ' + response[1] + '\n' + response[0])
 
 
 if __name__ == '__main__':

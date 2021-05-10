@@ -75,3 +75,15 @@ def informative_words_list(txt):
         stemmed_words_list.append(w_stem)
 
     return words_list, synonym_words_list
+
+
+def word_triplet_list(txt):
+    lst = txt.split(' ')
+    triplets = []
+    for n in range(len(lst)-2):
+        trip = []
+        trip += lst[n:n+3]
+        triplets.append(trip)
+
+    return triplets
+

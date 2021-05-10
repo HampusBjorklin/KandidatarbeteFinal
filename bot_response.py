@@ -8,10 +8,9 @@ import random
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 from sentence_transformers import SentenceTransformer
-from text_cleaning import informative_words_list
+from text_cleaning import informative_words_list, word_triplet_list
 from textblob import Blobber
 from textblob.sentiments import NaiveBayesAnalyzer
-tb1 = Blobber(analyzer=NaiveBayesAnalyzer())
 
 agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ']
 
@@ -81,13 +80,33 @@ def simliarity_scores(user_input, dataframe, tb):
                 sim += 1
         sim = sim / len(claim_words[n])
         word_similarities.append(sim)
-    dataframe['input_word_similarity'] = word_similarities
-    dataframe['total_similarity_score'] = 4*dataframe['input_bert_similarity'] + 2.5*dataframe['input_word_similarity'] - \
-        dataframe['input_sentiment_distance']
 
-    print(dataframe.iloc[1])
+    triplet_similarities = []
+    user_words = user_input.split(' ')
+    if len(user_words) > 2:
+        triplets = word_triplet_list(user_input.lower())
+        claim_triplets = dataframe['word_triplets']
+        for c in claim_triplets:
+            for i in c:
+                if i in triplets:
+                    sim += 1
+            sim = sim/len(c)
+            triplet_similarities.append(sim)
+
+    dataframe['input_triplet_similarity'] = triplet_similarities
+    dataframe['input_word_similarity'] = word_similarities
+    dataframe['total_similarity_score'] = 4*dataframe['input_bert_similarity'] + 2*dataframe['input_word_similarity'] -\
+        - dataframe['input_sentiment_distance'] + 5*dataframe['input_triplet_similarity']
 
     return dataframe
+
+
+def eval_counter_argument(user_input, dataframe, tb):
+    simliarity_scores(user_input, dataframe, tb)
+    #Find index of argument most similar to input...
+    maxid = dataframe['total_similarity_score'].idxmax()
+    return maxid
+
 
 
 

@@ -74,8 +74,10 @@ def simliarity_scores(user_input, dataframe, tb):
         sim = sim / len(claim_words[n])
         word_similarities.append(sim)
     dataframe['input_word_similarity'] = word_similarities
-    dataframe['total_similarity_score'] = 4*dataframe['input_bert_similarity'] + 1.5*dataframe['input_word_similarity'] - \
+    dataframe['total_similarity_score'] = 4*dataframe['input_bert_similarity'] + 2.5*dataframe['input_word_similarity'] - \
         dataframe['input_sentiment_distance']
+
+    print(dataframe.iloc[1])
 
     return dataframe
 

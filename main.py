@@ -30,14 +30,15 @@ def main():
         dataframe = pd.read_pickle('Pickles/trolley.pkl')
     else:
         create_dataframe()
+        dataframe = pd.read_pickle('Pickles/trolley.pkl')
     tb = sentiment_model()
+
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
 
     exit_words = ['bye', 'fuckoff', 'quit', 'exit', 'cya', 'goodbye']
 
 
-    print(dataframe.iloc[2])
     while True:
         user_input = input()
         user_input = user_input.lower()
@@ -45,7 +46,8 @@ def main():
             print('BOT: Good talk')
             break
         else:
-            print('BOT: '+ counter_argument(user_input, dataframe, tb))
+            response = counter_argument(user_input, dataframe, tb)
+            print('BOT: ' + response[1], + '\n' + response[0])
 
 
 if __name__ == '__main__':

@@ -15,6 +15,7 @@ tb1 = Blobber(analyzer=NaiveBayesAnalyzer())
 
 agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ']
 
+
 def counter_argument(user_input, dataframe, tb):
     simliarity_scores(user_input, dataframe, tb)
     #Find index of argument most similar to input...
@@ -43,6 +44,13 @@ def counter_argument(user_input, dataframe, tb):
             return (dataframe.iloc[maxid]['con_arguments'],  " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(
                 dataframe.iloc[maxid]['total_similarity_score']))
+
+
+def counter_argument_testing(user_input, dataframe, tb) -> int:
+    simliarity_scores(user_input, dataframe, tb)
+    # Find index of argument most similar to input...
+    maxid = dataframe['total_similarity_score'].idxmax()
+    return maxid
 
 
 def simliarity_scores(user_input, dataframe, tb):

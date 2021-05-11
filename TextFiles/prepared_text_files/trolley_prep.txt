@@ -1,0 +1,895 @@
+1. Pro: The right thing to do is to pull the lever, diverting the [trolley](https://en.wikipedia.org/wiki/Trolley_problem) onto the side track where it will kill one person.
+1.1. Pro: You should pull the lever because five lives are worth more than one.
+1.1.1. Con: The worth of a life is not objective, but determined by the specific norms of a culture or group of people.
+1.1.1.1. Con: In this example, the worth of each life is supposed to be the same and thus directly comparable.
+1.1.1.1.1. Con: It is unlikely that the worth of life will always be the same and directly comparable in real life.
+1.1.1.1.1.1. Con: It is very likely that if a situation like this were to happen then there would be no way and/or no time to determine that any of the lives at stake are more valuable than any others, making them the same for the purposes of the decision at hand.
+1.1.1.2. Pro: Answers to moral dilemmas [vary](https://www.designboom.com/technology/what-is-the-self-driving-trolley-problem-31-25-2018/) between cultures, so it is likely the case that there is no one correct answer.
+1.1.1.2.1. Con: Just because certain societies value people's lives differently does not mean that all different valuations are equally morally correct.
+1.1.1.2.2. Pro: Different cultures may see the distinction betweens 'acts' and 'omissions' differently, changing the moral responsibility they attribute to pulling the lever.
+1.1.1.2.3. Pro: Moral intuitions differ between cultures and over time: it is likely that what arguments many see as convincing may change as well, meaning there can be no one answer to the trolley problem.
+1.1.1.3. Con: If the choice were to actively save five people or actively save one, versus letting all six die, it would be uncontroversial to save the five rather than the one.
+1.1.2. Pro: There is more suffering and pain if more people die.
+1.1.2.1. Pro: There would be a greater number of persons who have to feel pain.
+1.1.2.1.1. Con: If they die quickly, they would not feel more pain.
+1.1.2.2. Con: Pulling the lever leads to six people who will feel responsible for taking another human life, for the rest of their lives. This is likely to generate more harm overall than the other scenario.
+1.1.2.2.1. Pro: Because the survivors will suffer for the rest of their lives due to feeling guilty, their suffering might end up outweighing the potential happiness they get from being alive. This means the total amount of suffering is a lot higher if only one person dies as opposed to five.
+1.1.2.2.1.1. Con: People see a lot of suffering on TV but are generally not traumatized by it.
+1.1.2.2.1.1.1. Con: Real life experiences are more traumatizing than TV.
+1.1.2.2.1.2. Con: It is as unreasonable to claim to know the impact that this event would have on these people's lives as it is to assume that the five people were victims of a sex-trafficking ring and their captor was the one man killed. The joy that five saved victims felt at seing their captor die would be immeasurable in comparison to the anger he would feel losing five sex slaves.
+1.1.2.2.1.3. Con: Should five people die, the justifiable suffering felt by their families, friends, colleagues, and communities may be greater still than the suffering of guilt these five might feel.
+1.1.2.2.2. Pro: Any survivor is likely to become mentally unstable due to the emotional trauma they've suffered and the guilt they will feel. Six mentally unstable people are more dangerous for society than two.
+1.1.2.2.2.1. Pro: Mentally unstable people are unpredictable and are more likely to cause harm to society and other people.
+1.1.2.2.2.2. Pro: Causing or feeling responsible for someone’s death [leads to](http://www.tandfonline.com/doi/abs/10.1080/07481187.2011.610559) considerable and enduring trauma and psychological distress.
+1.1.2.2.2.3. Pro: [Jurors](https://www.psychologytoday.com/blog/so-sue-me/201503/the-hidden-horrors-jury-duty) are in a similar position of indirect responsibility and suffer mental problems as a result.
+1.1.2.2.2.4. Con: -> See 1.1.2.2.1.1.
+1.1.2.2.2.5. Pro: When pulling the lever, you must deal with the feeling of having actively killed someone. When not pulling the lever, you let five people die. The outcome will always be guilt.
+1.1.2.2.2.5.1. Con: If the outcome truly leads to guilt either way, then guilt-avoidance cannot be used as a motivating factor in the decision, and the decision should fall back on other metrics, such as utilitarianism.
+1.1.2.2.2.5.2. Con: If either action results in guilt, it is false to say the situation has no impact to your own life, since either option carries an impact to your own life.
+1.1.2.2.2.5.3. Con: Such an argument assumes that there is an objective default choice, where in fact one might easily claim that saving more lives is the true default, and that the act of failing to act results in killing four.
+1.1.2.2.2.6. Con: It is remiss to assume somebody who experiences trauma will become emotionally unhinged. [Resiliency factors](http://www.apa.org/helpcenter/road-resilience.aspx) and intervention can make a full recovery.
+1.1.2.2.2.7. Con: This essentially claims that somebody who has experienced trauma or seen somebody die is better off dead than allowed to live. This is just as ridiculous as claiming that veterans who have witnessed violence should be killed rather than be allowed to reenter society.
+1.1.2.2.3. Con: The person who pulls the lever can minimize the feeling of guilt by rationalizing that he/she saved as many people as possible.
+1.1.2.2.3.1. Con: Pulling the lever might cause severe mental problems for the person who pulls the lever.
+1.1.2.2.3.1.1. Pro: -> See 1.1.2.2.2.3.
+1.1.2.2.3.1.2. Con: Not pulling the lever has the same chances to cause this type of remorse.
+1.1.2.2.3.1.2.1. Pro: Not pulling the lever is just as much a decision as pulling the lever.
+1.1.2.2.3.1.2.1.1. Con: Not pulling the lever could be a result of inertia and shock rather than a conscious decision.
+1.1.2.2.3.1.2.1.1.1. Con: The thought experiment concerns a deliberate and conscious decision. Introducing extra factors would change the question.
+1.1.2.2.3.1.2.1.1.2. Con: One of the main reasons for discussing the [trolly problem is the advent of autonomous vehicles](https://www.brookings.edu/research/the-folly-of-trolleys-ethical-challenges-and-autonomous-vehicles/). When providing a computer with rules for how it should act, there is no shock to be considered.
+1.1.2.2.3.1.2.1.1.3. Pro: One could run out of time to think and default to not having pulled the lever.
+1.1.2.2.3.1.2.1.1.4. Pro: If the thought experiment forces participants into decisions they cannot reasonably make under real-world circumstances, then it fails to show we have a moral obligation to act in a certain way.
+1.1.2.2.3.1.2.1.1.4.1. Pro: Ethics cannot make superhuman demands from ordinary humans.
+1.1.2.2.3.1.2.1.1.4.2. Con: Knowing what the right thing is doesn't force people into anything. This is a meaningless notion that has nothing to do with whether or not the right thing to do is to pull the lever.
+1.1.2.2.3.1.2.1.1.5. Con: The question is whether or not the right thing to do is to pull the lever. If one doesn't have the opportunity to make a decision, then the right thing to do is irrelevant. Such a scenario thus doesn't help us answer the question.
+1.1.2.2.3.1.2.1.2. Con: They may be decisions, but they are different decisions. One is deciding not to kill, the other is deciding how many people to kill.
+1.1.2.2.3.1.2.1.2.1. Con: It's 'deciding to let five people die', not 'deciding not to kill'.
+1.1.2.2.3.1.2.1.2.1.1. Con: The bystander in such a scenario would be choosing not to pull the lever out of the moral duty to not murder, not because they wished to let five people die.
+1.1.2.2.3.1.2.1.2.1.1.1. Con: What one wishes or purports to wish has no bearing on which decision is right or wrong. Intent only matters to the extent that one makes decisions to fulfill it.
+1.1.2.2.3.1.2.1.2.1.1.1.1. Pro: One could just as easily say that the bystander would be choosing to pull the lever out of moral duty to save five people, not because they wished to kill the one.
+1.1.2.2.3.1.2.1.2.2. Con: If they weren't different decisions, there would be no dilemma. Nevertheless, reframing one choice as "not choosing" does not change what happens.
+1.1.2.2.3.1.2.1.2.3. Pro: The bystander who doesn't pull the lever wasn't put in the situation by his own choice, but the bystander who pulls the lever engages the situation by his own choice.
+1.1.2.2.3.1.2.1.2.3.1. Con: Viewing, not pulling, the lever is an act of choosing to not act, which is the point of the thought experiment is fully valid.
+1.1.2.2.3.1.2.1.2.3.2. Con: Bystanders do not act mainly because they fear being wrong or making things worse, or because there are other people who could help instead. In the trolley problem, nobody else can help, nothing bad will happen to the decision-maker, and the situation is known.
+1.1.2.2.3.1.2.1.2.3.2.1. Pro: The trolley problem states that you have two options. If someone else could help it would be a third option, which is not possible.
+1.1.2.2.3.1.2.1.2.3.2.2. Pro: We don't know everything, but at least we know that either five people will die or one. The bystander should act according to what he knows.
+1.1.2.2.3.1.2.1.2.3.3. Con: In most variants of the trolley problem where the person is not the switchmaster, such as the Thompson['85](http://waleszczynski.pl/wp-content/uploads/sites/4/2016/02/trolley_j_thomson.pdf) and Thompson['08](http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2008.00144.x/abstract) versions, the person is referred to as the "[Bystander](https://projects.iq.harvard.edu/files/mcl/files/greene-solvingtrolleyproblem-16.pdf)" and given the choice of action, with [scenario titles](https://www.jstor.org/stable/40607780?seq=1#page_scan_tab_contents). As such, treating the definition of a bystander as one who doesn't act does not fit with the framework of this problem.
+1.1.2.2.3.1.3. Con: Acting competently under extreme stress is [beneficial](https://www.sciencedaily.com/releases/2009/10/091029120900.htm) for the development of personality.
+1.1.2.2.3.1.3.1. Pro: Experiencing an extreme situation makes a person better at [stress management](https://www.helpguide.org/articles/stress/stress-management.htm).
+1.1.2.2.3.1.3.1.1. Con: This will be no more or less true regardless of the decision you make.
+1.1.2.2.3.1.3.2. Con: The benefits are supposed to accrue from acquiring new skills. There is no skill gained by pulling the lever.
+1.1.2.2.3.1.3.3. Con: This claim assumes that pulling the lever is the competent thing to do, which is not a given fact.
+1.1.2.2.3.2. Pro: Saving five lives overshadows the guilt of taking one other life.
+1.1.2.2.3.3. Con: Rationalizations and logic don't tend work well against human feelings.
+1.1.2.2.4. Con: This choice can give a new meaning to the life that moves on. It's just a possibility, but they can learn with that and make real changes on their own life's meaning.
+1.1.2.2.5. Con: That would only be true if dying were preferable to having survivor guilt.
+1.1.2.2.6. Con: The five persons can equally be regarded to be victims of the one person and their joy caused by being saved, combined with the joy the switch operator feels for having saved the five victims offers little room for guilt or suffering.
+1.1.2.2.6.1. Con: While some older trolley variants have the victims tied up, this specific scenario does not. There would be no way for the bystander to know if they were all the victims of someone would had blackmailed or otherwise forced them into their current predicament, so the bystander banking on potential joy for saving them from oppression would be basing his decision on his own imaginings of the circumstances.
+1.1.2.2.6.2. Con: Kidnapping victims who survive, while fellow victims do not, still feel [survivor's guilt](http://scholarly-journals.com/sjsre/publications/2016/March/pdf/Akwash.pdf). This shows the potential joy of being rescued does not eliminate or overcome that psychological effect.
+1.1.2.2.7. Con: -> See 1.1.2.2.1.3.
+1.1.2.2.8. Con: Pulling the lever leads to five people carrying the conscience that they had to sacrifice one person to survive. Which is much less heavy than having one person carry the conscience that their survival was at the expense of five lives.
+1.1.2.3. Con: There is no objective means to measure pain or suffering.
+1.1.2.3.1. Con: There are [scales](https://en.wikipedia.org/wiki/Pain_scale) to measure the intensity of pain.
+1.1.2.3.2. Con: Perhaps we cannot measure pain precisely, but it is clear that loss of life is a fairly significant form of harm, that most people strenuously seek to avoid.
+1.1.2.3.3. Pro: Some people may experience [less pain](https://www.webmd.com/pain-management/features/whats-your-pain-tolerance) in response to the same stimulus as another person.
+1.1.2.3.3.1. Con: This is not true unless there is an objective means of measuring pain.
+1.1.2.4. Con: It can not be assumed that death of a person will bring pain and grief to others.
+1.1.2.4.1. Pro: When more people die, it does not automatically follow that more people will grieve or suffer. All five could be without friends/family, whereas the one could have a larger group of friends compared to the five, etc. There is no way to know.
+1.1.2.5. Con: Each person may impact the happiness of others in ways that cannot be anticipated. Therefore, it is unknown which option will result in more pain and suffering.
+1.1.2.6. Con: This is not universally true. Without being able to qualify the people's whose lives are at risk, who's to say that killing the 5 would cause more pain? What if those 5 were all vicious murderers who escaped prison? The killing of the one life would therefore conceivably cause more pain than the killing of the 5 who were murders.
+1.1.2.6.1. Con: The probability of this is small enough that one can expect five lives to be greater than one unless there is information to the contrary.
+1.1.2.6.1.1. Pro: If the five murderers' future targets all happened to be vicious murderers, then letting the five live would be better than killing them. This is even less likely than all five of the people on the track being murderers, and does not cancel out that possibility.
+1.1.2.6.2. Con: If the five are murderers, one can attempt to capture them before they kill anyone. If they are not, one cannot bring them back from the dead. Future potentially-solvable problems are preferable to immediate irreversible losses of similar severity.
+1.1.2.6.2.1. Con: -> See 1.1.2.6.1.
+1.1.2.7. Con: If you can stop the hostage takers who are about to kill their hostage by killing them first, there will be less suffering as news of the event spreads and families learn of what happened.
+1.1.2.7.1. Con: The most significant form of suffering in this situation is death, and two deaths are worse than one death. The mourning or outrage at the decision is minor in comparison.
+1.1.2.7.2. Con: Two hostage takers will likely kill multiple people if not stopped, so killing them would still be killing the smaller number of people if nothing else can stop them.
+1.1.2.8. Pro: When more people are killed, there will be more grieving family members and friends left behind.
+1.1.2.8.1. Con: Each person has a different impact upon people around them. It is possible that the loss of one person may cause more grieving than the loss of the other five.
+1.1.2.8.1.1. Pro: A father or mother of eight children would leave behind more grieving family members than a single person.
+1.1.2.8.1.1.1. Con: Statistically, it is more likely for one of the five people on one track to be a father or mother of eight children than it is for the one person on the other.
+1.1.2.8.2. Pro: By pulling the lever you choose to take one life and deny that human being their right to live or the close connection with their family members and friends.
+1.1.2.9. Pro: Death is intrinsically bad and irreversible. It is therefore far more harmful than other, temporary harms.
+1.1.2.9.1. Pro: Our lives are the source of all that we consider good or bad. Therefore, the loss of life is a comparatively large loss of utility.
+1.1.3. Pro: From a simple [utilitaristic](https://en.wikipedia.org/wiki/Utilitarianism) point of view, pulling the lever would be not only permissible, but, morally speaking, the better option as it maximizes utility.
+1.1.3.1. Con: Due to the incommensurability of human life, the utilitarian calculus is not even theoretically possible.
+1.1.3.1.1. Pro: Human nature is dynamic, so the concept of a single utility for all humans is one-dimensional and not useful.
+1.1.3.1.1.1. Con: Measured in biomass, all humans are worth roughly the same.
+1.1.3.1.1.1.1. Con: Society generally avoids measuring human value but when it does, it is primarily measured on the basis of the product of human acts, not on the basis of biomass.
+1.1.3.1.1.1.2. Pro: Calculating the value of biomass is possible; it would arrive at around [$160](http://www.datagenetics.com/blog/april12011/) for each human.
+1.1.3.1.1.2. Con: There is not a single utility for all humans. There is, however, an average utility for an unknown human.
+1.1.3.1.2. Con: The calculation is possible if one subscribes to the notion of utilitarianism. If utilitarians believed it were impossible, they wouldn't be utilitarians.
+1.1.3.1.2.1. Pro: The [principle of utility](http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=43) according to Jeremy Bentham is that the value of an action is a matter of how it affects human life \(and perhaps other kinds of life\). The premise that one can evaluate any action in this way is contingent on being able to calculate the value of particular experiences, i.e. portions of human life.
+1.1.3.2. Con: A simple utilitarian point of view would make society a horrible place to live in.
+1.1.3.2.1. Con: If a certain decision results in less utility \(society being more horrible\) than it otherwise could be, then that decision by definition is not the correct utilitarian decision.
+1.1.3.2.2. Pro: If morality is merely about the eventual death toll, it should be considered moral for a doctor to kill one patient and use their organs to save more people. Yet, this is clearly immoral.
+1.1.3.2.2.1. Con: Doctors take an oath to "[do no harm](https://www.health.harvard.edu/blog/first-do-no-harm-201510138421)." They cannot ethically cause death to save others.
+1.1.3.2.2.1.1. Con: The ethics or otherwise are not relevant in the specific example being presented.
+1.1.3.2.2.1.1.1. Con: Alternative versions of this problem have been stated as medical dilemmas. They focus on the same moral problem.
+1.1.3.2.2.2. Pro: This is akin to one comparison Judith Thompson makes in her ['85 discussion of the trolley problem](https://www.tandfonline.com/doi/abs/10.1080/09515089.2012.674664), which concludes that killing one is worse than letting five die.
+1.1.3.2.2.2.1. Pro: Judith's [trolley problem](http://waleszczynski.pl/wp-content/uploads/sites/4/2016/02/trolley_j_thomson.pdf) involves the stipulation that the skilled surgeon knows that there are no other organs available besides the patient's.
+1.1.3.2.2.3. Con: The two scenarios aren't synonymous. In the doctor scenario, there may be organs available without the murder.
+1.1.3.2.2.3.1. Con: There are not enough donors, so [around 20 people die from a lack of donor organs each day](https://www.americantransplantfoundation.org/about-transplant/facts-and-myths/). This would inevitably save more lives.
+1.1.3.2.2.3.2. Con: The trolley scenario itself is not based in reality; it is a thought experiment.
+1.1.3.2.2.3.2.1. Pro: In fact, the discussion of organ donation is far more based in reality than the trolley problem.
+1.1.3.2.2.3.2.2. Con: The trolley problem reflects certain real life scenarios that pertain to the ethical dilemmas of organ donation and other life-and-death situations.
+1.1.3.2.2.3.2.2.1. Pro: There are many real-world cases of situations which are equivalent to the trolley problem to the extent that people are more likely to die in such situations if the decision is made by a person who thinks that pulling the lever in the trolley problem is wrong.
+1.1.3.2.2.3.2.2.1.1. Pro: The people who decide how self-driving cars ought to make decisions about saving lives are equivalent to bystanders in a trolley problem.
+1.1.3.2.2.3.2.2.1.1.1. Con: In those potential future scenarios it will be the cars themselves acting as the bystanders, not their programmers. The bystander in this trolley scenario does not have a known profession where it is up to him to determine for others what the correct response will be, yet not encountering it himself.
+1.1.3.2.2.3.2.2.1.1.1.1. Con: A person who believes that pulling the lever is wrong is unlikely to design agents who will choose to pull the lever.
+1.1.3.2.2.3.2.2.1.1.1.1.1. Con: The [general public does not want](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/) to drive in cars programmed with strictly utilitarian ethics, and so it is doubtful self-driving cars will be programmed in such a fashion, even if the programmers themselves were otherwise utilitarians.
+1.1.3.2.2.3.2.2.1.1.1.1.1.1. Con: The general public's views on morality are constantly changing. They could very easily change their views on this as well.
+1.1.3.2.2.3.2.2.1.1.1.1.1.2. Con: Cars can be programmed to kill some people to save five times that many people in some situations without being strictly utilitarian. They would be programmed to do this in fewer situations if the decision was made by a person who would not pull the lever.
+1.1.3.2.2.3.2.2.1.1.1.1.1.3. Con: A person who has an opinion on the trolley problem could persuade people to support or oppose utilitarian vehicles, which would affect the probability that they are programmed that way.
+1.1.3.2.2.3.2.2.1.1.1.2. Con: Autonomous vehicles do not have agency any more than the lever has agency. It remains the responsibility of the person who designs the vehicles to decide who lives and who dies.
+1.1.3.2.2.3.2.2.1.1.1.2.1. Con: Future autonomous vehicles will make decisions in varied unknown scenarios based on their programming for '[moral reasoning](https://philosophynow.org/issues/72/Machines_and_Moral_Reasoning),' not a pre-set to one specific scenario, just as the bystander makes his decisions based on his own ethical 'programming.'
+1.1.3.2.2.3.2.2.1.1.1.2.2. Con: That a vehicle's ethical programming is set by another person would not mean that the programmer is in the place of the bystander anymore than an outside person forcing a  bystander to pull the lever or not would be in the same situation as the bystander in the trolley scenario.
+1.1.3.2.2.3.2.2.1.1.1.2.2.1. Con: The programmer would be, at minimum, in place of a person attempting to persuade other people to pull or not pull the lever. A person who would refuse to pull the lever for ethical reasons would likely not tell other people to pull the lever, or program a machine to pull the lever.
+1.1.3.2.2.3.2.2.1.1.1.2.3. Con: A machine making decisions on [dynamic programming](https://trees.kaust.edu.sa/Pages/RCurent4.aspx) has agency within the bounds of the program, as the programmer cannot foresee every possible potential scenario. Conversely, the lever is a physical tool which the bystander can fully control.
+1.1.3.2.2.3.2.2.1.1.1.2.3.1. Con: In cases where the programmer knows that the program can identify with sufficient accuracy that a trolley problem is occurring, and in which the actions analogous to pulling and not pulling the lever are clear, the programmer can fully control how the machine handles the situation. Such cases can exist, with some possible sensing, driving, and machine-learning technology if not necessarily current technology.
+1.1.3.2.2.3.2.2.1.1.2. Con: For pulling the lever to be the right choice, it must be the right choice for all bystanders and not merely ones who identify as utilitarian car programmers.
+1.1.3.2.2.3.2.2.1.1.3. Con: With Tesla's [current self-driving car programming](https://www.forbes.com/sites/patricklin/2017/04/05/heres-how-tesla-solves-a-self-driving-crash-dilemma/#56d2e1a16813), the self-driving car will not override the human's decision in cases where the human has been warned of a collision but is actively steering and accelerating, regardless of who might be hit. The human would have to pick between hitting the five or the one, not the car.
+1.1.3.2.2.3.2.2.1.1.3.1. Con: As technology improves, humans will cease to be trusted as drivers, and the decision with regard to the trolley problem will determine the resolution of all such cases on public roads.
+1.1.3.2.2.3.2.2.1.2. Pro: [High-speed police chases have killed thousands of innocent bystanders.](https://www.usatoday.com/story/news/2015/07/30/police-pursuits-fatal-injuries/30187827/)
+1.1.3.2.2.3.2.2.1.2.1. Con: It is not known that those who would definitely pull the lever are more or less likely to be policemen.
+1.1.3.2.2.3.2.2.1.2.1.1. Con: Assuming the probabilities are equal, a policeman who would definitely pull the lever is more likely to get involved in a car chase which could kill someone.
+1.1.3.2.2.3.2.2.1.2.1.1.1. Con: If utilitarian cops who would pull the lever were assumed by the bystander to be more likely to get involved in a car chase that would kill someone, and a utilitarian bystander believes his probability of becoming a cop is higher than the one person he plans to kill, then the bystander is less likely to save future lives and more likely to risk their loss than the one person is.
+1.1.3.2.2.3.2.2.1.2.1.1.1.1. Con: Pulling the lever to kill the stranger instead of oneself is not the right thing to do in all cases. This does not contradict that pulling the lever to kill the stranger when killing oneself is not an option is the right thing to do in all cases.
+1.1.3.2.2.3.2.2.1.2.2. Con: Per the source, "Most bystanders were killed in their own cars by a fleeing driver" and not by a pursuing cop.
+1.1.3.2.2.3.2.2.1.2.2.1. Con: If the police had stopped pursuing the fleeing driver, the driver would be less likely to [kill people in their escape](https://www.usatoday.com/story/news/2015/12/23/police-chase-deaths-up-in-2014/77762174/).
+1.1.3.2.2.3.2.2.1.2.2.1.1. Con: This analogy does not bear similarity to the trolley problem.
+1.1.3.2.2.3.2.2.1.2.2.1.1.1. Pro: The bystander in the trolley scenario is not pursuing a criminal, nor is he aware of whether or not any of the potential victims are criminals.
+1.1.3.2.2.3.2.2.1.2.2.1.1.2. Pro: In the trolley problem, the situation is not of the bystander's own making. In comparison, the cop, in a high speed car chase, is intimately involved in the scenario.
+1.1.3.2.2.3.2.2.1.2.2.1.1.3. Pro: A cop deciding whether or not to pursue a speeder does not face either the guarantee of multiple lives lost if he does chase the criminal or the guarantee of the loss of an innocent life if he does. A car chase deals with probabilities and safety guidelines, and so is not faced with the trolley scenario which has known outcomes.
+1.1.3.2.2.3.2.2.1.2.2.1.1.3.1. Con: In real-life situations, the outcomes are never known. The only moral systems which could logically oppose active harm with known outcomes but not active harm with unknown outcomes are ad hoc moral systems for thought experiments.
+1.1.3.2.2.3.2.2.1.2.2.1.1.4. Pro: The cop in a car chase must continually evaluate risks as the chase continues, and [may call for backup](https://www.police1.com/law-enforcement-policies/articles/calling-for-backup-changing-le-culture-so-officers-are-not-afraid-to-ask-for-help-d36SEtvgpTbZ5up0/) or otherwise mitigate those risks. The bystander has only one option, pull the lever or not.
+1.1.3.2.2.3.2.2.1.2.2.1.1.4.1. Con: The possibility of mitigating risks doesn't remove your responsibility for the consequences. There would be no risks to mitigate if the cop didn't engage in the car chase at all. To hold that such chases are sometimes justified, one must accept that actively causing harm is sometimes okay in order to avoid greater harm.
+1.1.3.2.2.3.2.2.1.2.2.1.2. Con: Pursuing a speeder neither guarantees the saving of a life, nor does it guarantee the loss of a life, so there is no comparison between a cop chasing speeders and the trolley problem.
+1.1.3.2.2.3.2.2.1.2.2.1.2.1. Con: Most police officers will make multiple decisions regarding potential loss of life. If one has a policy of always chasing as necessary, it is guaranteed that some lives will be saved and some lives will be lost.
+1.1.3.2.2.3.2.2.1.2.2.1.3. Con: For pulling the lever to be the right thing to do, it must be the right thing to do for all bystanders, not just bystanders who are utilitarian traffic cops.
+1.1.3.2.2.3.2.2.1.2.2.1.3.1. Con: -> See 1.1.3.2.2.3.2.2.1.2.1.1.1.1.
+1.1.3.2.2.3.2.2.1.2.3. Con: It is [not legal](https://www.nbcmiami.com/news/local/Police-Pursuits-When-Policy-Isnt-Followed-and-People-Die-413339443.html) for a cop to purposefully kill a civilian in the attempt to catch a speeding criminal.  These cases represent an unfortunate breach of policy resulting in death, not a net gain of lives to be emulated.
+1.1.3.2.2.4. Con: Killing a patient without their consent would undermine the function of health care and, therefore, have more dire consequences compared to the trolley problem.
+1.1.3.2.2.4.1. Pro: The doctor may be prosecuted, which would lead to him not being able to help others.
+1.1.3.2.2.4.2. Pro: People will stop going to the doctor if they fear being sacrificed for the 'greater good', leading to more deaths.
+1.1.3.2.2.5. Con: A utilitarian would not slaughter healthy humans to save sick people. It is more utilitarian to keep healthy people healthy than to sacrifice them to save sick people.
+1.1.3.2.2.5.1. Con: If more people end up being healthy, the utilitarian would sacrifice them.
+1.1.3.2.2.6. Con: This assumes that we must rely on act utilitarianism to justify saving the five. However, saving the five can be justified in [rule-utilitarian terms](https://theexistentialelevator.wordpress.com/2016/06/01/solving-the-trolley-problem-to-kill-or-not-to-kill/), which would not imply killing people for their organs.
+1.1.3.2.2.6.1. Pro: One can simultaneously hold that there should be a rule against certain utility-maximizing actions, like killing an individual to distribute their organs, while keeping a general rule to preserve lives.
+1.1.3.2.2.7. Con: The people who need replacement organs to continue living are also individuals. A society in which they are able to obtain organs is safer for those individuals.
+1.1.3.2.2.7.1. Pro: Jemima Layzell saved [eight people](http://www.itv.com/news/2017-09-08/13-year-old-girl-saves-eight-lives-as-highest-ever-organ-donor/) through her death by willingly agreeing to be an organ donor.
+1.1.3.3. Con: Humans cannot be expected to be utilitarian as we’re incapable of knowing any absolute moral truth. This is why we only expect humans to follow the basic rules that make civilized society possible.
+1.1.3.3.1. Pro: It is impossible to know the future. Hence, humans lack the ability to assess what the 'best utilitarian' option is.
+1.1.3.3.2. Con: We do not have to know absolute moral truth in order to have some responsibility to act in a utilitarian fashion; we can simply try to be as moral as possible given what we do know. If we assess this scenario by balancing the probabilities, then acting in a utilitarian fashion seems to give us the best chance of producing the most good.
+1.1.3.4. Pro: The only morally significant factor is the number of lives saved and not the method by which that is achieved.
+1.1.3.4.1. Con: The act of actively killing is a morally significant factor.
+1.1.3.4.2. Con: The effect you would have on the lives of the people affected by killing the one is a morally significant factor.
+1.1.3.4.2.1. Con: -> See 1.1.2.8.
+1.1.3.4.3. Con: The act of making one's self the arbiter of who dies is a morally significant factor.
+1.1.3.5. Con: One variant of the trolley problem tests this utilitarian view; the 'switch' is changed out for pushing one man off of a bridge onto the tracks. Even though the utilitarian ethics of the scenarios are identical, people are less likely to say it is right to push the fat man than they are to say it is right to pull an impersonal lever, and brain monitoring shows more [emotional distress.](https://www.theatlantic.com/technology/archive/2015/10/trolley-problem-history-psychology-morality-driverless-cars/409732/)
+1.1.3.5.1. Con: The idea of pushing a fat man off a bridge to stop a trolley seems more daunting and less likely to work for the price of a person's life than pulling a mechanical lever, which could be taken into consideration subconsciously and lead to people refusing even though in truth it is guaranteed to work as per the problem definition.
+1.1.3.5.2. Pro: By pulling the lever, you are not treating the one person as a means to an end. That would only be the case if you purposely put the one person on the rails such as in the '[fat man](https://en.wikipedia.org/wiki/Trolley_problem#The_fat_man)' scenario.
+1.1.3.5.2.1. Pro: The one person is not deliberately killed 'in order' to save the others as in the '[fat man scenario](https://en.wikipedia.org/wiki/Trolley_problem#The_fat_man)'. Instead, by pulling the lever, they end up as a victim in the course of saving other lives.
+1.1.3.5.2.2. Con: Their death is a directly and immediately foreseeable consequence of pulling the lever, and so is part and parcel of doing so. If you pull the lever, you are treating that life as a disposable part of your plan to save others.
+1.1.3.6. Con: It's still possible that one life is worth more in an utilitarian framework. For example, if the value of a human life is negative, the more die, the better.
+1.1.3.6.1. Pro: David Benetar famously argues that [all life is utility-negative](https://aeon.co/essays/having-children-is-not-life-affirming-its-immoral), and therefore, that saving the one creates a better utilitarian outcome.
+1.1.3.6.1.1. Con: That article, and anti-natalism in general, specifically rejects the notion that it is generally better to die than to continue living.
+1.1.4. Pro: In emergency situations, firefighters or doctors typically aim to save the greatest number of lives.
+1.1.4.1. Con: In these cases, they do this because it is their job to save as many lives as possible. This means that their moral responsibility is tied to their duty to fulfill their job description.
+1.1.4.1.1. Con: The instructions of how to save lives as firemen and doctors reflect society's general values.
+1.1.4.2. Con: It is not proven that doctors or firefighters should save the greatest number of lives from a moral standpoint. This is what the trolley problem attempts to solve.
+1.1.4.3. Con: Saving lives is not the same as taking lives. Few people would object to saving the life of either group.
+1.1.4.3.1. Con: Saving lives and taking lives in a true, forced-choice dilemma are two ways that the same question can be framed. Framing affects peoples' [perception](https://science.sciencemag.org/content/211/4481/453?ijkey=Qf67hM3Y0Ca2M&keytype=ref&siteid=sci) of a situation, but not the situation itself.
+1.1.4.3.1.1. Pro: When you choose a life to save, you also choose a life to condemn. When you choose a life to take, you also choose a life to save.
+1.1.5. Con: There is no meaningful way to establish the 'worth' of a human being.
+1.1.5.1. Pro: The value of human life is thought to have a special status that makes human lives unable to be quantified.
+1.1.5.1.1. Con: A more serious penalty is prescribed for those who commit several murders compared to those who commit one.
+1.1.5.1.2. Con: Whether a costly life-saving measure, like air bags or highway barriers, should be implemented often depends on how many lives would be saved by the action.
+1.1.5.1.3. Con: In war, lives are commensurable.
+1.1.5.1.3.1. Pro: The costs of war are mostly measured by the lives lost.
+1.1.5.1.3.1.1. Con: This is used to track the harm of war, and as such is a recognition of the value of individual human lives.
+1.1.5.1.4. Con: In the example they are 100% uniform, absolutely the same and, hence, comparable.
+1.1.5.1.5. Pro: Therefore, they cannot be added together and/or compared in magnitude.
+1.1.5.1.6. Con: Value is necessarily quantitative. The value of human lives may be arbitrarily large, arbitrarily small, or hard to estimate, but a human life can always be said to be more valuable, less valuable, or equally valuable to something else.
+1.1.5.1.7. Pro: Mathematically speaking, if life is priceless we could say that price of single human life is infinite. 1*infinity = 5*infinity
+1.1.5.1.8. Pro: Human life and human rights cannot be put on the same scale as ‘commodity’ values, such as pleasure and economic efficiency.
+1.1.5.1.8.1. Pro: [Human rights cannot be taken away](https://www.ohchr.org/en/issues/pages/whatarehumanrights.aspx), whereas commodities can be [deprived of value](https://www.thebalance.com/why-commodity-prices-move-up-and-down-809315).
+1.1.5.1.8.2. Con: Just as animals and humans can be compared so can humans be compared.
+1.1.5.1.8.2.1. Con: Animals don’t have the ability to self-reflect, which makes them inherently distinct from humans. Thus, comparing humans to animals is not the same as comparing humans to humans.
+1.1.5.1.8.2.2. Pro: -> See discussion #4148: Human life should be valued above animal life in the case that only one can be preserved.
+1.1.5.1.8.3. Pro: There is no clear and morally consistent principle that suggests a legitimate and non-arbitrary measurement of human worth. This makes any comparison of human life illegitimate and therefore also immoral.
+1.1.5.1.8.4. Con: Human life is a series of moments in which a human may or may not experience pleasure, experience pain, or provide utility to others. The value of a human life is the aggregate of the value of those moments.
+1.1.5.1.8.5. Pro: The [Kantian idea of human dignity](http://public.callutheran.edu/~chenxi/phil345_022.pdf) insists upon a distinction between values with ‘dignity’ and those with ‘price'. Only the latter allow for cardinal measuring.
+1.1.5.1.8.5.1. Pro: [Kant](http://public.callutheran.edu/~chenxi/phil345_022.pdf) concludes that the value of rational beings must be absolute, and not comparable to the value of anything else.
+1.1.5.1.8.5.1.1. Con: Regardless of the 'amount' that an individual life is worth, five lives are worth five times that amount.
+1.1.5.1.8.5.1.1.1. Pro: It is explicitly stated in the question that the lives involved are deemed to be of equal "worth", however one may define it.
+1.1.5.1.8.6. Con: This scenario does not ask us to compare lives against 'commodity' goods or monetary terms. It asks us to compare five lives to one; an easy task given each is of the same type.
+1.1.5.1.8.6.1. Pro: -> See 1.1.5.1.8.5.1.1.
+1.1.5.2. Con: -> See 1.1.4.
+1.1.5.3. Con: Whereas human worth is unquantifiable, it is generally accepted that human life is not worthless, making five lives worth more than one.
+1.1.5.3.1. Pro: Qualitative unquantifiable elements, when put together, will generally weigh more in any model \(physical or metaphysical\) than separated.
+1.1.5.3.1.1. Pro: Qualitative elements may weigh less in a model if they cancel each other. Since the people in the problem have "the same future happiness and life-expectancy", none of them is thought to be canceling the other in a meaningful way for our problem. Therefore these 5 unquantifiable elements \(human lives\) should be more valuable than a single element \(one human life\).
+1.1.5.3.2. Pro: Since human life is worthier than worthless, its worth is higher than "0" on any possible scale. Any number higher than 0 gets even higher when multiplied by 5.
+1.1.5.3.2.1. Con: -> See 1.1.5.1.7.
+1.1.5.3.2.2. Con: Human life is probably less worthy than worthless.
+1.1.5.3.3. Con: When we say human life is unquantifiable, we typically mean it is worth an infinite amount. This means that 5 lives are not worth more than 1, since 5 times infinity is not greater than 1 times infinity.
+1.1.5.3.3.1. Pro: To make this clear, imagine if you set a quantity x to a human life, then the equation 5*x\>1*x would hold. But if a life is unquantifiable, then the equation no longer holds. So if you accept that a life is unquantifiable then the argument that 5*x\>1*x does not hold
+1.1.5.3.4. Con: This misses the point that it is conceivable five lives might not be worth one even added together, by some measure of worth that is agreed upon.
+1.1.5.3.4.1. Con: Since we are ignorant of the identity of each person, we must assume equal worth.
+1.1.5.3.4.1.1. Con: This equal worth might as well be unmeasurable or infinity.
+1.1.5.4. Pro: Many people would agree that a human life is worth an infinite amount. Infinity multiplied by five is equal to infinity multiplied by one. Therefore, both number of lives are worth the same.
+1.1.5.4.1. Con: Infinity does not necessarily equal infinity. It can also be greater than or less than infinity.
+1.1.5.4.1.1. Con: This could make the one infinity greater than the five infinities.
+1.1.5.4.1.2. Pro: The number of integers \(i.e. the cardinality of Z\) is infinity. The number of real numbers between 0 and 1 is also infinity. The former is smaller than the latter, and the latter is greater than the former. Therefore infinity is smaller than infinity, and also infinity is greater than infinity.
+1.1.5.4.2. Con: If the value of a human life is infinite, then nothing can be compared to anything else in any mathematical way.
+1.1.5.4.2.1. Con: Mathematics are not a useful way to identify the value of a human life.
+1.1.5.4.2.1.1. Con: Infinity is a mathematical concept. If the value of human life cannot be represented mathematically, then it cannot be infinite.
+1.1.5.4.2.1.2. Con: All moral decisions are made by brains, which operate according to laws which can be modelled by mathematics. Thus, the way that anyone processes the value of a human life is mathematical whether one consciously does the math or not.
+1.1.5.4.2.1.2.1. Con: Decisions are thought by dualist libertarians by being made by the [spirit/soul/mind](https://iep.utm.edu/dualism/), particularly moral decisions. This is needed for their concept of free will and the solving of the problem of Evil.
+1.1.5.4.2.1.2.1.1. Con: -> See discussion #5685: There is no free will.
+1.1.5.4.2.1.2.1.2. Con: Whatever the "spirit/soul/mind" is, it can be modelled as well, even if we don't know how to model it. Thus, the claim that all moral decisions can be modelled by mathematics stands even if this is true.
+1.1.5.4.2.1.3. Pro: Mathematics are socially constructed from experience. Since it is generally considered wrong to reduce a person to a number, we need the creation of completely new axioms for processing personal lives.
+1.1.5.4.2.1.3.1. Pro: The creation of new concepts in mathematics, such as irrational \(“pi”\) and complex \(square root of “-1”\) numbers were created out the demonstration that the mathematics of their time were not profitable enough without these concepts.
+1.1.5.4.2.1.3.1.1. Con: Pi was not created. [It is provable](https://math.wikia.org/wiki/Proof:_Pi_is_Constant#:~:text=%2C%20defined%20as%20the%20ratio%20of,%22all%20circles%20are%20similar.%22) from the definition of a circle that the ratio of a circle's circumference to its diameter is constant.
+1.1.5.4.2.1.3.2. Con: If the goal of processing personal lives is ultimately to create a total order between them \(in order to say that one decision is better than another\), then any new representation of personal lives will ultimately be able to be mapped to the real numbers in a way that preserves that ordering, thus reducing the person to a number.
+1.1.5.4.2.1.4. Con: To claim that a system is not profitable requires both a definition of profit and an alternative system which is more profitable under that definition. If profit is defined as the number of lives saved in a scenario where all lives are equal, then small-number integer comparison is a profitable way to process that value.
+1.1.5.4.2.1.5. Con: If a mathematical value is given to a life, then it can be compared against other lives.
+1.1.5.4.2.1.6. Pro: Whatever numerical value is given to a life, it cannot be compared to any other value, like another or multiple other lives.
+1.1.5.4.2.2. Con: Since no object without agency is responsible for its impact on a human life, the value of a human life has no bearing on the cost of any object, which keeps safe the use of mathematics.
+1.1.5.4.2.2.1. Con: Objects do not have costs; only decisions \(e.g. to acquire the object\) or outcomes \(e.g. having the object\) have costs, where the cost of an outcome is the cost of the best decision which results in that outcome. The "cost of an object" is merely a way of describing the cost of having the object. The value of a human life has bearing on the cost of virtually every decision.
+1.1.5.4.2.3. Pro: If any action can save or take any number of lives with any probability, then the benefit or cost of that action is infinite, because it's a fraction of the value of human life.
+1.1.5.4.2.3.1. Pro: If there is any probability that the person who inherits your money after your death spends all of it on mosquito nets to prevent malaria, then the expected number of lives that an extra $5 in your bank account would save is strictly positive. Therefore, if the value of a human life is infinite, the cost of buying a sandwich is infinite.
+1.1.5.4.2.3.1.1. Pro: If the protection from malaria has even a fraction of the value of a human life, and a human life is infinite, then the protection from malaria is worth a fraction of infinity, which is infinite.
+1.1.5.4.2.3.1.2. Con: There is no way to know whether unspent $5 could have been used to buy a knife to kill people or a mosquito net to save a family from malaria. Since the number of human lives saved or lost is unknown, a conscious numerical approach is not the most relevant for evaluating the cost of a $5 sandwich.
+1.1.5.4.2.3.1.2.1. Con: Because there is some probability of saving or taking lives, if the value of human life is infinite, the benefit of buying the sandwich is infinite and so is the cost, meaning the net utility is undefined.
+1.1.5.4.2.3.2. Con: Since there is almost nothing in the real life that can “save lives but not take lives” neither “take lives but not save lives”, the human life cost is close to impossible to compute for such actions, making it irrelevant to real life decisions.
+1.1.5.4.2.3.2.1. Con: The human life cost can be computed by calculating the expected value of lives saved and subtracting the expected value of lives taken, which is easy to at least approximate in most situations as long as the value of life is finite.
+1.1.5.4.3. Con: If the value of a human life were infinite, no single life could ever be put at risk to save another life. This would mean that no single endeavor would be worth risking lives for, which clearly is wrong.
+1.1.5.4.3.1. Pro: If the value of life were infinite, a society would not be able to justify the existence of an army, as there would be no justification for any soldier ever killing another person, even if that saved one million lives.
+1.1.5.4.3.2. Con: Individuals still can deliberately decide whether they want to risk their own lives in order to save another.
+1.1.5.4.3.2.1. Con: If the value of life is infinite, preserving it at all costs would be paramount, thus no rational person who believes that the value of life is infinite would ever risk it to achieve something else, as there is nothing that has higher value.
+1.1.5.4.3.2.1.1. Con: Humans are not rational decision-makers, but [irrational beings](https://qz.com/922924/humans-werent-designed-to-be-rational-and-we-are-better-thinkers-for-it/) who systematically make choices that defy clear logic.
+1.1.5.4.4. Con: Depending on how the parent claim defines infinity, this can be true or false.
+1.1.5.4.4.1. Pro: If we are talking about [potential infinity](https://math.vanderbilt.edu/schectex/courses/thereals/potential.html), the equation can be rewritten as: 1*X=5*X \(where X is a life\) lim\(X-\>infinity\) X/\(5X\).
+1.1.5.4.4.2. Pro: The [rule of L'Hopital](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule) can be applied, yielding: 1/\(5*1\) As the numerator and denominator are not the same, the initial statement of 1*X=5*X would be wrong.
+1.1.5.5. Con: -> See 1.1.1.3.
+1.1.6. Pro: There is no moral difference between causing someone to die through your own actions and causing someone to die through negligence; therefore the only relevant variable here is the number of people who will die.
+1.1.6.1. Con: In the trolley problem, you are not initially the cause of any person's death unless you pull the lever. You had no prior obligation to either group, and you did not, by your own action cause the situation to exist.
+1.1.6.2. Con: Negligence implies things such as accidental oversight, not paying attention whether deliberately or due to distraction, cutting corners when you know there may be consequences, etc. Not pulling the lever would not constitute 'negligence' in any legal or literary sense.
+1.1.6.2.1. Con: The [legal definition](https://www.law.cornell.edu/wex/negligence) of negligence does not depend on the end result being unknown or unintended. Not pulling the lever could be considered a breach of duty to pull the lever which results in the deaths of five people with 100% probability, where the burden of pulling the lever is not as bad as that.
+1.1.6.2.1.1. Con: Nothing in the legal definition of negligence cited, "A failure to behave with the level of care that someone of ordinary prudence would have exercised under the same circumstances." would make failure to pull the lever a legal breach of duty. Conversely, pulling the lever would directly cause injury, and hence could be considered a [breach of duty.](http://www.rotlaw.com/legal-library/what-is-breach-of-duty/)
+1.1.6.2.1.1.1. Con: Since [90% of people](https://en.wikipedia.org/wiki/Trolley_problem#Survey_data) say they would pull the lever, a case could be made that pulling the lever is a level of care that someone of ordinary prudence would exercise.
+1.1.6.2.1.1.1.1. Con: 90% of [147 students](http://www.dailymail.co.uk/sciencetech/article-2069017/Ninety-cent-pull-lever-kill-But-save-lives-study-finds.html) is a very small and biased sample group.
+1.1.6.3. Con: It's unfair to consider the one who pulls or not the lever to be the resposible of one or five's people's deaths. The responsible one is really whoever put the trolley on the tracks in the first place.
+1.1.6.3.1. Con: When people's lives are at stake, it is selfish to change the focus to whether or not the bystander deserves blame for what happens. The bystander's priority should be saving lives, not avoiding blame.
+1.1.6.4. Pro: Negligence is as much of a choice as intervening.
+1.1.6.4.1. Pro: The primary difference between the two choices seems to be the bodily movement one commits when intervening. It is unclear why those movements should be morally salient.
+1.1.6.4.2. Con: There is a moral difference between causing death and failing to prevent one.
+1.1.6.4.2.1. Pro: In almost every perspective, being the active cause of another's death is considered immoral, while only some moral systems consider failing to prevent death as immoral.
+1.1.7. Con: No one loses five lives. Everyone involved stands to lose one life. Therefore, there can be no duty to pull the lever, all things being equal.
+1.1.7.1. Con: Five people lose one life, compared to one person losing one life. Therefore, the assertion that both options are equal is false as either 5 or 1 experiences of life are being ended.
+1.1.7.2. Con: Society as a whole loses five lives. It is collective suffering.
+1.1.7.3. Con: This is flawed if you consider the other extreme. Take the case where everyone on Earth is to die bar one person or, by a change you can make, one person dies and everyone else lives. It can be easily argued that it is ethical to change events that mean the one person dies. If it's unethical to save 5 but not humanity then you're adopting arbitrary measures of ethical practice \(i.e. there exists a point between 5 and ~6 billion people in which it becomes ethical to kill someone\).
+1.1.7.3.1. Con: Mankind have a higher value than any number of people. Thus, this new problem is not anymore a number issue.
+1.1.7.3.1.1. Con: If the number of people were 1 billion versus 1 instead of 5 versus 1, it would remain a number issue, and each person would still only stand to lose one life. If 1 billion deaths are a greater loss of life than 1 death, then the number of people who lose their lives must be significant.
+1.1.7.3.1.1.1. Con: If it were 1 billion people versus 1, pulling the lever would still be wrong because each person only stands to lose one life.
+1.1.7.4. Con: I get the one life of 5 persons to be lost. Therefore, I would lose 5 times 1 life \(not mine\), which is 5 lives.
+1.1.7.5. Con: -> See 1.1.7.3.1.1.
+1.1.7.6. Pro: A person or an experience of life is unique, it cannot be compared to another to be considered equivalent. Therefore 5 or any number \(other than 1\) is unapplicable to the concept of "person", "life", etc.
+1.1.8. Pro: The chances are higher that one of the five will find the meaning of life.
+1.1.8.1. Con: This argument is purely hypothetical. It is equally, if not more likely, that one of the five becomes a murder or terrorist that harms society.
+1.1.8.1.1. Pro: It is quite likely that one of the five will be a criminal given that criminals make up one of the [largest groups](https://www.brennancenter.org/blog/just-facts-many-americans-have-criminal-records-college-diplomas) of society \(in the US\).
+1.1.8.1.1.1. Con: The [vast majority of criminals in the US](https://www.prisonpolicy.org/reports/pie2020.html) are not convicted of a crime that is on par with a person dying.
+1.1.8.1.1.2. Con: A person who committed a crime in the past is not necessarily going to commit a crime in the future.
+1.1.8.2. Con: -> See discussion #8776: There is no meaning of life.
+1.1.9. Pro: -> See 1.1.5.3.2.
+1.1.10. Pro: The higher the number of rescued persons, the higher the chance that any one of them will rescue another person in the future.
+1.1.11. Pro: The trolley problem assumes that the lives of all people involved have approximately the same value and lifespan. Therefore, it is right to pull the lever and save more human years, creating an outcome that conserves more value.
+1.1.11.1. Con: They all have the same "future happiness." If human life is inherently suffering, it's better to euthanize five people than one.
+1.1.11.2. Con: If we have the moral right to decide the position of the lever, then it is probably morally right to pull it \(in this highly contrived example\). But first we must answer whether or not we have that right and, if so, what gives us that right.
+1.1.11.2.1. Con: Deciding the position of the lever, and thereby deciding whether the best outcome or a worse outcome happens, is a responsibility, not a right.
+1.1.11.2.2. Pro: You should do nothing; you have no right to choose life over death for any person.
+1.1.11.2.2.1. Pro: The moral duty not to interfere with someone else's living is [superior](https://www.jstor.org/stable/3505073?seq=1#page_scan_tab_contents) to any moral duty to rescue someone from their own incapacity to stay alive.
+1.1.11.2.2.1.1. Con: Whether one moral duty is superior over another is subjective and not quantifiable.
+1.1.11.2.2.1.2. Pro: Our capacity to choose what to do with our bodies is our most fundamental right. Therefore, no one has a right to make decisions about our bodies for us.
+1.1.11.2.2.1.2.1. Pro: Our lives are important, not merely because we can experience happiness, but because we are able to use reason to make choices about our lives and make meaning for ourselves \([2.2](https://plato.stanford.edu/entries/constructivism-metaethics/)\).
+1.1.11.2.2.1.2.2. Con: Our autonomy is directly dependent on our remaining alive. Saving the five, therefore, protects the autonomy of a greater number of people.
+1.1.11.2.2.1.2.3. Con: Being run over by a trolley or not due to your placement on the tracks isn't choosing what to do with your body. You have no choice in the matter whether the lever is pulled or not, regardless of which side you are on.
+1.1.11.2.2.1.2.4. Con: -> See 1.1.2.2.3.1.2.1.
+1.1.11.2.2.1.3. Con: There is no such thing as moral duty. You should do the right thing because you should care about other people.
+1.1.12. Con: Possible good consequences \(such as saving five people\) are irrelevant to whether or not pulling the lever is right, as the action must be right in and of itself regardless of consequence to be morally correct \(under [deontology](http://www.bbc.co.uk/ethics/introduction/duty_1.shtml)\).
+1.1.12.1. Pro: Pulling the lever would be taking the ethical stance that you can be the arbiter of who lives and who dies at any time based on your own judgement of the utility of their lives and your own evaluation of the circumstances.
+1.1.12.1.1. Con: Not pulling the lever on the grounds of not wanting to choose would be taking the ethical stance that the position of the rails before you arrived should be the arbiter of who lives and who dies based on no information at all.
+1.1.12.1.2. Con: Pulling the lever may be taking the ethical stance that you can be the arbiter of who lives and who dies in this situation, but not "at any time".
+1.1.12.1.3. Con: It is not a matter of "\[one's\] own judgment" of utility that it's good for people to keep living, and that five identical good things are worth more than only one. Following such rules in simple situations is not the same as claiming the right to judge the utility of people's lives in general.
+1.1.12.1.4. Pro: The bystander shouldn't be able to play god and decide that a group of people is more important than the one person.
+1.1.12.2. Con: According to that type of thinking this question is not able to be answered. Without an outcome, there is no value in either option making the question worthless.
+1.1.12.3. Con: Pulling a lever in and of itself is neither good/moral/right nor evil/immoral/wrong, therefore, considering it immoral/wrong to pull the lever because pulling the lever regardless of consequences is immoral/wrong is false.
+1.1.12.3.1. Pro: If the lever was not connected to the tracks or anything else, there would be no moral debate on whether or not to pull it - it would be irrelevant.
+1.1.13. Con: -> See 1.1.3.2.2.
+1.1.14. Con: In case of a conflict in a particular instance between utility and general rules of conduct, such as laws and social moral codes a utilitarian agrees with or rules he himself holds to in general, the general rules should be appealed to first as the harm in violating these rules would [offset](https://www.iep.utm.edu/mill-eth/#H6) any utilitarian gains from the particular instance.
+1.1.14.1. Pro: According to the ethical system of [rule utilitarianism](https://en.wikipedia.org/wiki/Rule_utilitarianism), exceptions to overarching laws, rules, and moral codes should not be made for particular instances as following rules leads to the greatest good overall, even if a short term better consequence could be expected by allowing the exception.
+1.1.14.1.1. Con: Following the rule "kill one person to save five when it is guaranteed to work and you have perfect information" leads to a greater good than not following that rule.
+1.1.14.2. Con: -> See 1.1.14.1.1.
+1.1.15. Con: -> See 1.1.3.6.
+1.1.16. Pro: The greater number of lives are worth more because they can have more children and will thus create even more lives.
+1.1.16.1. Con: A larger population is not necessarily good.
+1.1.16.1.1. Pro: The earth is suffering from overpopulation.
+1.1.16.1.1.1. Con: -> See discussion #9226: Global overpopulation is a myth.
+1.1.16.1.2. Con: The argument that a large population is bad could also be used to justify mass murder and genocide.
+1.1.16.1.3. Pro: According to [Malthusianism](https://en.wikipedia.org/wiki/Malthusianism), it is our moral obligation to keep the population growth at the lowest rate possible.
+1.1.16.2. Pro: The more people get killed, the more potential years of life get eliminated.
+1.1.16.3. Con: It is not known if the people in question could or would have children.
+1.1.16.3.1. Con: In absence of other information, the expected number of children a person will have is positive. Therefore that number times five is greater than the number times one.
+1.1.17. Pro: For the state, each of them is a taxpayer. It is better to have five than one of them.
+1.1.17.1. Con: In the short-term, the state would earn more on inheritance tax if five people die.
+1.1.17.2. Con: Moral decisions are not justifiable in terms of what is most beneficial to the state.
+1.1.17.2.1. Pro: Even if the state were the moral arbiter, it would be rare to find laws requiring one to pull the lever.
+1.1.17.3. Con: The five individuals could all be on some sort of social welfare and thereby cost the state more to keep alive.
+1.2. Con: By pulling the lever, you actively interfere with fate/nature/higher being's plan, which is wrong.
+1.2.1. Pro: The preservation of natural reserves and parks is generally considered [good](https://npansw.org.au/what-we-do/why-are-national-parks-important/) in our societies. Therefore, trusting nature over humanity can be considered as morally recommendable.
+1.2.1.1. Con: Natural reserves and parks are preserved because humans choose for them to be, for aesthetic, environmental, or ideological purposes. They have nothing to do with trusting nature with anything.
+1.2.1.2. Con: Preserving natural reserves is an action which prevents others from doing what they would naturally do otherwise \(destroying the ecosystem\), and thus can be interpreted as actively interfering with fate/nature/Higher being's plan.
+1.2.1.3. Con: "Nature" in the sense of natural reserves and parks had nothing to do with the creation of trolleys, the failure of brakes, or the presence of six people on the tracks.
+1.2.2. Pro: According to philosophers, the fate of the cosmos and universe tends towards Goodness.
+1.2.2.1. Pro: In Greek philosophy, the cosmos has been [described](https://en.wikipedia.org/wiki/Cosmos)(Plato, describes the idea of the good, or the Godhead, sometimes teleologically, as the ultimate purpose of all conditioned existence; sometimes cosmologically, as the ultimate operative cause; and has begun to develop the cosmological, as also the physico-theological proof for the being of God; but has referred both back to the idea of the Good, as the necessary presupposition to all other ideas, and our cognition of them.) as ultimately good.
+1.2.2.2. Con: The fate of the cosmos and universe is that all life will inevitably end from [heat death](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) if not from something else first. This is bad.
+1.2.3. Pro: God is generally regarded to be good.
+1.2.3.1. Pro: By considering Christians, Muslims, and Jews, [most human beings on earth](https://en.m.wikipedia.org/wiki/List_of_religious_populations) appear to believe in a God who is omnibenevolent.
+1.2.3.2. Con: -> See discussion #1960: Because of the existence of evil, there cannot be a monotheistic God \(as traditionally conceived\).
+1.2.3.3. Pro: In the Bible, God is acknowledged as being 'good' by Jesus \([Mark 10.18](https://www.biblegateway.com/passage/?search=Mark+10%3A18&version=NIV)\).
+1.2.3.4. Con: That religious believers make up a majority of people does not mean that they are correct.
+1.2.4. Con: If the higher being/nature/fate is so trustworthy that people should not interfere with its plan, it shouldn't let anyone die.
+1.2.4.1. Con: The five people on the track may do terrible things in the future, it may be better for them to die now.
+1.2.4.1.1. Con: A higher being could prevent those terrible things, or prevent those five people from wanting to do terrible things.
+1.2.4.2. Pro: If God is omnipotent and good, they should save everyone if it is worth it.
+1.2.4.2.1. Pro: An omnipotent God can resurrect the dead or even prevent the death of a person.
+1.2.5. Con: The train is human made, not designed by God or nature. It is already out of its plan.
+1.2.5.1. Con: Since God gave human beings the rationality to build a train, it means that the same falls under God's plan.
+1.2.6. Con: Humans make decisions every second that affect others. Interfering with any destiny is a common event.
+1.2.7. Con: If Fate/nature/Higher being’s plan is so good that it is trustworthy, you should also be good, which means you should pull the lever to save as much as you can.
+1.2.8. Con: If God had a plan that micromanaged trolley lever pulling, the choice you make would be moot as whichever choice was made would be God's plan.
+1.2.8.1. Con: It may be the case that God purposefully puts us in situations to test our moral resolve, which can be used to judge us.
+1.2.8.1.1. Con: This directly contradicts the original claim that pulling the lever actively interfered with fate, if the action itself is not relevant, but the judgement.
+1.2.9. Con: God's plan for the outcome of events does not necessarily imply God's plan for your own personal action.
+1.2.9.1. Pro: One example of God having a different desire for the overall outcome and an individual's actions would be when Joseph's brothers [sold him into slavery](https://www.biblegateway.com/passage/?search=Genesis%2037%3A18-36&version=NLT). Individually, they should not have done so. However, God had intended for them to do so so that Joseph would be raised in Egypt.
+1.2.10. Con: This scenario was already initiated by an intelligence which is assumed to be very similar to your own and of a similar sort. Therefore, unless you had some higher intentions about this higher being's plans, you have no reason to assume that his plans did not involve you undoing what the other person did.
+1.2.11. Con: Fate/God's plan could have been to bring you to the lever so you could pull it, thereby saving the greater number of people. Pulling the lever would thus be fulfilling the plan.
+1.2.11.1. Pro: You need to save as many people as possible because if you do your part, nature/Fate/God will do its part: the greater good.
+1.2.11.1.1. Pro: Inactivity is not trust, but laziness. Laziness is wrong.
+1.2.11.1.1.1. Con: The philosophy of Taoism advocates a certain form of inactivity, [wu wei](https://www.theschooloflife.com/thebookoflife/wu-wei-doing-nothing/), that allows for a more harmonious approach to accomplishing what needs to be done. This is not laziness.
+1.2.11.1.2. Pro: -> See 1.2.4.2.
+1.2.11.1.3. Con: If God/Fate/Nature is good, it doesn't require you to do "your" part for the greater good to happen.
+1.2.11.1.3.1. Con: If nature/Higher being/Fate is trustworthy, the greater good is the fact that the lives of these people depend on my decision. Therefore, I need to do my part to take the best decision.
+1.2.11.1.4. Con: The concept of [fate](http://www.dictionary.com/browse/fate) holds that what is fated to occur will happen regardless of the bystander's action. If the bystander does not pull the switch, he was fated to leave it alone. If he pulls the switch, he was fated to pull it.
+1.2.11.2. Pro: God purposefully puts people in positions in which they must prove their moral value.
+1.2.11.2.1. Pro: In one of the main foundational stories of [Islam](https://sites.google.com/site/islamandthequran/sacrifice-of-the-son-of-prophet-abraham-in-quran-chapter-37), [Judaism and Christianity](https://www.biblegateway.com/passage/?search=Genesis%2022:2&version=NIV), God asks Abraham/Ibrahim to sacrifice his son to prove Abraham's faithfulness. Yet he prevents the son's death at the last moment, by an angel.
+1.2.11.2.1.1. Con: In the Jewish and Christian traditions, God asked Abraham to sacrifice his son before God had given the law \([the Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments)\) about murder, and so God was not tempting Abraham to violate His commands.
+1.2.11.2.1.1.1. Con: Whereas the revelation of the Ten Commandments was not written yet, in [Genesis/Bereshit 9:6](https://www.biblegateway.com/passage/?search=Genesis%209%3A6&version=CEB), the order not to kill a human being was given to mankind \(through Noah\).
+1.2.11.2.1.2. Con: In the Islamic tradition, Abraham was never commanded by God to sacrifice his son, but rather [self-interpreted a dream](http://submission.org/Abrahim_His_Son.html) as meaning God wanted him to sacrifice his son.
+1.2.11.2.1.2.1. Con: [According to the source](http://submission.org/Abrahim_His_Son.html), this is an ongoing debate in the Islamic tradition, not a closed subject among Muslims.
+1.2.11.2.1.2.2. Con: In the Quran, Allah rewards Abraham for believing the dream, calling it a test. Thus, even if not a command, it would be an interpretation supported by God. \([37: 105-16](https://www.islamicstudies.info/tafheem.php?sura=37&verse=99&to=113)(You have believed the dream. We thus reward the righteous. That was an exacting test indeed.)\)
+1.2.11.2.1.3. Pro: In the New Testament text, it is explained that Abraham had faith that God would [raise Isaac from the dead](https://www.biblegateway.com/passage/?search=Hebrews+11:17-19) if he died prematurely, and so he was not expecting the sacrifice of his son to be final.
+1.2.11.2.2. Pro: By showing the "moral good" in the human heart, God proves the power of his forgiving love over natural selfishness to human and non-human beings.
+1.2.11.2.3. Con: Most major conceptions of a single God worldwide do not involve a God who [deliberately tempts](http://biblehub.com/james/1-13.htm) people to do what would otherwise be [forbidden as wrong](https://islamweb.net/en/article/113432/islam-does-not-tolerate-the-killing-of-innocents) in hopes of God giving a positive outcome.
+1.2.11.2.3.1. Con: -> See 1.2.11.2.1.
+1.2.11.2.3.2. Con: Since there is no intent of killing and a small probability to survive, pulling the lever is not a murder and thus should not be considered as unlawful in religious terms.
+1.2.11.2.3.2.1. Pro: In most religions, the commandment not to kill is not about "any" killing, but mostly about murder, which emphasizes the intent.
+1.2.11.2.3.2.1.1. Pro: Islam, Judaism and Catholicism [have](https://en.wikipedia.org/wiki/Islam_and_war) [recognized](https://www.cardus.ca/comment/article/the-old-testament-holy-war-and-christian-morality/) sacred and/or God's appointed wars in history.
+1.2.11.2.3.2.1.2. Con: Murder in scripture, considered Holy by the Christian and Jewish religions, [does not depend](https://www.biblegateway.com/passage/?search=Leviticus+24%3A17&version=ESV) on there being an [intent of anger](https://www.biblegateway.com/passage/?search=Exodus+21%3A22-25&version=ESV) or hatred, but rather is the [shedding of blood](https://www.biblegateway.com/passage/?search=Genesis+9%3A6&version=ESV) outside of [war](https://www.biblegateway.com/passage/?search=Judges+3:29&version=ESV), capital [punishment](https://www.biblegateway.com/passage/?search=Numbers+35%3A19&version=ESV), or [avenging](https://www.biblegateway.com/passage/?search=Numbers+35%3A19&version=ESV) a relative's murder.
+1.2.11.2.3.2.2. Con: Knowingly [creating an unsafe situation](http://biblehub.com/deuteronomy/22-8.htm) causes one to bear the guilt of bloodshed in the Jewish and Christian religions.
+1.2.11.2.3.2.2.1. Con: In [the verse quoted](http://biblehub.com/deuteronomy/22-8.htm), the sin is the choice not to care about safety at all but does not condemn ALL putting in unsafe situations.
+1.2.11.2.3.2.2.1.1. Pro: [The verse](http://biblehub.com/deuteronomy/22-8.htm) commands the use of safety barriers on rooftops. This puts the workers that will put the barriers in an unsafe situation.
+1.2.11.2.3.2.2.1.2. Pro: It can be seen as naive to think that all unsafe situations must be avoided. From meteors to diseases, most human situations are unsafe, and bringing a child into the world or having an employee automatically places us in a responsible situation for the situations of others, in which 100% safety is impossible to achieve.
+1.2.11.2.3.2.2.1.3. Pro: Sending soldiers to war [was an order of God](http://biblehub.com/niv/deuteronomy/20.htm) in the Jewish and Christian Scriptures, and war is not 100% safe.
+1.2.11.2.3.2.2.2. Con: The bystander does not create the unsafe situation in the trolley scenario, he comes across it.
+1.2.12. Con: There is no evidence that fate is real, nor is there any evidence that there is a higher being.
+1.2.12.1. Con: The uncertainty about the existence of fate or God can equally be used to support the fact of acting in accordance with it.
+1.2.12.1.1. Con: If one is uncertain if fate is real, or if a god exists, then relying on a "plan" imposed by fate/god is illogical, and should not factor into any consideration of who should live and who should die.
+1.2.12.1.2. Con: One would have to have good reason to believe it exists in order to have good reason to believe that you know what "acting in accordance with it" means.
+1.2.12.1.3. Pro: As laid out [Pascal's Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager), if one is unsure whether or not God exists, they ought to act as though He does, so as to reap the rewards of Heaven.
+1.2.12.1.3.1. Con: This would be bad for you if there is a deity who punishes people who believe in your god, or gives them more punishment/less reward than people who believe in no deity at all.
+1.2.12.1.3.2. Con: This would be immoral if acting as though God exists leads you to cause harm to others due to your mistaken belief.
+1.2.12.1.3.2.1. Pro: If pulling the lever being wrong is contingent on God existing, then falsely believing that God exists will lead one to refusing to pull the lever when it was in fact right, resulting in four more deaths than there could have been.
+1.2.13. Pro: Since [most people are religious](https://www.compassion.com/poverty/religion-quick-facts.htm), this is an important consideration against pulling the lever.
+1.2.13.1. Con: If a religious person holds to determinism or fatalism, then they would hold that no matter what they choose it was [pre-determined](https://en.wikipedia.org/wiki/Theological_determinism) by God/fate/a higher being.
+1.2.13.1.1. Pro: [Deterministic](https://www.revealedtruth.com/doctrine/gods-3-wills/) and [Calvinist](https://www.gty.org/library/Articles/A167/Gods-Absolute-Sovereignty) Christians hold that God pre-determines all things, including our choices.
+1.2.13.2. Con: Religious people who believe God allows them agency, would generally prioritize submission to the revealed will of God or to the teachings of their faith than consideration of what a Higher Being might plan on doing.
+1.2.13.2.1. Pro: Focusing on doing [the revealed will of God](https://billygraham.org/answer/how-do-i-know-gods-will-for-my-life/), which we know, over trying to guess the future plans of God, is emphasized in Christianity.
+1.3. Con: If self-sacrifice for a greater number of people is not an obligation, then sacrificing someone else to save a greater amount of people without their consent cannot be the right thing to do.
+1.3.1. Pro: Judith Jarvis Thompson set up a trolley problem where the bystander can turn the trolley unto themself. If one is wary of doing this, they are [not entitled](http://jesp.org/articles/download/RobertShaver.pdf)(\[s\]ince he wouldn’t himself pay the cost of his good deed if he could pay it, there is no way in which he can decently regard himself as entitled to make someone else pay it. .. Very few of us could decently regard ourselves as entitled to choose that option) to turn the track on others.
+1.3.1.1. Con: There are reasons why a person might consider their own life a greater cost to pay than another person's life which do not contradict the belief that five other people are worth more than one.
+1.3.1.1.1. Pro: There are some traits people can have such that a person with trait X is more valuable than a person without it. If the bystander knows that they have trait X, and each person on the tracks /might/ have trait X, and they are otherwise identical, then the value of the bystander's life is greater than the value of the one person on the track.
+1.3.1.1.1.1. Pro: Whether the bystander or the lone victim dies, the survivor has the same probability of being in another trolley problem in the future as the bystander. To a utilitarian, it is better in that situation for the survivor to be someone who would definitely pull the lever \(the current bystander, if they are a utilitarian\) than to be someone who may or may not pull the lever \(the lone victim, who the bystander knows nothing about\).
+1.3.1.1.1.1.1. Con: If the bystander is utilitarian, he believes the utility of each life is 1 and that other unknown factors, such as comparative morality, profession, future actions, or ethical views do not change that. One of the three central pillars of utilitarianism is that [each life counts the same](http://lucidphilosophy.com/863-2/). As such, if a utilitarian would not sacrifice himself if he could, he cannot claim that the potential victim has less utility and is therefore a valid sacrifice.
+1.3.1.1.1.1.1.1. Pro: If the bystander reasoned that he would not sacrifice himself, if he could, because he would personally pull the lever based on his interpretation of utilitarian ethics, but he would sacrifice the one person because there was no guarantee that person held utilitarian ethics, he would be basing the decision in his perceived importance of himself as a holder of utilitarian ethics, but not in actual [utilitarian ethics](http://caae.phil.cmu.edu/Cavalier/80130/part2/sect9.html).
+1.3.1.1.1.1.1.1.1. Pro: The bystander with consistent utilitarian ethics should not base such a weighty decision off the [subjective](http://lucidphilosophy.com/863-2/) hope or intent that there will be good consequences in the future, when it is not generally reasonable to expect those intended consequences will actually happen with high probability. Instead, he would seek a solution that was either [absolutely right](http://lucidphilosophy.com/863-2/) based on the known consequences for  those [currently involved](http://www.sparknotes.com/philosophy/utilitarianism/section3/) or at least [objectively right](http://lucidphilosophy.com/863-2/) in view of known, reasonable consequences.
+1.3.1.1.1.1.1.1.2. Con: If the word "utilitarian" in the above discussion is replaced with "person who believes the ethical decision is that which maximizes expected utility over all persons", then the bystander's position is still exactly that which Judith Thompson claims does not exist \(a consistent position which justifies pulling the lever but does not justify sacrificing oneself to save a stranger\), whether he is an "actual utilitarian" or not.
+1.3.1.1.1.1.1.2. Con: The lives of people who may die as a result of killing the more ethical person instead of the less ethical person also count the same as the lives of the people on the trolley.
+1.3.1.1.1.1.2. Con: The likelihood of an actual trolley scenario in real life is so low that the problem is usually thought to be a [thought experiment](https://www.theatlantic.com/technology/archive/2015/10/trolley-problem-history-psychology-morality-driverless-cars/409732/) only, and not [representative of any real life problem](https://www.theatlantic.com/health/archive/2014/07/what-if-one-of-the-most-popular-experiments-in-psychology-is-worthless/374931/). The near impossibility of either himself or the one person encountering a second real trolley problem in the future, and potentially saving another net 4 lives, would not be greater than the probability of the one person saving future lives in other more plausible scenarios.
+1.3.1.1.1.1.2.1. Pro: Jonathan Smith saved[~30 people](http://www.telegraph.co.uk/news/2017/10/03/hero-father-shot-neck-saved-30-people-las-vegas-shooter/) from the Las Vegas shooter.
+1.3.1.1.1.1.2.2. Con: The probability of the one person saving future lives in more plausible scenarios is only relevant if it differs from the probability of the bystander saving that number of future lives in those scenarios. This assumption is not made by the discussion's trolley problem or this modified trolley problem.
+1.3.1.1.1.1.2.2.1. Con: The probability is more than one in 7.6 billion that any individual will save multiple lives within his own lifetime, since there are [known people](https://en.wikipedia.org/wiki/Norman_Borlaug) who [have](https://www.thesun.co.uk/living/2725172/the-courageous-man-who-saved-75-lives-despite-never-touching-a-gun/). There are, as of yet, no real world cases in which a bystander came across this trolley scenario. Since the trolley problem has been around in some form [since 1905](https://en.wikipedia.org/wiki/Trolley_problem), we can assume that the probability of anyone encountering a real world trolley problem is less than 1 in 7.6 billion, and even smaller to encounter two.
+1.3.1.1.1.1.2.2.1.1. Con: -> See 1.1.3.2.2.3.2.2.1.
+1.3.1.1.1.1.2.3. Pro: -> See 1.1.3.2.2.7.1.
+1.3.1.1.1.1.3. Con: -> See 1.3.1.1.1.1.1.1.
+1.3.1.1.1.1.4. Con: That some would pull the lever because they would pull the lever again if given the chance is a circular support, not a reason that informs why pulling the lever would be the right thing to do.
+1.3.1.1.1.1.4.1. Con: People don't pull the lever because they would pull the lever again if given the chance. They pull the lever because one person dying is better than five people dying. What is relevant to the alternative hypothetical is that they would choose to be the one who chooses whether or not to pull the lever.
+1.3.1.1.1.2. Con: This line of reasoning for the bystander would be morally incorrect, as it would have no basis. Even if the bystander had a reason to believe himself especially important, he would have no way of determining the relative importance of the other potential victims, such as profession or philanthropy.
+1.3.1.1.1.2.1. Con: The value of a certain benefit is greater than the value of a possible equal benefit which one has no way of determining for sure exists.
+1.3.1.1.1.2.1.1. Pro: If possible benefits are considered equal to certain benefits, then it is right to participate in every gambling opportunity that exists as the possible benefit is greater than the certain cost.
+1.3.1.1.1.2.1.2. Con: The bystander does not have a certain benefit, since he does not know for certain that he will encounter future trolley scenarios, have the opportunity to save future lives, or even live for another day.
+1.3.1.1.1.2.1.3. Con: A certain benefit can be worth less to a person than a possible benefit depending on the risk, reward, and potential value of the possible benefit.
+1.3.1.1.1.2.1.3.1. Pro: A man who has the current certain benefit of a $7.50 an hour job may decide the risk, work, and cost of attending college is worth the possibility of a high salaried career.
+1.3.1.1.1.2.1.3.2. Con: There is no basis for claiming that a person who is less likely to save lives than the bystander would save more lives than the bystander if he were to save lives. Thus, the value of either one of them saving lives is the same before the probability is considered.
+1.3.1.1.1.2.1.4. Con: There is no basis for the bystander to assume that any possible benefit of the one living would be an equal one to that of himself living.
+1.3.1.1.1.3. Con: For the bystander pulling the lever to be the right thing to do in all cases, then it must be the right thing to do for any bystander, and not just a bystander with a particular reason to think he is individually more valuable or important than any one particular victim.
+1.3.1.1.1.3.1. Con: -> See 1.1.3.2.2.3.2.2.1.2.1.1.1.1.
+1.3.1.1.1.4. Pro: If the bystander actively helps more people than the average person does, then saving himself will help more people than saving a stranger.
+1.3.1.1.1.5. Con: The bystander could be deceived about the expected benefits of his own traits.
+1.3.1.1.1.5.1. Pro: For example, if the bystander knows he personally would pull the lever, he could believe that that known trait is liable to lead to an expected greater happiness for mankind than someone whose choice is unknown, but that belief would have no basis and actually be  [contrary to data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259516/) that shows people who say they will pull the lever are less likely to contribute to the overall good of humanity.
+1.3.1.1.1.5.1.1. Con: Individuals know whether or not they have concern for the overall good of humanity \(as well as how much they donate, whether they identify as egoists, and everything else in those studies\) - they do not assume that they do because they would pull the lever. A study on the frequency of those traits in people who happen to agree on pulling the lever cannot inform a person analyzing himself regarding whether or not he has those traits.
+1.3.1.2. Con: If the bystander's life has value not less than the value of the stranger's life, then he still has a moral imperative to save the five people at the cost of one person but has no moral imperative to sacrifice himself instead of sacrificing the stranger.
+1.3.1.2.1. Pro: If two things are equal or are assumed to be equal for the purposes of a decision, then there cannot be an imperative to choose a specific one of them instead of the other.
+1.3.1.2.1.1. Con: The two lives may be equal in value, but not in position, so they are not equal in every way for the purposes of making a decision.
+1.3.1.2.1.1.1. Pro: Only the bystander holds the agency of choice in a three-track scenario. The lone potential victim has no ability to change the outcome of the scenario.
+1.3.1.2.1.1.2. Pro: The bystander owns his own body and may freely choose to sacrifice it or not, but he does not own the body of the one victim.
+1.3.1.2.1.1.2.1. Pro: A person may choose to donate $1,000 directly to a life-saving treatment, or not. Yet he does not own his neighbor's money, so he cannot decide for his neighbor whether he must finance a life-saving operation or not.
+1.3.1.2.1.1.3. Con: If two outcomes are equal in value, then they are equal in every way for the purposes of making a utilitarian decision, or a decision based on utilitarian-like reasoning.
+1.3.1.2.2. Con: Mill [sums up](https://jbirds1.wordpress.com/2008/10/16/self-sacrifice/) utilitarianism as “To do as you would be done by and to love your neighbor as yourself constitute the ideal perfection of utilitarian morality.” A bystander willing to sacrifice another but not himself would not be loving his neighbor as himself.
+1.3.1.2.2.1. Con: A bystander willing to sacrifice himself but not another would also not be loving his neighbour as himself. A bystander willing to sacrifice either one, but being required to choose one or the other, is loving his neighbour as himself.
+1.3.1.3. Pro: If individuals have no moral right to make others sacrifice themselves, then killing the one person is an immoral act in a way that allowing the five to die is not.
+1.3.2. Con: A person can believe that they have a moral obligation to preserve their own life and also believe that they have a moral obligation to save as many people as they can where their life is not at risk.
+1.3.3. Con: Self-sacrifice for a greater number of people is a moral obligation.
+1.3.3.1. Con: In real life, people seldom take this obligation as far as it is specified in the scenario. They help each other, but they don't regularly sacrifice the lives of others or themselves.
+1.3.3.2. Con: Self-sacrifice may be a highly moral and virtuous act, but it does not follow that such an obligation exists.
+1.4. Con: By pulling the lever you actively cause someone to die. That is wrong.
+1.4.1. Pro: By consciously acting, rather than passively watching, you bear more responsibility for choosing to kill one person than for merely allowing five people to die.
+1.4.1.1. Pro: By actively pulling the lever there is a chance that the resulting situation would be worse than if you did absolutely nothing to influence the outcome.
+1.4.1.1.1. Con: The possibility that the interference in the described situation would lead to a subjectively worse outcome is pretty small given that the assumption is that either five people or one person will die.
+1.4.1.1.2. Con: If one imagines that pulling the lever could result in an unexpected bad consequence, then to be objective one must imagine that something unexpectedly bad could occur with the other choice. Without the choices guaranteeing an outcome, there is no controlled discussion possible.
+1.4.1.2. Pro: If they do not pull the lever they are no murderer — it is a choice between murder and manslaughter.
+1.4.1.2.1. Con: Not pulling the lever would be a failure to render assistance to five people.
+1.4.1.2.1.1. Pro: [Failure to render aid](https://en.wikipedia.org/wiki/Good_Samaritan_law) is an offence in some countries.
+1.4.1.2.1.1.1. Con: This is only true in a small number of countries - [Finland, Germany and Israel](https://en.wikipedia.org/wiki/Good_Samaritan_law).
+1.4.1.2.1.2. Con: Failure to render assistance will not lead to prosecution when another person would have died regardless.
+1.4.1.2.1.2.1. Pro: The [doctrine of necessity](https://en.wikipedia.org/wiki/Justifiable_homicide) can justify manslaughter in this case.
+1.4.1.2.1.2.1.1. Pro: For example, this doctrine excuses circumstances when surgeons must kill the weaker of two conjoined twins in order to let the stronger one survive.
+1.4.1.2.1.2.2. Pro: In countries that have a legal requirement to render assistance to people in distress, this legal requirement [stops](https://en.wikipedia.org/wiki/Duty_to_rescue#Criminal_law) if doing so would put the helper or others in harm's way.
+1.4.1.2.1.2.2.1. Pro: In the [ten U.S. states](http://volokh.com/2009/11/03/duty-to-rescuereport-statutes/) that place some obligation to rescue, every one removes that obligation if it would imperil self or others.
+1.4.1.2.2. Pro: The bystander is not a member of the train company with a duty to fulfill. Not pulling the lever is therefore not an instance of negligence.
+1.4.1.2.2.1. Con: One's professional duties \(or lack thereof\) are subservient to the overriding moral imperative to do good.
+1.4.1.2.3. Pro: In [R v Dudley and Stephens](https://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens), a case that relates closely to the trolley dilemma, those who sacrificed one person for the survival of others were charged with murder.
+1.4.1.2.3.1. Con: R v Dudley and Stephens concerned cannabalism, where the survivors consumed the flesh of the victim in order to survive. This is decidedly more complex than the trolley problem.
+1.4.1.2.3.1.1. Con: While the circumstances are different, the differences mostly deal with how quickly death would come. The ethical quandary is similar enough to be considered a real-world application of the problem, as they chose to deliberately murder one to let multiple people survive.
+1.4.1.2.4. Con: This is a legal rather than a moral or ethical distinction.
+1.4.1.2.4.1. Con: While the distinction between manslaughter and murder may be enshrined in law, [its basis is moral](https://www.cps.gov.uk/legal-guidance/homicide-murder-and-manslaughter) and refers to the actor's intent.
+1.4.1.2.5. Con: Pulling a lever in this scenario is a deliberate action of which does or does not imply responsibility with consequences upon one's conscience. In a court of law, guilt of manslaughter or homicide may be determined by a judge if a lever is pulled with or without the intention to save five people. This is the current precedence of the law with interpretation.
+1.4.1.2.6. Pro: Societies generally prosecute anyone whose actions directly or indirectly cause death, but they do not prosecute those who [failed to rescue](http://www.lifeofthelaw.org/2013/05/wait-what-no-duty-to-rescue/) unless the death was due to their own [negligence](https://www.law.cornell.edu/wex/negligence). By actively pulling the lever, the bystander would be the one whose actions led to death, and thus would risk prosecution.
+1.4.1.2.6.1. Pro: By pulling the lever, the bystander fulfills two of the three parts of [the concept of culpability](https://en.wikipedia.org/wiki/Culpability): an intentional act, the consequences of which could have been controlled.
+1.4.1.2.6.2. Con: It would be difficult to prosecute someone for doing nothing when one could have helped. That does not mean society does not see such behaviour as morally equivalent to murder.
+1.4.1.2.6.2.1. Pro: If such a law existed, the bystander could claim they didn't see the people on the tracks or didn't recognize that - or how - they could help, and it would be in most cases impossible for a prosecutor to prove otherwise.
+1.4.1.2.6.3. Con: People who agree that a decision should not be illegal do not necessarily agree that it is the right thing to do.
+1.4.1.2.6.3.1. Pro: People have, and should continue to have, the legal right to free speech, even if they use that right to do things that are wrong.
+1.4.1.2.6.3.2. Pro: Society would not benefit from imprisoning people who fail to save lives, in the same way that they benefit from imprisoning violent criminals, even if both groups of people did an equal amount of wrong.
+1.4.1.2.6.3.2.1. Con: Society, in general, tries to [actively discourage](http://www.slate.com/articles/health_and_science/science/2013/05/rescuers_turning_into_victims_lessons_from_first_responders_on_saving_people.html) people from trying to rescue in cases where it might cause [danger to self](https://www.safetyservicescompany.com/industry-category/construction/railroad-track-safety/) or others. This shows that there is a moral difference, not a mere lack of benefit, which is the basis for why society does not pursue imprisonment.
+1.4.1.2.6.3.2.1.1. Pro: Most notably in relation to the trolley scenario, a man [trying to rescue someone near the tracks](http://www.slate.com/articles/health_and_science/science/2013/05/rescuers_turning_into_victims_lessons_from_first_responders_on_saving_people.html) was killed by a train.
+1.4.1.2.6.3.2.1.1.1. Pro: The general [safe distance](https://oli.org/images/page/Measureup.pdf) from train tracks is 28 ft on each side. A bystander closer than this risks danger, and so has no moral duty to rescue.
+1.4.1.2.6.3.2.1.2. Con: Society tries to discourage people from trying to rescue because the expected loss of life increases as a result rather than decreasing, not because it does not see protecting people as a moral imperative.
+1.4.1.2.6.3.2.1.2.1. Pro: Discouraging people from rescuing others protects the rescuers, but actively causes a small number of people to die who would have been rescued. If society considered actively causing a small number of deaths to be worse than accepting a larger number of deaths, it would not active discourage people from trying to rescue.
+1.4.1.2.6.3.2.2. Pro: The non-violent individual is unlikely to face a situation again, where they have to save lives; the probability that the criminal reoffends is higher.
+1.4.1.2.6.3.2.2.1. Pro: Five years after discharge, the recidivism rates in high-income countries such as the UK, the USA or France [top 50%.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472929/table/pone.0130390.t001/)
+1.4.1.2.6.3.2.3. Pro: Sending the non-violent individual to prison transforms them likely into a criminal: Individuals who were sentenced to prison for lesser crimes [wound up committing more serious offenses subsequently](https://qz.com/458675/in-america-mass-incarceration-has-caused-more-crime-than-its-prevented/), the more time they spent in prison.
+1.4.1.2.7. Con: -> See 1.1.2.2.3.1.2.1.
+1.4.1.3. Con: -> See 1.1.2.2.2.5.3.
+1.4.2. Pro: Killing a human on purpose is morally unacceptable, no matter what the circumstances.
+1.4.2.1. Con: -> See discussion #2016: Women should have a moral right to decide on abortion.
+1.4.2.2. Con: The objective may justify the methods.
+1.4.2.2.1. Pro: If a disease is spreading and causing severe damage to society but there is a person who could create a cure by being killed, the best option would be to sacrifice him to save other lives.
+1.4.2.2.2. Pro: Killing someone in self-defense or in the defense of others is morally acceptable.
+1.4.2.2.2.1. Con: In the trolley problem, the bystander is not at risk, so killing the one cannot be counted as self-defense.
+1.4.2.2.2.2. Con: Killing others in 'defense of others' is not always morally acceptable.
+1.4.2.2.2.2.1. Pro: It is not morally acceptable in cases where the defense is not [proportional to the danger](https://www.findlaw.com/criminal/criminal-law-basics/self-defense-overview.html), such as killing someone who insults someone else.
+1.4.2.2.2.2.1.1. Con: In the trolley problem, in particular, the killing would be proportional to the danger as the five people will die unless the one is killed instead.
+1.4.2.2.2.2.1.1.1. Con: It is not proportional in terms of "crime committed" - the one has commited no crime or wrong against the other five.
+1.4.2.2.2.2.1.1.1.1. Con: The "crime committed" has no bearing on the matter of defending oneself or others - defence is a matter of averting harm, not punishing crimes.
+1.4.2.2.2.2.1.2. Pro: Since the one person who would be killed did not place anyone else in danger, it is unclear why they would be a morally acceptable target.
+1.4.2.2.3. Pro: Police sometimes face situations where they might have to kill somebody or risk their lives.
+1.4.2.2.3.1. Con: The police's job inherently poses some risk to their life, and the job is to serve as the executor of the law by force. They are not morally justified in killing out of risk of their life.
+1.4.2.2.3.1.1. Pro: Police choose their job based upon considerations such as pay. They accept compensation for risking their lives.
+1.4.2.2.3.1.2. Pro: Killing out of risk of their life is not in accordance with the law they execute, which includes due process.
+1.4.2.2.3.2. Pro: Incapacitating a hostage-taker without endangering the lives of the hostages is often not possible. Thus, [police sometimes have to shoot to kill](https://edition.cnn.com/2016/09/28/us/why-police-shoot-to-kill/index.html) rather than to incapacitate.
+1.4.2.2.3.3. Con: Police also face situations where they kill people for no good reason at all. Not authorizing police to kill people would save lives.
+1.4.2.2.3.4. Con: Police are trained to not kill a person in a self-defense situation, but to instead incapacitate that person.
+1.4.2.2.3.4.1. Pro: Police often take precautionary measures to avoid ending up in a situation where killing a civilian is necessary.
+1.4.2.2.3.4.2. Con: Human errors are inevitable and will lead to situations in which police have to resort to lethal means.
+1.4.2.2.4. Pro: Soldiers are deployed to war zones, where they might have to kill or get killed.
+1.4.2.2.4.1. Con: Soldiers are [not acting freely](https://www.open.edu/openlearn/history-the-arts/the-moral-equality-combatants/content-section-8) and thus do not choose to become means with full consent.
+1.4.2.2.5. Pro: Killing a human is necessary under capital punishment.
+1.4.2.2.5.1. Con: -> See discussion #801: Capital punishment should be abolished in the United States.
+1.4.2.3. Pro: The position of [ethical non-violence](https://www.unyp.cz/news/global-ethics-and-nonviolence) holds that harm or killing will not achieve any end.
+1.4.2.3.1. Con: Violence often achieves an end. For example, violently robbing someone enriches the robber.
+1.4.2.3.2. Con: Totally rejecting violence is not sustainable in the real world as there are bad people who would not comply with these principles.
+1.4.2.3.2.1. Pro: Leaders like Hitler would not be stopped in a world where everyone adhered to the strict principles of non-violence.
+1.4.2.3.2.1.1. Con: A person like Hitler would not have come to power in the first place if the rest of the world would adhere to those principles. It would mean that Hitler would not have had any supporters to begin with.
+1.4.2.4. Pro: Murder is different from killing in general, as there is no sufficient authority for the killing.
+1.4.2.4.1. Pro: Pulling the lever is equivalent to murder with indirect intent as one actively overcame hurdles to create a situation which is [virtually certain to cause death or grievous bodily harm](https://en.wikipedia.org/wiki/Murder_in_English_law) to someone who was no threat to oneself.
+1.4.2.4.1.1. Con: By this definition, not pulling the lever is also murder because your conscious decision not to pull it is certain to cause death to five people.
+1.4.2.4.1.1.1. Pro: A human being killed on purpose is unavoidable in the trolley problem. The only decision is the amount of death.
+1.4.2.5. Con: -> See 1.4.2.4.1.1.1.
+1.4.3. Pro: Choosing to pull the lever feels different from inaction. It is a deliberate physical action that changes the scenario as opposed to passively observing it.
+1.4.3.1. Con: The only justification the parent argument gives for the action being deliberate is feeling. This is unjustified because feelings are arbitrary.
+1.4.3.1.1. Con: Feelings are [not arbitrary](https://fortelabs.co/blog/how-emotions-are-made/), since they are highly patterned; they often represent the accumulated weight of considerations which have not yet arisen to the level of consciousness, and all decisions ultimately require some basis in feeling.
+1.4.3.1.1.1. Pro: For instance, both positions depend upon the feeling that life is better than death, but this does not make them irrational.
+1.4.3.1.2. Pro: It is likely that it would feel wrong afterwards to have the choice to save five lives compared to saving one life, and not taking the opportunity.
+1.4.3.2. Con: -> See 1.1.2.2.3.1.2.1.
+1.4.3.3. Con: The feeling that it is different is wrong.
+1.4.3.4. Pro: This kind of feeling needs to be considered, as the decision not only impacts the people on the track, but also the one making the decision.
+1.4.3.5. Con: This feeling is not important; in either case, your decision will have killed one or five people.
+1.4.3.5.1. Pro: Although feelings influence behavior, they are not a basis for a moral argument, since they only act as an evolutionary heuristic for distinguishing preferable outcomes.
+1.4.3.5.1.1. Con: [Philosophers](https://repository.upenn.edu/cgi/viewcontent.cgi?article=3928&context=edissertations) and [scientists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3083636/) have long argued that feelings and emotions play an important role in moral decisions.
+1.4.3.5.2. Con: Feelings are an important motivation for people to act.
+1.4.3.6. Pro: Society overall seems to acknowledge the difference between the active imperilment of others vs. passive inaction.
+1.4.3.6.1. Pro: -> See 1.4.1.2.1.2.2.
+1.4.4. Con: Either decision will result in at least one person getting killed; thus either decision results in the death of one person.
+1.4.4.1. Con: The end result is not the important factor. Since we are not omniscient, we cannot rely on our actions having the desired outcome. We can only be responsible for actual actions and their intentions.
+1.4.4.1.1. Con: In the trolley problem, the end result of each action is known, and thus we can rely on our actions having the outcome that we know they will.
+1.4.4.1.2. Con: If one can choose for the five people to die and claim they only intended to save the one, then one can choose for the one person to die and claim that they only intended to save the five.
+1.4.4.1.3. Con: An action has no significance other than being a means of changing the way things are so as to change an outcome. Responsibility for actions is irrelevant if we don't care about the outcome.
+1.4.5. Con: -> See 1.1.2.2.3.1.2.1.
+1.4.6. Con: There is no moral distinction between killing and allowing to die when the motive and expected outcomes are the same. As such, we cannot distinguish activity and passivity here.
+1.4.6.1. Con: -> See 1.4.4.1.
+1.4.6.2. Con: In the [common law](https://en.wikipedia.org/wiki/Duty_to_rescue) of most English speaking countries, there is no legal obligation to rescue someone in peril, while there are many laws condemning murder. This indicates that these societies do not view rescuing someone to always be a moral obligation, nor do they put it on equal footing with murder.
+1.4.6.2.1. Con: Situations are rare in which one can rescue someone in peril with certainty, at negligible personal cost and at a strictly and clearly smaller total cost, and where nobody else can help. The law is written with more probable situations in mind, where bystanders trying to help out of a feeling of legal or moral obligation would do more harm than good.
+1.4.6.2.2. Con: There is a distinction between legal duty and moral duty. Even the first paragraph of the article cited [above](https://en.wikipedia.org/wiki/Duty_to_rescue) states that "this does not necessarily obviate a moral duty to rescue." Passivity may be legal, but that does not make it moral.
+1.4.6.2.3. Con: -> See 1.4.1.2.6.3.
+1.4.6.3. Con: The expected outcomes are not the same, as four more people die as a consequence of not pulling the lever.
+1.4.6.4. Con: Civilized societies \(especially those with governments\) absolutely must distinguish between active perpetration of evil and passively allowing evil, and they must systematically prefer the latter if they are to be called moral.
+1.4.6.4.1. Con: While society must distinguish between active evil and passive evil in order to enforce laws systematically, the individual should always choose good \(in this case, saving the greater number\) over any kind of evil.
+1.4.7. Con: We morally kill one group of people to save another group in wartime. Thus, being passive is not more moral than being active, since wars are sometimes moral.
+1.4.7.1. Con: Some people may agree that it would be moral to watch people perish in a fire that they did not themselves start. In cases of real fires, not every observer acts to save the victims or is liable to do so.
+1.4.7.2. Con: Many who would support fighting enemy combatants would find it morally objectionable to kill innocent enemy civilians, even if this would prevent more deaths overall.
+1.4.7.3. Pro: Killing and murder are not necessarily wrong.
+1.4.7.3.1. Pro: -> See 1.4.2.2.2.
+1.4.7.3.2. Con: While there exist variations and debates about what constitutes murder, it is considered a crime [across the world](https://en.wikipedia.org/wiki/Category:Murder_law_by_country).
+1.4.8. Con: In the United States, a criminal liability exists only when there is A\) an affirmative act or B\) an omission in regards to a legal duty. Failure to pull the level is not a crime unless it is your responsibility to do so because you were the conductor or official switch operator; legally required to do so. However, pulling the lever constitutes an affirmative action and is therefore murder.
+1.4.8.1. Con: Legality and criminal liability are not the same as something being \(morally\) "right" or "wrong".
+1.4.8.1.1. Con: Legality and morality are connected.
+1.4.8.1.1.1. Pro: In democracies, legislators can be voted out of office, e.g, if the laws they create violate the moral standards of the majority.
+1.4.9. Pro: -> See 1.4.7.3.2.
+1.4.10. Con: Remaining passive is like agreeing to kill four people.
+1.4.10.1. Pro: Being passive before preventable evil \(tragedy\) results in condoning the evil.
+1.4.10.1.1. Con: Choosing not to prevent an evil because it can only be prevented by committing a different evil does not constitute condoning evil.
+1.4.10.1.1.1. Pro: Pulling the lever would be directly participating in an evil, that of killing the one who would not otherwise die, so it cannot be said that someone who refuses to commit the evil of murder automatically supports the evil of the tragic death of the five.
+1.4.10.1.1.1.1. Con: Someone who does not pull the lever kills four more people than one who does. Therefore, he is four times responsible for preventable murder.
+1.4.10.1.1.1.1.1. Con: -> See 1.1.6.4.2.
+1.4.10.1.1.1.1.2. Con: -> See 1.4.1.2.1.2.2.
+1.4.10.1.1.2. Con: In both cases, death occurs, so pulling the lever is not committing a different evil, but minimizing damages.
+1.4.10.1.1.2.1. Con: The cause of death in the two instances is not equivalent, as in only one case does the bystander deliberately and willingly participate in the death of another human being.
+1.4.10.1.1.2.1.1. Con: Whether or not the bystander deliberately and willingly participates has no effect on a victim's experience of death or inability to continue existing, or the consequences thereof, which is the only evil in the dilemma.
+1.4.10.1.1.2.1.1.1. Con: About [150,000 people die](http://www.ecology.com/birth-death-rates/) a day as part of the natural cycle of life. While this is often considered evil in the sense of 'tragedy,' it is not generally considered to be a moral evil.
+1.4.10.1.1.2.1.1.1.1. Pro: The Italian philosopher [Giacomo Leopardi](https://en.wikipedia.org/wiki/Giacomo_Leopardi) [did not view death as evil](https://www.brainyquote.com/quotes/giacomo_leopardi_201223), for "it frees man from all ills and takes away his desires along with desire's rewards."
+1.4.10.1.1.2.1.1.1.2. Con: Natural death is not considered a moral evil because there is no better alternative, not because it is not bad. If one could extend a person's natural lifespan at no cost, it would be the right thing.
+1.4.10.1.1.2.1.1.1.2.1. Pro: People who believe that there is a pleasant or non-unpleasant afterlife generally believe that going to that afterlife is better than ceasing to exist.
+1.4.10.1.2. Pro: Doing nothing is the [only thing necessary for the triumph of evil](https://www.openculture.com/2016/03/edmund-burkeon-in-action.html).
+1.4.10.2. Con: Failure to rescue the five by killing a different person would not automatically mean the bystander agreed the deaths of the five were good or that the bystander thinks they should be killed.
+1.4.10.2.1. Con: With no good outcome, the bystander believes that the deaths of the five are better, and that they should die instead of the one.
+1.4.10.2.1.1. Con: In this particular scenario, the bystander can only save the five by killing the one, and so choosing not to murder does not reflect on his personal opinion about who, if any, is more deserving of death than anyone else.
+1.4.10.2.1.2. Pro: Because he cannot cause a positive outcome, the bystander has the moral obligation to select the least negative alternative.
+1.4.10.2.1.3. Pro: Because at least one person will die, choosing four deaths over one proves that the bystander egocentrically prefers avoiding involvement rather than maximizing life.
+1.4.10.2.1.3.1. Con: Human lives can't be added and substracted like that. It's not the same to save four people than to kill one and save five.
+1.4.10.2.1.3.1.1. Con: It's not the same to save four people as it is to save a different four people. The expected utility of each one is still the same.
+1.4.10.2.2. Pro: Some people, fearing moral and legal implications, would not dare pull the lever, even though they ideally prefer a single person's death.
+1.4.10.2.2.1. Pro: A person may not want responsibility for causing the death of a person.
+1.4.10.2.2.2. Pro: A person may fear the legal implications of pulling the lever, which they could otherwise avoid by avoiding any involvement.
+1.4.10.2.3. Con: Failing to do the right thing does not automatically mean that one thinks it was the wrong thing. That is not inconsistent with the claim that pulling the lever is the right thing.
+1.4.10.2.4. Pro: A person may not be able to decide which alternative he prefers before the cart kills the people.
+1.4.10.3. Pro: The bystander has the moral obligation to make a better choice than the random one of the lever.
+1.4.10.4. Pro: Being in a position of power over this situation places the responsibility of the outcome on your shoulders. Therefore, choosing to pull or not to pull the lever is equally your action.
+1.4.10.5. Con: You cannot passively cause something, it is already happening and you are passive about changing the situation.
+1.4.11. Pro: -> See 1.1.11.2.2.
+1.4.12. Pro: People should not kill innocent neighbors, as the general observance of this rule promotes the [overall happiness](https://www.iep.utm.edu/mill-eth/#H8) of a society.
+1.4.12.1. Con: The general observance of the rule "do not choose for innocent neighbours to die easily avoidable deaths unless the alternative is a larger number of deaths" promotes a greater amount of happiness.
+1.4.13. Con: Assisting or aiding would mean that your actions make it easier or more likely for somebody to die. But in this case, there is absolute certainty of somebody dying regardless of what you do.
+1.4.13.1. Con: People die all of the time, regardless of what we do. It would be an unreasonable conclusion to claim that we are all responsible for those deaths simply because we did not prevent them.
+1.4.13.1.1. Pro: It therefore seems that there is a difference in how responsible one is when directly committing an act versus when they merely fail to prevent it.
+1.4.13.1.2. Con: The people on the tracks will not die regardless of what you do. They will die if you choose the course of action that leads to their death\(s\). You are responsible for the deaths that you could have prevented that you did not prevent.
+1.4.14. Pro: This point is made even more clearer by asking \(as Judith Jarvis Thompson did in [Killing, Letting Die, and the Trolley Problem](https://learning.hccs.edu/faculty/david.poston/phil1301.80361/readings-for-march-31/JJ%20Thomson%20-%20Killing-%20Letting%20Die-%20and%20the%20Trolley%20Problem.pdf)\) if you are willing to push someone on to the track rather than just pull a lever.
+1.4.14.1. Con: The discussion of this possibility as distinct from the regular trolley problem serves only to introduce bias in the way we think through the initial scenario.
+1.4.14.1.1. Pro: The idea of pushing a large, conscious person off a bridge onto a trolley track to slow down the trolley is absurd, in that there are numerous obvious ways it could go wrong. This would make a reasonable utilitarian-minded person instinctively doubtful, even if the problem definition specifies that doing so is guaranteed to save five lives and you agree that saving the five lives is the right thing to do.
+1.4.14.1.2. Pro: The idea of pushing a man off a bridge brings one much closer to the one person and encourages a much more vivid and distinct imagining of their death compared to the deaths of the five.
+1.4.14.1.3. Pro: The modified trolley problem makes the action an act of violence, rather than merely changing the position of a switch. The thought of committing an act of violence should, and often will, make someone uncomfortable even if it is the right thing to do.
+1.4.14.1.4. Con: The thought experiment is meant to show the bias in our thinking in the original problem: pulling the lever seems correct only because we are a step removed from the act of killing the one.
+1.4.14.1.4.1. Con: That would only be true if there were no differences between the two scenarios except from removal from the act of killing the one, which is false.
+1.4.14.2. Pro: -> See 1.1.3.5.2.
+1.4.15. Pro: A human being is an end unto itself — individuals should never be treated as a means to an end. You shouldn't pull the lever because that makes one life a mere tool to save others.
+1.4.15.1. Con: There are many situations in which humans do become a means to an end.
+1.4.15.1.1. Pro: -> See 1.4.2.2.4.
+1.4.15.1.2. Pro: -> See 1.4.2.2.3.
+1.4.15.1.3. Con: We cannot derive an "ought" from an "is". Just because people do treat others merely as means to an end does not mean that they should. Kant claims that we can treat people as means to an end, but never merely as means – we have to treat them also as ends in and of themselves.
+1.4.15.1.3.1. Con: Here, we treat a person as a means for the goal of saving 5 people.
+1.4.15.1.4. Pro: In employment situations, both the employee and the employer are using the other as a means to their ends.
+1.4.15.1.5. Pro: A human that is used as a "tool to save others" is generally regarded as a hero.
+1.4.15.1.5.1. Pro: Martyrs are praised in most religions and cultures particularly because they died to save other lives.
+1.4.15.1.5.1.1. Pro: According to Christian tradition, Jesus [died](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus#Theological_significance) to save our lives.
+1.4.15.1.5.1.2. Pro: Dead soldiers are praised as martyrs of their countries for they died to free their people from oppression, saving lives.
+1.4.15.1.5.1.3. Pro: [The “Righteous”](https://en.m.wikipedia.org/wiki/Righteous_Among_the_Nations) that protected Jewish lives from Nazi oppression are [regarded as martyrs](https://en.m.wikipedia.org/wiki/Yad_Vashem) when they were caught and killed.
+1.4.15.1.5.2. Con: They are usually only regarded as a hero if they choose to sacrifice themselves. If the sacrifice is decided by a third party, that is not heroism, it is using an human life as a means to an end.
+1.4.15.1.5.2.1. Con: Soldiers may be forced to take risks, while their officers may choose to sacrifice them - and both will be looked upon as heroes. Similarly, as being on a track is a risk, both the bystander and the dead person should be logically looked upon as heroes.
+1.4.15.1.5.2.1.1. Pro: Inexperienced soldiers sent to the frontlines know they will die and be buried as heroes. This is because they were "used as tools" to enable the army to achieve victory.
+1.4.15.1.5.3. Pro: -> See 1.4.15.1.5.2.1.1.
+1.4.15.2. Pro: Human beings acting in their own right is what defines human dignity.
+1.4.15.2.1. Con: The humans on the track have an inability to act and therefore their fate is decided by an outside actor, who has the ability to control the circumstance. Therefore, the humans in question become objects to be acted upon rather than actors in their own right.
+1.4.15.3. Con: You are forced to make an active choice either way. You either actively choose to allow the one to die or actively choose to allow the others to die. Since both are active choices, people are being used in tools in both cases.
+1.4.15.4. Con: Any human being who puts society above their individual needs and sacrifices themselves to save others becomes a means to an end.
+1.4.15.4.1. Con: It is not immoral if an individual chooses to sacrifice themself, as they are entitled to make such decisions about their lives.
+1.4.15.5. Pro: The one would be treated as a means to an end if the bystander pulled the lever based on the perceived good consequences of the action, and not out of whether it was morally acceptable to kill the one [in and of itself](http://documents.routledge-interactive.s3.amazonaws.com/9781138793934/A22014/ethical_theories/Kant's%20deontological%20ethics.pdf).
+1.4.15.5.1. Pro: The one who would be treated solely as a means, as their humanity is not being upheld or confirmed: instead, their life is being judged as an 'acceptable loss'.
+1.4.15.5.2. Pro: -> See 1.1.12.
+1.4.15.6. Con: -> See 1.1.3.5.2.
+1.4.15.7. Con: Sacrificing five people to protect the idea that "individuals are not a means to an end" renders them a means to an end. Treating each human being as an end unto itself would mean caring first and foremost about human beings themselves, and choosing the end in which more human beings get to live.
+1.4.15.8. Con: It is meaningless to call a human a means to an end in this situation. If the trolley kills a person, in the "end" they are still dead. The matter at hand is whether the end in which one person dies is desirable compared to the end in which five people die. The only "means" to the end is the act of pulling the lever.
+1.4.15.9. Pro: Humans are [equipped with reason](https://pubmed.ncbi.nlm.nih.gov/21447233/). That makes them the master of their life.
+1.4.15.9.1. Con: Human beings can be the masters of many things that are not their own lives; being a master of something is about power, and if you have power over someone you can essentially be the master of their life.
+1.4.16. Con: You do not know any of the people involved. Thus you should not care at all and abstain from making the choice.
+1.4.16.1. Con: -> See 1.1.2.2.3.1.2.1.
+1.4.16.2. Con: Pulling the lever can lead to direct benefits.
+1.4.16.2.1. Pro: Society will acknowledge the rational person for saving five lives instead of one life.
+1.4.16.2.1.1. Pro: There is the potential to become a hero.
+1.4.16.2.1.1.1. Pro: Pulling the lever requires bravery and society acknowledges great courage.
+1.4.16.2.1.1.1.1. Con: Pulling the lever takes no skill, no risk of personal loss, and only negligible effort. The only courage displayed is the courage to kill.
+1.4.16.2.1.1.1.2. Pro: Research [indicates that](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935291.001.0001/oxfordhb-9780199935291-e-36) the presence of bravery is linked to increased resilience, which is [appreciated by society](https://www.immi.se/intercultural/nr11/gunnestad.htm).
+1.4.16.2.1.1.2. Con: As the [majority](http://healthland.time.com/2011/12/05/would-you-kill-one-person-to-save-five-new-research-on-a-classic-debate/) of people would act this way, no one would feel it was especially heroic.
+1.4.16.2.1.1.2.1. Con: The study cited is based on a virtual-reality technology test. Such a test is hardly adequate to simulate a real-life scenario.
+1.4.16.2.1.1.3. Con: While those who agree would see the choice as obvious, not heroic, those who disagree would see the act as cruel and view you as a murderer.
+1.4.16.2.1.1.3.1. Con: The fact that a choice is obviously right does not mean that making the choice is not heroic.
+1.4.16.2.1.1.3.1.1. Pro: People consistently and almost reliably fail to do things which are obviously the right thing to do. This makes the people who choose to do such things the rare exception, and thus eligible for recognition as heroes.
+1.4.16.2.1.1.4. Con: There is no reason to become a hero. Heroes do not necessarily have happier lives.
+1.4.16.2.1.1.4.1. Pro: Heroes often receive unwelcome attention, such as when the presence of paparazzi limits their personal freedom.
+1.4.16.2.1.1.4.2. Con: The reason to become a hero is to contribute positively to society and inspire others to do the same.
+1.4.16.2.1.1.4.2.1. Pro: Many [popular heroes](http://historysheroes.e2bn.org/heroes/suggested) made enormous contributions to the progress of humankind.
+1.4.16.2.1.1.5. Pro: Five voices, rather than just one, can speak in support of your decision.
+1.4.16.2.1.1.5.1. Pro: TV broadcasters are [interested in getting diverse views](https://books.openedition.org/ceup/2184?lang=en) instead of repeating the same story over and over again.
+1.4.16.2.1.1.5.1.1. Con: Bad news tends to [dominate](http://www.bbc.com/future/story/20140728-why-is-all-the-news-bad) the headlines. News about a hero who saves five people will not get as much attention as news about someone who makes a calculated decision to kill a single person.
+1.4.16.2.1.1.5.1.1.1. Con: In this case, the stories are tied together - one cannot be reported without reporting the other.
+1.4.16.2.1.1.5.2. Con: There is no guarantee that the five would agree with the choice to save them.
+1.4.16.2.1.1.5.3. Con: Each positive voice will be tempered by the knowledge that this act was accomplished by the taking of an innocent life.
+1.4.16.2.1.2. Pro: [Statistics are very powerful](https://courses.lumenlearning.com/boundless-communications/chapter/using-statistics/) and it is easy to argue that saving five over one is the better choice.
+1.4.16.2.1.3. Pro: -> See 1.4.16.2.1.1.5.
+1.4.16.2.1.4. Con: The family and friends of the person killed will not acknowledge you for being rational, but call you a murderer.
+1.4.16.2.1.4.1. Con: If the family and friends of the other five people know you didn't pull the lever when you could, then they may also see you as a murderer and not rational.
+1.4.16.2.1.4.2. Con: The family and friends of any person on the tracks are still people, and are capable of having opinions on the trolley problem. People can and do accept personal loss when it is consistent with their moral views.
+1.4.16.2.1.5. Con: Not everyone believes pulling the lever is the right answer. If the answer was so easy, this scenario would not be such a famous moral dilemma.
+1.4.16.2.1.6. Con: There are laws that prohibit the killing of an innocent person when they do not threaten the lives of others. Society, acting in the interest of preserving lives, may react with harsh punishment for taking an innocent life.
+1.4.16.2.2. Pro: Five people will be eternally thankful.
+1.4.16.2.2.1. Pro: The people who were saved also have family members and friends that would also be thankful if the lever was pulled to save them.
+1.4.16.2.2.2. Con: It is not known whether any of them will be thankful. It is possible that one or many of them would grieve the loss of the one who was killed.
+1.4.16.2.2.3. Con: Those who know of, or loved the person who died would likely be very remorseful, rather than grateful, which has a greater impact than gratitude.
+1.4.16.2.2.3.1. Con: Other people's remorse isn't likely to affect you the way that people who were there being grateful to you personally for saving them would.
+1.4.16.2.2.4. Con: The involvement of more people doesn't mean that it's more important. Numbers shouldn't define importance.
+1.4.16.2.2.5. Con: Receiving gratitude is nice in the short term, but has no long-lasting positive effect on the life of the person who pulled the lever.
+1.4.16.2.2.5.1. Con: The positive effect of pulling the lever is better than no positive effect of not pulling the lever.
+1.4.16.2.3. Pro: After the crash there is only one body to take care of, and five more people who can be of assistance.
+1.4.16.2.3.1. Con: The hassle of removing dead bodies should not be a serious consideration in choosing who dies in the first place.
+1.4.16.2.3.1.1. Con: Cleaning up is a negative side effect.
+1.4.16.2.3.2. Pro: There will be less clean-up work.
+1.4.16.2.3.2.1. Con: The person pulling the lever is probably not the one cleaning up later on.
+1.4.16.2.3.3. Pro: Giving first aid to one person is less work to do.
+1.4.16.2.3.3.1. Con: If neither of these five people are able to administer first aid, their presence is unlikely to be helpful.
+1.4.16.2.3.3.1.1. Pro: Most Americans are [not confident in their first aid skills](https://www.ishn.com/articles/110133-most-americans-not-confident-about-first-aid-skills).
+1.4.16.2.3.3.2. Con: There will not be any need for first aid in either case. Being run over by the train in the scenario is a lethal injury.
+1.4.16.2.3.3.2.1. Con: First aid is obligatory. Even just checking if it might be necessary is more of a hazard with five rather than one person.
+1.4.16.2.4. Con: Pulling the lever increases the severity of legal charges.
+1.4.16.2.4.1. Con: -> See 1.4.1.2.1.
+1.4.16.2.4.2. Pro: Pulling the lever is an act of [manslaughter](https://www.nolo.com/legal-encyclopedia/homicide-murder-manslaughter-32637-2.html).
+1.4.16.2.4.2.1. Con: However the manslaughter could legally be justified as emergency assistance for the other five people.
+1.4.16.2.4.2.1.1. Con: Killing another human cannot be emergency assistance. It is manslaughter anyway.
+1.4.16.2.4.2.1.2. Pro: -> See 1.4.1.2.1.2.1.
+1.4.16.2.4.2.2. Pro: The punishment for manslaughter could be imprisonment for life, which is a harsh punishment. \([p. 1](https://www.sentencingcouncil.org.uk/wp-content/uploads/FINAL-Manslaughter-sentencing-leaflet-for-web1.pdf)\)
+1.4.16.2.5. Con: Making a decision that will result in the death of others out of self-interest is immoral because it prioritizes your self-interest.
+1.4.16.2.5.1. Con: Any person that puts society above their own individual needs would choose to pull the lever.
+1.4.16.2.5.1.1. Con: The person who would die if the bystander pulls the lever is part of the same society that the bystander is weighing.
+1.4.16.2.5.1.2. Con: The bystander might not find that society's needs are best met by citizens taking deliberate actions that will directly lead to death or injury based on their own reasoning, and so decline to pull the lever.
+1.4.16.2.5.2. Con: The decision has been reached from utilitarian considerations rather than considerations of self-interest.
+1.4.16.2.5.3. Con: Self-interest is not a concern, because the potential victims's importance is uniform.
+1.4.16.2.5.4. Pro: While not pulling the lever would be unrelated to self interest, pulling the lever would be ras the bystander would take a deliberate action based in his own reasoning of what is best.
+1.4.16.2.6. Pro: Five people who are saved once the lever is pulled would be inclined to affect the world more positively.
+1.4.16.2.6.1. Con: It is not necessarily straightforward to predict that the five people saved will make a more positive contribution to the world compared to the one that was killed.
+1.4.16.2.6.1.1. Pro: By way of a flawed analogy, which still highlights the idea: giving $1 to 10,000 people, versus giving $10,000 to 1 person. The latter is probably the better investment.
+1.4.16.2.6.1.1.1. Con: Having one's life saved by more lives is not better than by fewer lives - what matters is being alive. Having more money is better than having less money.
+1.4.16.2.6.2. Pro: It is likely that either of these five people will work towards making society a better place out of gratitude.
+1.4.16.2.6.3. Pro: As opposed to this, a single survivor is likely to have [survivor's guilt](https://en.wikipedia.org/wiki/Survivor_guilt) knowing that five people died for him.
+1.4.16.2.6.3.1. Pro: -> See 1.1.2.2.6.2.
+1.4.16.2.6.4. Pro: They can have more children that are in turn more likely to find the meaning of life.
+1.4.16.2.6.4.1. Con: -> See 1.1.16.3.
+1.4.16.2.7. Pro: You can be acknowledged to have taken active agency in lives of six people; their existence or non-existence now follows from your direct actions.
+1.4.16.2.8. Con: -> See 1.1.2.2.3.1.
+1.4.16.3. Con: -> See 1.4.1.2.1.
+1.4.16.4. Con: As soon as someone recognizes their ability to change the situation \(e.g. by standing next to the lever\) they are somewhat responsible for the outcomes.
+1.4.16.4.1. Pro: By observing the scenario you become involved in it whether you want to or not.
+1.4.16.4.2. Pro: The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) assumes that all persons would wish to be rescued if they were in distress, and so they should in turn rescue those in distress to the best of their abilities.
+1.4.16.4.2.1. Con: If you were the one person, you would want to sacrifice the other five people, and vice versa.
+1.4.16.4.2.1.1. Con: People are capable of acting selflessly, even to the extreme of sacrificing their own lives so that others might live.
+1.4.16.4.2.2. Pro: Because each person has a greater chance of ending up on the main track than on the side track, each person would presumably agree to throw the switch in the event they were to find themself in this position.
+1.4.16.4.2.2.1. Pro: If your parent was on the tracks, but you didn't know which track they were on, you would ignore any moral opposition you might have to pulling the lever in order to maximize the chances of saving your parent.
+1.4.16.4.2.2.1.1. Con: If the bystanders parents' did not believe that murder is acceptable, even to save their own life or others, then the bystander might choose not to pull the lever in honor of his/her parent's wishes.
+1.4.16.4.2.2.1.2. Con: If the bystander believed that his [moral duty](http://www.bbc.co.uk/ethics/introduction/duty_1.shtml) was to do the right thing regardless of consequences, that is, to only take an action if that action would be right in and of itself with no other considerations such as other lives saved, then he would not pull the lever even to save his own parents.
+1.4.16.4.2.2.1.3. Pro: By pulling the lever you reduce the chance of your parent getting killed by 67%.
+1.4.16.4.2.2.2. Pro: If all seven participants were asked what action they would prefer, knowing that they would be put into this scenario but unaware of where they would be, they would likely opt to kill only one person.
+1.4.16.4.2.2.2.1. Pro: This framing scenario most neatly applies the [original position](https://en.wikipedia.org/wiki/Veil_of_ignorance) framework to a situation which might otherwise be inconclusive. The fact that being hit by the trolley will inevitably be visited on someone means that it can be seen as simultaneously just and utilitarian to pull the lever.
+1.4.16.4.2.2.2.2. Con: People's instinct towards self-preservation is not a good foundation for an ethical judgement.
+1.4.16.4.2.2.2.2.1. Con: Given that the participants are considering their self-interest without knowing their circumstances within the scenario, their ultimate decision is one that they all see as just, independent of what happens to them \([4.10](https://plato.stanford.edu/entries/rawls/#OriPosPolCon)\).
+1.4.16.4.2.2.2.3. Con: As long as the experiment is not made a sufficient number of times, it is just impossible to assume that nobody would choose not to put the lever - and that these persons would be wrong.
+1.4.16.4.2.2.3. Con: It is highly problematic to apply statistical analysis to moral issues simply because moral values cannot be mathematically equated.
+1.4.16.4.2.2.3.1. Con: Applying the veil of ignorance is not mathematical or cold reasoning: instead, it is a heuristic to identify the most rational answer to moral questions.
+1.4.16.4.2.2.3.1.1. Pro: The veil ignorance what everyone would do and agree on if the problem concerned their own lives.
+1.4.16.4.2.2.3.2. Con: There is no better framework than mathematics and statistics to make any kind of judgement in these situations.
+1.4.16.4.2.2.3.3. Con: Every modern society treats lives as somehow measurable and behaves accordingly.
+1.4.16.4.2.2.3.3.1. Pro: -> See 1.1.5.1.2.
+1.4.16.4.2.2.3.3.2. Pro: -> See 1.1.5.1.1.
+1.4.16.4.2.2.3.4. Con: Rolling a dice would give every individual a fair and equal chance of survival.
+1.4.16.4.2.2.3.4.1. Con: People don't usually carry dice with themselves, and with the emergency of the trolley situation, there is no time to think about an alternative to rolling a die.
+1.4.16.4.2.2.3.4.1.1. Con: People have already thought of alternatives to dices. The time between reading this discussion and finding oneself in a trolley problem is probably sufficient to find and choose such an alternative.
+1.4.16.4.2.2.3.4.1.1.1. Pro: [Dice phone apps](https://www.google.ca/search?ei=AW2XWtrCCdPTjgTPt42wDQ&q=dice+phone+apps&oq=dice+phone+apps&gs_l=psy-ab.3..0.13563.16705.0.16804.23.17.4.1.1.0.138.1317.8j6.14.0....0...1c.1.64.psy-ab..4.19.1331...0i67k1j0i131k1j0i131i67k1j0i22i10i30k1j0i22i30k1.0.muAgpBL71as) can produce random numbers even faster than rolling an actual die.
+1.4.16.4.2.2.3.4.1.2. Con: -> See 1.1.3.2.2.3.2.
+1.4.16.4.2.2.3.4.2. Con: Regardless of if every individual's wishes are equally valued, if you pull the lever you are being the agent who is deciding to use a person as a means to an end. The decision being considered ultimately 'better' is without the consent of the person who is being used as a means.
+1.4.16.4.2.2.3.4.2.1. Con: By rolling a die you are effectively making yourself a non-agent, as your action, to pull or not to pull, will be entirely random.
+1.4.16.4.2.2.3.4.2.1.1. Con: Since the bystander assigns five of the die numbers to pulling the lever and only one to abstaining, he does not become a non-agent but rather deliberately distributes the probability in order to give each individual person an equal 'chance' at life. The agency is in the assignment of the numbers by the bystander.
+1.4.16.4.2.2.3.4.2.1.1.1. Pro: It is not obvious nor universally agreed that every person has an equal right to life.
+1.4.16.4.2.2.3.4.2.1.1.1.1. Con: It is obvious that, if there is nothing differentiating two things \(in this case, a person on the first track and the person on the second\), it is wrong to prefer a specific one over another.
+1.4.16.4.2.2.3.4.3. Con: Applying the same logic to the situation where there are equal numbers of people on each track \(or even more people on the side track\), neither deontologists nor utilitarians would choose to actively kill more people, but your advice would have us do so.
+1.4.16.4.2.2.3.4.3.1. Con: If there are five people on each track, you'd roll a ten-sided die or flip a coin. If there are M and N people on each side, assign M/\(M+N\) to not pulling the lever and N/\(M+N\) to pulling the lever.
+1.4.16.4.2.2.3.4.3.1.1. Con: If M\>N, then this does create the possibility that one will pull the lever and kill more people.
+1.4.16.4.2.2.3.4.4. Pro: A non-deterministic choice has the advantage that everyone will get a timeline in which they are alive.
+1.4.16.4.2.2.3.4.4.1. Con: The result of a dice roll is a consequence of the physical state of the thrower, the die, and the environment - not quantum randomness that would imply a different timeline for each possibility. It is only random insofar as a person cannot throw a die and predict how it will land before it does, or intentionally make some numbers more likely than others.
+1.4.16.4.2.2.3.4.4.1.1. Pro: If there is enough quantum randomness to affect the result of a dice roll such that all six numbers are possible, there is probably enough quantum randomness to affect an undecided person's choice to pull the lever or not.
+1.4.16.4.2.2.3.4.4.2. Con: Individuals don't "get" timelines. Each consciousness is only conscious of one timeline. The promise of everyone "getting" a timeline in which "they" are alive is of no value.
+1.4.16.4.2.2.3.4.4.3. Con: The many worlds interpretation is only one of multiple interpretations of uncertainty in quantum mechanics.
+1.4.16.4.2.2.3.4.5. Pro: For example, if the dice lands on 1-5, then the bystander would pull the lever. If the dice lands on 6, then the bystander would not pull.
+1.4.16.4.2.2.3.4.5.1. Con: You can calculate the expected number of lives saved under this alternative. It is 1*1/6 + 5*5/6 = 26/6 = 4.333 lives saved on average. This is less than 5. So, while it gives an alternative of saving 1, 4.33 or 5 lives it is not better than 5 for those answering 'pull' and makes no difference to argument for those arguing 'don't pull'.
+1.4.16.4.2.2.3.5. Pro: -> See 1.1.5.4.2.1.
+1.4.16.4.3. Pro: People have a duty to rescue other people in distress by virtue of their common humanity.
+1.4.16.4.3.1. Con: There is no obligation to care for others.
+1.4.16.4.3.1.1. Pro: We cannot be sure that others do not want to hurt us or rob us.
+1.4.16.4.3.1.1.1. Con: We cannot be sure that the five people are billionaires who would reward us handsomely for saving their lives., It is not correct to introduce extra information into the scenario, because then we are not debating the same scenario anymore.1.4.16.4.3.1.1.2. Con: The potential reactions of others are irrelevant to the question of whether one has an obligation to commit some act.
+1.4.16.4.3.1.1.3. Pro: Since human beings are selfish, it is likely that they will prioritize their own interests over others.
+1.4.16.4.3.1.1.3.1. Pro: [Researchers have found that](https://www.scientificamerican.com/article/are-people-naturally-inclined-to-cooperate-or-be-selfish/) being selfish for humans is more advantageous than being cooperative.
+1.4.16.4.3.1.2. Pro: It makes no difference to your own life whether five people or one person dies.
+1.4.16.4.3.1.2.1. Pro: -> See 1.1.2.2.2.5.
+1.4.16.4.3.1.2.2. Con: The moral of the movie ["The Box"](https://en.wikipedia.org/wiki/The_Box_\(2009_film\)), which explores a similar scenario, is that through a cascade of effects, your decision that affects someone unrelated to you ripples down and eventually affects you regardless.
+1.4.16.4.3.1.2.2.1. Con: The events of a scripted movie do not, by mere virtue of being what happens in that movie, tell us anything about the probability of something happening in real life.
+1.4.16.4.3.1.3. Con: Even if there is no strict obligation, there is a moral imperative.
+1.4.16.4.3.1.3.1. Pro: You are in a unique position to save lives without major personal cost, it is immoral to do nothing.
+1.4.16.4.3.1.3.2. Con: There is no moral imperative to kill.
+1.4.16.4.3.1.4. Con: Correct. Nevertheless, this type of response renders the entire argument meaningless \(even for the sake of argument!\), because there is no obligation to "care" for anything in life. Hence such arguments should be omitted, and the reasonable premise "saving more lives is better than saving fewer on average" should be accepted.
+1.4.16.4.3.1.5. Con: If such an obligation did not exist, societies would find it difficult to exist.
+1.4.16.4.3.1.5.1. Pro: As a member of the society and the human race, it is our obligation to be concerned about the welfare of others.
+1.4.16.4.3.1.5.2. Con: Capitalist societies, in which people [rarely care about others](https://www.frontiersin.org/articles/10.3389/fsoc.2018.00044/full), are [thriving](https://www.bushcenter.org/catalyst/capitalism/lawson-capitalism-is-winning-around-the-world.html).
+1.4.16.4.4. Con: It is not possible for an individual to become involved in solving every problem for which they recognize their ability to effect change, so it is not reasonable to hold an individual responsible every time they fail to act in a situation where they could effect change.
+1.4.16.4.4.1. Con: The moral standard of "rightness" does not have to be "possible" or attainable.
+1.4.16.4.4.2. Con: The time, energy, and resources needed to intervene in this situation are limited, and are unlikely to have better payout if used differently \(4 lives saved / ~10 seconds of effort\).
+1.4.16.5. Pro: Humans do not change their actions even though they know they cause death and destruction to others.
+1.4.16.5.1. Pro: Humans keep buying products that have grave social and environmental costs.
+1.4.16.5.1.1. Pro: People constantly buy new clothing even though the environmental impact of the [fashion industry](https://www.environmentalleader.com/2014/10/assessing-the-environmental-impact-of-the-fashion-world/) is massive.
+1.4.16.5.1.1.1. Con: Many people are [now giving up fast fashion](https://www.thecut.com/2019/01/what-i-learned-when-i-gave-up-fast-fashion.html) to reduce their environmental impact.
+1.4.16.5.1.2. Pro: Even though climate change costs is expected to cost around [250,000](http://www.who.int/mediacentre/factsheets/fs266/en/) lives per year, humans keep accelerating climate change.
+1.4.16.5.1.3. Con: -> See discussion #2015: The market share of [fair trade products](https://www.theguardian.com/global-development/2014/sep/03/global-fair-trade-sales-reach-4-billion-following-15-per-cent-growth-2013) is rapidly growing. This is making consumption better.
+1.4.16.5.1.4. Pro: [Conspicuous consumption](https://en.wikipedia.org/wiki/Conspicuous_consumption) encourages us to buy products we do not need.
+1.4.16.5.2. Pro: At the end of the day everybody looks for their own benefits and wants to gain the most in exchange for preferably little money.
+1.4.16.5.2.1. Con: Many people donate to charity. In the US alone, the average family gives nearly [$3000](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) per year.
+1.4.16.5.2.2. Con: -> See 1.4.16.5.1.3.
+1.4.16.5.2.3. Con: Many engage in volunteer work. In the US alone, nearly [63 million](https://www.bls.gov/news.release/volun.nr0.htm) people volunteered in 2015.
+1.4.16.5.3. Con: Such an argument has nothing to do with what is correct, but is merely an unfounded and speculative generalization of what most likely would happen.
+1.4.16.5.4. Con: There are countless examples of humans who have not only changed their course of action to avoid causing death and destruction, but also they have done so at the cost of their own lives.
+1.4.16.5.5. Con: To show but one person who does not act this way invalidates this argument. This is a gross exaggeration that bares absolutely no truth but for a small minority of people. You would have to go to great lengths to find any way to support this notion that all humans act in one homogenous manner to the detriment of all others.
+1.4.16.5.6. Con: Even in looking out for our own best interests, we have come to realize that cooperation and compassion often result in a bigger payout: it serves our best interest to care. Without need for morality, it can be shown that people will appear to be altruistic and therefore choose not to act in a way that causes death and destruction.
+1.4.16.5.7. Con: Just because most humans act this way it does not mean that doing so is morally correct. Changing existing habits takes a long time.
+1.4.16.6. Pro: -> See 1.4.16.4.3.1.
+1.4.16.7. Con: Everyone should care about other people's lives, especially when they have an opportunity to save lives.
+1.4.16.8. Con: Knowing someone is not a prerequisite for helping them.
+1.4.16.9. Con: If no one were to care about people, the world would be a much worse place than it is now.
+1.4.16.9.1. Con: If everyone pursued only their own interests, and disregarded others, it would make the world more meritocratic.
+1.4.16.9.1.1. Pro: The selfish pursuit of self-improvement will produce individuals with the best possible skills, as people would be required to do that or perish when others do it better than them.
+1.4.16.9.1.2. Con: If everyone strove only for their own personal good it will lead to a world full of envy and greed; a world that does not care for vulnerable people such as the elderly, disabled, or sick.
+1.4.16.9.1.3. Con: In a world in which various forms of disadvantage limit the ability of many to achieve their true potential, having everyone be blind to the needs of others would lead to a less meritocratic world because it removes the various forms of assistance that free those who are disadvantaged to compete meritocratically.
+1.4.16.9.1.4. Con: It is better to make the world better for more people than to make it more meritocratic.
+1.4.16.9.1.5. Pro: If everybody cares for themselves and achieves their own goals, society as a whole will benefit through the effects of the [invisible hand](https://en.wikipedia.org/wiki/Invisible_hand).
+1.4.16.9.2. Pro: Altruism and philanthropy are significant features that make life more enjoyable and more valuable.
+1.4.16.9.3. Con: Some people care too much. Many conflicts are motivated by feelings like revenge, etc. If people did not care, there would be less conflict and less grief.
+1.4.16.9.3.1. Con: Revenge is selfish, caused by people caring too much about their personal feelings of injustice and not caring enough about other people, not by people caring too much about other people.
+1.5. Pro: You should pull the lever because a world where people are willing to sacrifice one person to save five is a safer world to live in overall.
+1.5.1. Pro: -> See 1.4.16.4.2.2.
+1.5.2. Con: Such a world would be less safe, as it would follow a general rule that the few could be sacrificed or killed, without their consent, for the perceived benefit of the majority.
+1.5.2.1. Con: A society that refuses to pull the lever would, by the same reasoning, hold to a general rule that the innocent many could be sacrificed without their consent for the perceived benefit of the minority, which is less safe.
+1.5.2.2. Pro: It also creates the model for a society in which it's acceptable to kill for the 'greater good' and that greater good is subjective for each individual – this is potentially dangerous.
+1.5.2.2.1. Con: Allowing people to kill for reasons other than saving a greater number of lives than the next-best alternative would be analogous to refusing to pull the lever when nobody is on the second track.
+1.5.2.2.2. Pro: Individuals in such a society would live in the perpetual fear that they might be sacrificed without warning or recourse by any other citizen who thought it would save more lives.
+1.5.2.2.2.1. Con: This fear is irrational, as the individuals are more likely to be one of the "more lives" saved by those citizens than one of the lives sacrificed. Irrational fears do not negate the benefit of fewer lives lost.
+1.5.2.2.2.1.1. Pro: There are [treatments for irrational fears](https://www.mayoclinic.org/diseases-conditions/specific-phobias/diagnosis-treatment/drc-20355162).
+1.5.2.2.2.2. Con: The probability of finding oneself in a trolley-problem-like situation is tiny. Individuals generally don't live in perpetual fear of small risks to their lives.
+1.5.2.3. Con: In most societies, if a plane hijacked by terrorists was about to fly into a city and wreck havoc, the military would shoot it down. \([p. 114](https://ir.stthomas.edu/cgi/viewcontent.cgi?article=1135&context=ustjlpp)\)
+1.5.2.3.1. Con: No [hijacked civilian plane](https://en.wikipedia.org/wiki/List_of_aircraft_hijackings) has ever been shot down by the military of a country solely for being hijacked.
+1.5.2.3.1.1. Con: Former U.S. President George W. Bush [authorized](https://www.telegraph.co.uk/news/worldnews/northamerica/usa/1340788/Bush-ordered-airliner-to-be-shot-down.html) the military to shoot down hijacked flight 93 if it was absolutely necessary.
+1.5.2.3.1.1.1. Con: Flight 93 crashed due to the passengers intervening, so the military did not have to shoot it down. As such, flight 93 only shows the theoretical possibility of a country's military shooting down a hijacked plane in the future.
+1.5.2.3.1.1.1.1. Con: One doesn't have to show proof that it has happened, one just needs proof that in the case where it could happen, it will happen.
+1.5.2.4. Pro: Situations like that of the trolley problem allow the right to commit evil via inaction than to perpetrate evil directly. Such a society is likely to reject the [presumption of innocence in criminal proceedings](https://www.fairtrials.org/presumption-innocence).
+1.5.2.4.1. Con: The presumption of innocence has positive utility. If a society prefers pulling the lever because its goal is to maximize utility, then it will uphold the presumption of innocence, not reject it.
+1.5.2.4.1.1. Pro: Convicting an innocent person always causes the evil of harming the convict, but acquitting a guilty person does not always cause the evil of the criminal re-offending.
+1.5.2.4.1.2. Pro: For cases which are a matter of determining who committed the crime, convicting an innocent person makes it less likely that the real criminal will be caught.
+1.5.2.4.1.3. Pro: For cases which are a matter of determining whether or not a crime occurred, the rate of false accusations would increase if the accused were presumed guilty until proven innocent.
+1.5.2.4.1.4. Pro: It is much easier to prove beyond reasonable doubt that a person committed a crime than to prove beyond reasonable doubt that they did not.
+1.5.2.4.1.4.1. Pro: Forensic evidence can prove that a [person was present at a crime scene or did something there](https://pressbooks.bccampus.ca/criminalinvestigation/chapter/chapter-10-forensic-sciences/). It cannot prove that a person was not present or did not do a certain thing.
+1.5.2.4.1.4.2. Pro: In the current system, [prosecutors generally have more resources than defense attorneys](https://journals.openedition.org/droitcultures/1580?lang=en).
+1.5.2.4.1.4.3. Pro: People already tend to presume guilt on an emotional level. Corroborating this emotional feeling is easier than overriding it.
+1.5.2.5. Con: This assumes that the people on the first track are consenting or non-innocent, which they are not, or that the perception that they benefit from the lever being pulled might be mistaken, which it isn't.
+1.5.3. Con: -> See 1.4.12.
+1.5.4. Con: This is true only if the all people are equal and have equal intentions. If, for example, the five have conspired to manipulate the driver into killing the one, then your decision is way trickier.
+1.5.4.1. Con: It does not follow that if the five are conspiring to kill the one then it is better to kill all five of them than to kill the one.
+1.5.4.1.1. Pro: Execution is not a just punishment for attempted murder.
+1.5.4.1.2. Pro: The life of a person who would commit murder is intrinsically worth just as much as any other person's life.
+1.5.4.2. Pro: In Thompson's [full article](https://www.jstor.org/stable/796133?seq=1), there are many examples where the five people could be worth less to society than the one.
+1.6. Con: The trolley problem does not provide enough information to determine whether or not one should pull the lever.
+1.6.1. Con: If the bystander is unsure of what to do, they should make the decision based on some heuristic. A heuristic which approximates the correct solution is better than the heuristic that one should do nothing.
+1.6.1.1. Con: Taking no action is also an attempt to do the right thing. Involving yourself in a situation isn't necessarily more beneficial than not.
+1.6.1.2. Pro: Trusting one's gut feeling is better than not doing anything when in doubt.
+1.6.1.2.1. Con: Gut feelings may lead to wrong actions.
+1.6.1.2.1.1. Con: Anything you do while unsure may lead to wrong actions or inactions. If there were a course of action that could never be wrong, the bystander would not be unsure. That an approach *may* be wrong is thus a poor reason to dismiss it.
+1.6.1.3. Pro: Moral rules, like those regarding the importance of maximizing utility are heuristics of this sort. As such, they should be used to make this decision.
+1.6.2. Con: General moral rules must still apply to cases where agents have insufficient information.
+1.6.2.1. Pro: Often, the hardest moral dilemmas we face are ones where do not have insufficient information. In these cases, we are still obliged to act, as in the trolley problem.
+1.6.3. Pro: The trolley problem scenario does not provide enough information about the potential victims.
+1.6.3.1. Pro: The hypothesis does not inform us about the significance of human life. If humans are mostly bad, it would be best to let more die.
+1.6.3.1.1. Con: It is the opinion of most people that the value of an average person's life is strictly positive. This is not something that one can be informed of.
+1.6.3.1.2. Con: To kill a villain before he did anything bad is wrong.
+1.6.3.1.2.1. Pro: -> See 1.1.2.6.2.
+1.6.3.1.3. Pro: Considering the state of affairs in the world and history, human beings are mostly bad.
+1.6.3.1.3.1. Pro: -> See discussion #16560: The world would be better without humans.
+1.6.3.1.4. Con: In order to evaluate the goodness of an individual or outcome, one must make a claim about the significance of human life.
+1.6.3.1.4.1. Pro: If it is best to let more humans die, then a great villain who kills many humans would be a good thing.
+1.6.3.2. Pro: -> See 1.1.16.3.
+1.6.4. Pro: The trolley problem scenario does not provide enough information about the repercussions of pulling or not pulling the lever.
+1.6.4.1. Pro: Train and trolley tracks are complex systems. It is irresponsible and, therefore, unethical to interfere with complex systems that you do not fully understand.
+1.6.4.1.1. Con: We know that if we pull the lever, the five people on the default path will be saved while the one on the alternate track will die.
+1.6.4.1.2. Con: In extreme or unusual circumstances, it can be beneficial, and commonly accepted as moral, for individuals without full knowledge of a system to intervene.
+1.6.4.1.3. Pro: A hypothetical situation where you perceive all information and make a decision, is never going to occur in real-life.
+1.6.4.1.3.1. Pro: If you change the track but later learn that there were automatic brakes on the previous track, stopping the trolley when it sees an obstacle, you killed someone to save no-one.
+1.6.4.1.3.1.1. Pro: Self-driving cars under [development](https://techcrunch.com/2017/11/07/renault-shows-off-self-driving-car-that-can-avoid-obstacles-as-well-as-pro-test-drivers/) have the capability to stop or turn when detecting an obstacle.
+1.6.4.1.3.1.1.1. Con: Cars have much lower inertia and are easier to stop on a short distance. With the same system on a train, it would take too much distance to stop, and kill the people anyway.
+1.6.4.1.3.1.2. Con: There is no way to stop a fast going train on a short distance without causing the train to derail, and/or passengers to die.
+1.6.4.1.3.1.3. Con: If you don't change the track but later learn that there were automatic brakes on the second track, you let five people die to save no one. This is just as likely and much worse.
+1.6.4.1.4. Con: There are people who do understand these systems. If they were to find themselves in this situation and determine that there are no additional problems with pulling or not pulling the lever, they would be faced with the same question.
+1.6.4.1.4.1. Con: From a statistical point of view, however, this scenario is extremely unlikely.
+1.6.4.1.4.1.1. Con: The trolley problem is already extremely unlikely. The probability of the situation occurring is not relevant in a discussion of what to do if it does.
+1.6.4.2. Pro: In the trolley problem, there is no guarantee that nothing bad will happen to the decision-maker, such as being charged with murder for pulling the lever.
+1.6.4.3. Con: We never truly understand what the indirect repercssions of any act we commit will be. If that is taken as a reason to not act, then it must follow that no action can be moral.
+1.6.4.3.1. Pro: Any small action can have [ripple effects](https://boomingencore.com/en/article/ripple-effect-you-may-never-know-who-you-may-impact) that cause repercussions one could never predict.
+1.7. Pro: 68% of professional philosophers would sacrifice the one person. In ethical questions, their opinion is a good guide \([p.16](https://philpapers.org/archive/BOUWDP)\).
+1.7.1. Pro: Professional philosophers have spent much more time thinking about morality and their opinions, therefore, should be considered to be 'more correct' than those of average people.
+1.7.1.1. Con: A theoretical understanding of something is not necessarily better than a practical understanding of that subject.
+1.7.1.1.1. Con: There is no such thing as a practical understanding of what it means for something to be right or wrong.
+1.7.1.2. Con: Philosophers may be prejudiced towards the opinion of the school of philosophy they support.
+1.7.1.2.1. Con: Philosophers [across](http://philpapers.org/archive/BOUWDP) different specialization agree that pulling the lever is the best decision. There seems to be no partisan schools.
+1.7.1.2.1.1. Pro: If the otherwise strongly competing schools converge, it gives authority that this result is carried by most of the schools who otherwise disagree on many subjects.
+1.7.1.3. Pro: Just as lawyers know more about legal problems and doctors know more about health-related problems, professional philosophers know more about philosophical problems.
+1.7.1.3.1. Con: Most professional philosophers would point out that the question doesn't demand an answer, it simply illustrates the difference between 'active' and 'passive' decisions.
+1.7.2. Pro: The solution to sacrifice one person in the trolley problem represents the third-highest level of consensus in the discipline.
+1.7.3. Con: [Appeals to authority](https://yourlogicalfallacyis.com/appeal-to-authority) are not useful in making moral determinations.
+1.7.3.1. Con: Statistical evidence of the opinions of experts does not merit the "appeal to authority" fallacy. The fallacy refers to when specific authorities may not represent a consensus within a field.
+1.7.3.1.1. Con: Truth is not a democracy. The reasoning behind their conclusions is what ought to be discussed.
+1.7.3.2. Pro: Appeals to authorities are not an adequate replacement for rigorous review of the logical soundness of one's argument.
+1.7.4. Con: Data from four [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259516/) has shown that people who voice willingness to pull the lever have no greater concern for the overall good of humanity.
+1.7.5. Con: Philosophers were presumably giving their personal view, rather than expressing the results of their research. Therefore, their answers should have no effect on our thinking here.
+1.7.5.1. Con: Professional philosophers' personal opinions on what the moral thing to do is in a situation will stem from their professional opinions on morality.
+1.7.5.1.1. Pro: Just as a doctor who knows that vaccines are safe and effective would certainly be vaccinated, and a mycologist who knows which types of mushrooms are poisonous would not eat the poisonous ones, a philosopher who has reached the conclusion that it would be wrong to pull the lever would not advocate pulling the lever.
+1.7.5.2. Pro: In their professional work, most philosophers tend not to try to answer the trolley problem, but to contemplate what the problem says about morality more generally.
+1.7.5.2.1. Pro: The original reason the trolley problem was posed was to help people realise that pure utilitarian arguments had limitations.
+1.7.5.2.1.1. Con: The pure utilitarian argument is in favour of pulling the lever. If this conclusion is correct, then the problem fails to show that pure utilitarian arguments have limitations. The only way it could argue against utilitarianism is if it argued that pulling the lever is wrong, which would constitute trying to answering the trolley problem.
+1.7.6. Pro: [Only 7.6%](https://philpapers.org/archive/BOUWDP) of the philosophers surveyed said they would not switch the lever.
+1.7.7. Con: Professional philosophers can be mistaken as well.
+1.7.7.1. Con: The chances that a professional philosopher will make an error are lower, given their intellect and training.
+1.7.7.2. Pro: Many philosophers held and attempted to justify [racist](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy) and sexist views.
+1.7.7.3. Pro: The famous Greek philosopher [Socrates](https://en.wikipedia.org/wiki/Socrates) observed: '[I know that I know nothing](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing)'.
+1.7.7.3.1. Con: Socrates said this to contrast himself against people who foolishly think they know that which they don't, thus more or less claiming to know better than other people.
+1.7.7.3.2. Con: To quote Socrates when questioning the authority of philosophers is contradictory.
+1.7.7.3.2.1. Con: If someone says they are not an authority on a subject, you should generally believe them.
+1.7.7.3.2.1.1. Pro: If you are not an authority, and the person in question doesn't know more than you, then they are not an authority. If they do know more than you, then they are in a better position to decide if they are an authority or not.

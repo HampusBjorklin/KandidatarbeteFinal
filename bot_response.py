@@ -82,16 +82,14 @@ def simliarity_scores(user_input, dataframe, tb):
         word_similarities.append(sim)
 
     triplet_similarities = []
-    user_words = user_input.split(' ')
-    if len(user_words) > 2:
-        triplets = word_triplet_list(user_input.lower())
-        claim_triplets = dataframe['word_triplets']
-        for c in claim_triplets:
-            for i in c:
-                if i in triplets:
-                    sim += 1
-            sim = sim/len(c)
-            triplet_similarities.append(sim)
+    triplets = word_triplet_list(user_input.lower())
+    claim_triplets = dataframe['word_triplets']
+    for c in claim_triplets:
+        for i in c:
+            if i in triplets:
+                sim += 1
+        sim = sim/len(c)
+        triplet_similarities.append(sim)
 
     dataframe['input_triplet_similarity'] = triplet_similarities
     dataframe['input_word_similarity'] = word_similarities

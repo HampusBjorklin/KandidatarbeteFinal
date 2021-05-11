@@ -13,11 +13,12 @@ def write_nothing(text):
 
 input_file = "rewritten_arguments.txt"
 print_in_out = True
-number_of_lines_to_check = 10
+number_of_lines_to_check = 199
 bot_response.print = write_nothing
 
-with open(input_file, 'r') as f:
-    inputs = f.readlines()
+f  = open('test_arg.txt', 'r')
+inputs = f.read().splitlines()
+
 outputs = []
 wrongs = []
 

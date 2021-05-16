@@ -8,7 +8,6 @@ from counterargument_db import create_dataframe
 from bert_encoding import bert_encoding
 from bot_response import counter_argument
 from text_cleaning import informative_words_list
-from sentiment_embedding import sentiment_model
 
 
 def check_folders():
@@ -31,7 +30,6 @@ def main():
     else:
         create_dataframe()
         dataframe = pd.read_pickle('Pickles/trolley.pkl')
-    tb = sentiment_model()
 
     # Start bot conversation...
     print('BOT: As a bot I am a terrible debater and always agree')
@@ -46,7 +44,7 @@ def main():
             print('BOT: Good talk')
             break
         else:
-            response = counter_argument(user_input, dataframe, tb)
+            response = counter_argument(user_input, dataframe)
             print('BOT: ' + response[1] + '\n' + response[0])
 
 

@@ -43,6 +43,15 @@ def clean_string(txt):
     clean_string = re.sub(' +', ' ', clean_string)
     return clean_string
 
+
+def cleaner_string(txt):
+    clean_string = txt
+    clean_string = re.sub('http://\S+|https://\S+', '', clean_string)
+    clean_string = re.sub("[^a-zA-Z0-9 '%]+", '', clean_string)
+    clean_string = re.sub(' +', ' ', clean_string)
+    return clean_string
+
+
 def synonym_words_list(word_list):
     synonyms = []
 
@@ -60,7 +69,7 @@ def informative_words_list(txt):
 
     for w in words:
         if w not in stop_words and w not in words_list:
-                words_list.append(w)
+            words_list.append(w)
 
     for w in words_list:
         synonym_words_list.append(w)
@@ -78,7 +87,8 @@ def informative_words_list(txt):
 
 
 def word_triplet_list(txt):
-    lst = txt.split(' ')
+    text = txt.lower()
+    lst = text.split(' ')
     triplets = []
     for n in range(len(lst)-2):
         trip = []
@@ -86,4 +96,3 @@ def word_triplet_list(txt):
         triplets.append(trip)
 
     return triplets
-

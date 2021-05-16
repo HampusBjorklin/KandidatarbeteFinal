@@ -894,4 +894,4 @@ It is not correct to introduce extra information into the scenario, because then
 1.7.7.3.1. Con: Socrates said this to contrast himself against people who foolishly think they know that which they don't, thus more or less claiming to know better than other people.
 1.7.7.3.2. Con: To quote Socrates when questioning the authority of philosophers is contradictory.
 1.7.7.3.2.1. Con: If someone says they are not an authority on a subject, you should generally believe them.
-1.7.7.3.2.1.1. Pro: If you are not an authority, and the person in question doesn't know more than you, then they are not an authority. If they do know more than you, then they are in a better position to decide if they are an authority or not
+1.7.7.3.2.1.1. Pro: If you are not an authority, and the person in question doesn't know more than you, then they are not an authority. If they do know more than you, then they are in a better position to decide if they are an authority or not€

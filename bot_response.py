@@ -9,50 +9,60 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 from sentence_transformers import SentenceTransformer
 from text_cleaning import informative_words_list, word_triplet_list
-from textblob import Blobber
+from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 
-agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ']
+agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ', 'Correct, ']
+disagree_list = ['Well yes, but ', '', 'Yes, however, ' '','', '', 'Ok Ok! but ']
+unsure_list = ["I'm sorry but i don't understand that", 'Please rephrase that', "I'm unsure what you mean by that"]
 
+def counter_argument(user_input, dataframe):
+    if len(user_input)<3:
+        return 'Im sorry but i dont really understand', 'No argument given'
 
-def counter_argument(user_input, dataframe, tb):
-    simliarity_scores(user_input, dataframe, tb)
+    simliarity_scores(user_input, dataframe)
     #Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
-    ran = random.randint(0, 4)
+    ran = random.randint(0, 5)
+    ran2 = random.randint(0,2)
 
-    print(dataframe.iloc[maxid].to_string(), '\n')
+    print(dataframe.iloc[maxid], '\n')
+
+    if dataframe.iloc[maxid]['total_similarity_score'] < 2.7:
+        return (unsure_list[ran2], " \n Identified parent claim: (unsure) " + \
+        dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
+
 
     if dataframe.iloc[maxid]['pro_arguments'] == "" and dataframe.iloc[maxid]['con_arguments'] == "":
-        return (agree_list[ran] + dataframe.iloc[maxid]['claim'], " \n Identified parent claim: (No pro/con arg) " + \
+        return (agree_list[ran] + dataframe.iloc[maxid]['claim'].lower(), " \n Identified parent claim: (No pro/con arg) " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
 
     # Return its argument...
     if dataframe.iloc[maxid]['input_bert_similarity'] <= 0.6:
         if dataframe.iloc[maxid]['pro_arguments'] == "":
-            return (agree_list[ran] + dataframe.iloc[maxid]['con_arguments'], " \n Identified parent claim: " + \
+            return (agree_list[ran] + dataframe.iloc[maxid]['con_arguments'].lower(), " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
-            return (dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + \
+            return (disagree_list[ran] + dataframe.iloc[maxid]['pro_arguments'].lower(), " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
     else:
         if dataframe.iloc[maxid]['con_arguments'] == "":
-            return (agree_list[ran] + dataframe.iloc[maxid]['pro_arguments'], " \n Identified parent claim: " + dataframe.iloc[maxid][
+            return (agree_list[ran] + dataframe.iloc[maxid]['pro_arguments'].lower(), " \n Identified parent claim: " + dataframe.iloc[maxid][
                 'claim'] + " [Similarity score] " + str(dataframe.iloc[maxid]['total_similarity_score']))
         else:
-            return (dataframe.iloc[maxid]['con_arguments'],  " \n Identified parent claim: " + \
+            return (disagree_list[ran] + dataframe.iloc[maxid]['con_arguments'].lower(),  " \n Identified parent claim: " + \
                    dataframe.iloc[maxid]['claim'] + " [Similarity score] " + str(
                 dataframe.iloc[maxid]['total_similarity_score']))
 
 
-def counter_argument_testing(user_input, dataframe, tb) -> int:
-    simliarity_scores(user_input, dataframe, tb)
+def counter_argument_testing(user_input, dataframe) -> int:
+    simliarity_scores(user_input, dataframe)
     # Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
     return maxid
 
 
-def simliarity_scores(user_input, dataframe, tb):
+def simliarity_scores(user_input, dataframe):
     # TODO, make bot smarter...
 
     # Use by google pretrained BERT-model to get similarity scores from all arguments...
@@ -64,7 +74,7 @@ def simliarity_scores(user_input, dataframe, tb):
     dataframe['input_bert_similarity'] = np.concatenate(bert_sim).tolist()
 
     claim_sentiment = np.array(dataframe['sentiment'].to_list())
-    input_sentiment = [tb(user_input).sentiment[1], tb(user_input).sentiment[2]]
+    input_sentiment = [TextBlob(user_input).sentiment[0], TextBlob(user_input).sentiment[1]]
     sentiment_sim = euclidean_distances(claim_sentiment, np.transpose(np.array(input_sentiment).reshape(-1, 1)))
     dataframe['input_sentiment_distance'] = np.concatenate(sentiment_sim).tolist()
 
@@ -83,8 +93,10 @@ def simliarity_scores(user_input, dataframe, tb):
 
     triplet_similarities = []
     triplets = word_triplet_list(user_input.lower())
+    print(triplets)
     claim_triplets = dataframe['word_triplets']
     for c in claim_triplets:
+        sim = 0
         for i in c:
             if i in triplets:
                 sim += 1
@@ -99,8 +111,8 @@ def simliarity_scores(user_input, dataframe, tb):
     return dataframe
 
 
-def eval_counter_argument(user_input, dataframe, tb):
-    simliarity_scores(user_input, dataframe, tb)
+def eval_counter_argument(user_input, dataframe):
+    simliarity_scores(user_input, dataframe)
     #Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
     return maxid

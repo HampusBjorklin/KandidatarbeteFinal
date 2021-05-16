@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 from os import listdir
 from os.path import isfile, join
-from text_cleaning import clean_string, informative_words_list, word_triplet_list
+from text_cleaning import clean_string, cleaner_string, informative_words_list, word_triplet_list
 from bert_encoding import bert_encoding
 from sentiment_embedding import sentiment_embedding
 
@@ -221,7 +221,7 @@ def create_dataframe():
         synonyms_tokens = []
         word_triplets = []
         for c in claims:
-            word_triplets.append(word_triplet_list(c))
+            word_triplets.append(word_triplet_list(cleaner_string(c)))
             tokens = informative_words_list(c)
             synonyms_tokens.append(tokens[1])
             word_tokens.append(tokens[0])

@@ -12,6 +12,7 @@ from text_cleaning import informative_words_list, word_triplet_list
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 
+
 agree_list = ['I agree! ', 'That\'s a good point... ', 'Touché! ', 'Yes! ', 'You\'re right. ', 'Correct, ']
 disagree_list = ['Well yes, but ', '', 'Yes, however, ' '','', '', 'Ok Ok! but ']
 unsure_list = ["I'm sorry but i don't understand that", 'Please rephrase that', "I'm unsure what you mean by that"]

@@ -29,6 +29,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
+
     if message.content.startswith('!'):
         user_input = message.content[1:]
         if '?' in message.content:

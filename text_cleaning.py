@@ -19,6 +19,7 @@ def argument_list(text_file):
 
     return arguments_list
 
+
 def clean_argument_list(text_file):
     # Imported text-file sometimes splits long arguments to multiple lines...
     arguments_list = text_file.splitlines()

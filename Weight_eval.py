@@ -9,6 +9,7 @@ dataframe = pd.read_pickle('Pickles/trolley.pkl')
 sum = 0
 inp = 'Many cops will make loads of choices regarding potential loss of life. If one has the policy of never chasing, it is not guaranteed that some lifes will be lost.'
 print(eval_counter_argument(inp, dataframe, tb1))
+
 '''
 for n, i in enumerate(test_arg):
     if eval_counter_argument(i,dataframe, tb1) == n:

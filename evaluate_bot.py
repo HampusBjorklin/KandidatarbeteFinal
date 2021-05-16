@@ -11,6 +11,7 @@ def write_nothing(text):
     pass
 
 
+
 input_file = "rewritten_arguments.txt"
 print_in_out = True
 number_of_lines_to_check = 199

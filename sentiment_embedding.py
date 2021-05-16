@@ -15,4 +15,5 @@ def sentiment_embedding(dataframe):
         sentiments.append(sentiment)
     dataframe['sentiment'] = sentiments
 
+
     return

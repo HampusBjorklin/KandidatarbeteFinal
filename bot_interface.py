@@ -7,7 +7,6 @@ import gensim
 import pandas as pd
 import queue
 import time
-
 from text_cleaning import argument_list
 from Skräp.create_model_test import create_model
 from counterargument_db import create_dataframe

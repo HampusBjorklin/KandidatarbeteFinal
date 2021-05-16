@@ -9,6 +9,7 @@ from bert_encoding import bert_encoding
 from sentiment_embedding import sentiment_embedding
 
 
+
 # Read .txt and save as pickled dataframe...
 # Get list of all files in directory
 def create_dataframe():

@@ -59,6 +59,7 @@ def counter_argument_testing(user_input, dataframe) -> int:
     simliarity_scores(user_input, dataframe)
     # Find index of argument most similar to input...
     maxid = dataframe['total_similarity_score'].idxmax()
+
     return maxid
 
 
